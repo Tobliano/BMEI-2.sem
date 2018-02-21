@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.20)  21 FEB 2018 09:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.20)  21 FEB 2018 10:42
 entering extended mode
 **./Alternative_methods.tex
 (Alternative_methods.tex
@@ -2369,11 +2369,11 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no [ in font nullfont!
-\citation{Zeidan2012}
+\citation{Grantb2012}
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.28 ...ness \cite{Zeidan2012,Zeidan2016,Tang2017}
+l.28 ...ness \cite{Grantb2012,Zeidan2016,Tang2017}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2382,14 +2382,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Zeidan2012' on page  undefined on input line 28.
+LaTeX Warning: Citation `Grantb2012' on page  undefined on input line 28.
 
 Missing character: There is no , in font nullfont!
 \citation{Zeidan2016}
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.28 ...ness \cite{Zeidan2012,Zeidan2016,Tang2017}
+l.28 ...ness \cite{Grantb2012,Zeidan2016,Tang2017}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2405,7 +2405,7 @@ Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.28 ...ness \cite{Zeidan2012,Zeidan2016,Tang2017}
+l.28 ...ness \cite{Grantb2012,Zeidan2016,Tang2017}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9913,10 +9913,10 @@ Overfull \hbox (5.43053pt too wide) in paragraph at lines 108--109
 
  
 Here is how much of TeX's memory you used:
- 26 strings out of 493307
- 503 string characters out of 3129750
+ 27 strings out of 493307
+ 515 string characters out of 3129750
  56824 words of memory out of 3000000
- 3678 multiletter control sequences out of 15000+200000
+ 3679 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  20i,4n,26p,815b,93s stack positions out of 5000i,500n,10000p,200000b,50000s
