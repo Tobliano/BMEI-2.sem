@@ -27,9 +27,6 @@
 \definecolor{aaublue}{RGB}{33,26,82}  %<--define aaublue
 \definecolor{white}{RGB}{255,255,255} %<--define white
 
-% ref stuffz
-\usepackage{cleveref}
-
 % The standard graphics inclusion package
 \usepackage{graphicx}
 
@@ -147,6 +144,8 @@
 \fancyfoot[LE,RO]{} %page number on all pages
 \fancyfoot[CE,CO]{}
 
+
+
 % change first page of all chapters header and footer to fancy style
 \makeatletter
 \let\ps@plain\ps@fancy
@@ -241,6 +240,11 @@
 	pdfstartview=FitH%
 }
 
+
+% ref stuffz
+\usepackage{cleveref}
+
+
 \crefname{appsec}{bilag}{bilag}
 %---------------------------------------------------
 
@@ -267,6 +271,7 @@
 \usepackage{textcomp}
 \definecolor{listinggray}{gray}{0.9}
 \definecolor{lbcolor}{rgb}{0.9,0.9,0.9}
+
 
 %for c code
 \lstdefinestyle{cstyle}{
@@ -421,3 +426,4 @@
 
 \usepackage{siunitx}
 \graphicspath{{./figures/}}
+
