@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  27 MAR 2018 09:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  27 MAR 2018 10:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3503,15 +3503,16 @@ the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.83 \end{titlepage}
-                     [1]) (./contents/xFormaliteter/forord.tex)
-(./statusseminar.toc)
+                     [1]) (./statusseminar.toc
+Package cleveref Info: loaded `english' language definitions on input line 3.
+)
 \tf@toc=\write5
 \openout5 = `statusseminar.toc'.
 
  [2
 
-
-] (./contents/background/Introduction.tex
+]
+(./contents/background/Introduction.tex
 Chapter 1.
 
 LaTeX Warning: Citation 'Briggs2010' on page 1 undefined on input line 3.
@@ -3561,29 +3562,16 @@ LaTeX Warning: Citation 'Zeidan2016' on page 1 undefined on input line 14.
 
 )
 Package cleveref Info: loaded `english' language definitions on input line 82.
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 82.
-
-[1
+ [1
 
 
 ]
+Package cleveref Info: loaded `english' language definitions on input line 82.
+ [2]
 Chapter 2.
-(./contents/background/Protocol.tex
-
-LaTeX Warning: Reference `sec:treatment' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Reference `sec:treatment' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Reference `sec:SOTA' on page 2 undefined on input line 11.
-
-
-LaTeX Warning: Reference `sec:SOTA' on page 2 undefined on input line 11.
-
+(./statusseminar/Protocol.tex
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 27.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -3600,31 +3588,29 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
 line 51.
-Package cleveref Info: loaded `english' language definitions on input line 54.
+Package cleveref Info: loaded `english' language definitions on input line 53.
+ [3
 
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 54.
-
-[2
-
-] <figures/studydesign.png, id=51, 743.77875pt x 193.72375pt>
+]
+<figures/studydesign.png, id=68, 743.77875pt x 193.72375pt>
 File: figures/studydesign.png Graphic file (type png)
 
 <use figures/studydesign.png>
 Package pdftex.def Info: figures/studydesign.png used on input line 64.
 (pdftex.def)             Requested size: 455.24411pt x 118.57628pt.
-Package cleveref Info: loaded `english' language definitions on input line 87.
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 87.
+LaTeX Warning: Reference `fig:trapezius' on page 4 undefined on input line 80.
 
-[3 <./figures/studydesign.png>]) (./statusseminar/futureplans.tex
+File: figures/studydesign.png Graphic file (type png)
+<use figures/studydesign.png>
+Package pdftex.def Info: figures/studydesign.png used on input line 83.
+(pdftex.def)             Requested size: 455.24411pt x 118.57628pt.
+Package cleveref Info: loaded `english' language definitions on input line 89.
+ [4 <./figures/studydesign.png>])
+(./statusseminar/futureplans.tex
 Package cleveref Info: loaded `english' language definitions on input line 1.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 1.
-
-[4]
+ [5]
 Chapter 3.
 )
 
@@ -3638,16 +3624,10 @@ See the caption package documentation for explanation.
 \openout6 = `statusseminar.thm'.
 
 
-Package lastpage Warning: Rerun to get the references right on input line 104.
-
-
 AED: lastpage setting LastPage
 Package cleveref Info: loaded `english' language definitions on input line 104.
 
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 104.
-
-[5
+[6
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
@@ -3662,9 +3642,6 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                statusseminar
 (biblatex)                and rerun LaTeX afterwards.
@@ -3674,13 +3651,13 @@ Package logreq Info: Writing requests to 'statusseminar.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46865 strings out of 493089
- 965498 string characters out of 6134843
- 1546439 words of memory out of 5000000
- 49569 multiletter control sequences out of 15000+600000
+ 46864 strings out of 493089
+ 965457 string characters out of 6134843
+ 1546543 words of memory out of 5000000
+ 49570 multiletter control sequences out of 15000+600000
  126431 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,22n,92p,10478b,2087s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,22n,92p,10478b,2078s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2015/
 texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2015/texmf-dist
@@ -3697,10 +3674,10 @@ ype1/public/lm/lmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 al/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2015/texm
 f-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on statusseminar.pdf (8 pages, 279919 bytes).
+Output written on statusseminar.pdf (9 pages, 280797 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
  87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
