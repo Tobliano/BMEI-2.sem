@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  27 MAR 2018 10:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  27 MAR 2018 10:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3599,15 +3599,14 @@ File: figures/studydesign.png Graphic file (type png)
 Package pdftex.def Info: figures/studydesign.png used on input line 64.
 (pdftex.def)             Requested size: 455.24411pt x 118.57628pt.
 
-
-LaTeX Warning: Reference `fig:trapezius' on page 4 undefined on input line 80.
-
-File: figures/studydesign.png Graphic file (type png)
-<use figures/studydesign.png>
-Package pdftex.def Info: figures/studydesign.png used on input line 83.
-(pdftex.def)             Requested size: 455.24411pt x 118.57628pt.
+<figures/trapezius.jpg, id=71, 1284.8pt x 722.7pt>
+File: figures/trapezius.jpg Graphic file (type jpg)
+ <use figures/trapezius.jpg>
+Package pdftex.def Info: figures/trapezius.jpg used on input line 83.
+(pdftex.def)             Requested size: 227.62206pt x 128.02927pt.
 Package cleveref Info: loaded `english' language definitions on input line 89.
- [4 <./figures/studydesign.png>])
+
+[4 <./figures/studydesign.png> <./figures/trapezius.jpg>])
 (./statusseminar/futureplans.tex
 Package cleveref Info: loaded `english' language definitions on input line 1.
  [5]
@@ -3642,6 +3641,9 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
 LaTeX Warning: There were undefined references.
 
 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                statusseminar
 (biblatex)                and rerun LaTeX afterwards.
@@ -3651,10 +3653,10 @@ Package logreq Info: Writing requests to 'statusseminar.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46864 strings out of 493089
- 965457 string characters out of 6134843
- 1546543 words of memory out of 5000000
- 49570 multiletter control sequences out of 15000+600000
+ 46869 strings out of 493089
+ 965554 string characters out of 6134843
+ 1546562 words of memory out of 5000000
+ 49573 multiletter control sequences out of 15000+600000
  126431 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,22n,92p,10478b,2078s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3674,10 +3676,10 @@ ype1/public/lm/lmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 al/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2015/texm
 f-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on statusseminar.pdf (9 pages, 280797 bytes).
+Output written on statusseminar.pdf (9 pages, 449190 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
+ 175 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
  21 named destinations out of 1000 (max. 500000)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
