@@ -2343,16 +2343,17 @@
     <bcf:citekey order="105">Cramer2012</bcf:citekey>
     <bcf:citekey order="106">Kabat1982</bcf:citekey>
     <bcf:citekey order="106">Chiesa2010</bcf:citekey>
-    <bcf:citekey order="107">Chiesa2010</bcf:citekey>
-    <bcf:citekey order="108">Zeidan2012</bcf:citekey>
-    <bcf:citekey order="109">Jacob2016</bcf:citekey>
-    <bcf:citekey order="109">Cherkin2016</bcf:citekey>
-    <bcf:citekey order="110">Rosenzweig2010</bcf:citekey>
-    <bcf:citekey order="111">Ussher2012</bcf:citekey>
+    <bcf:citekey order="107">Zeidan2012</bcf:citekey>
+    <bcf:citekey order="108">Chiesa2010</bcf:citekey>
+    <bcf:citekey order="109">Zeidan2012</bcf:citekey>
+    <bcf:citekey order="110">Jacob2016</bcf:citekey>
+    <bcf:citekey order="110">Cherkin2016</bcf:citekey>
+    <bcf:citekey order="111">Rosenzweig2010</bcf:citekey>
     <bcf:citekey order="112">Ussher2012</bcf:citekey>
-    <bcf:citekey order="113">Zeidan2012</bcf:citekey>
-    <bcf:citekey order="114">Chiesa2010</bcf:citekey>
-    <bcf:citekey order="115">Macfarlanea2016</bcf:citekey>
+    <bcf:citekey order="113">Ussher2012</bcf:citekey>
+    <bcf:citekey order="114">Zeidan2012</bcf:citekey>
+    <bcf:citekey order="115">Chiesa2010</bcf:citekey>
+    <bcf:citekey order="116">Macfarlanea2016</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none" type="entry" sortscheme="none">
   <bcf:sorting>
