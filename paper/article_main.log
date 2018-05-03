@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  1 MAY 2018 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  1 MAY 2018 13:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -818,16 +818,20 @@ Package natbib Warning: Citation `marcus2009' on page 1 undefined on input line
  5.
 
 
-Package natbib Warning: Citation `marcus2009' on page 1 undefined on input line
- 10.
+Package natbib Warning: Citation `Ziedan2016' on page 1 undefined on input line
+ 5.
 
-) (./methods.tex
-Underfull \vbox (badness 2393) has occurred while \output is active []
+
+Package natbib Warning: Citation `marcus2009' on page 1 undefined on input line
+ 7.
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]
+] (./methods.tex
 Underfull \hbox (badness 1199) in paragraph at lines 3--4
 \T1/pplx/m/n/10 (+20) were re-cruited (age: 2X$\OMS/zplm/m/n/10 ^^F$\T1/pplx/m/
 n/10 (+20) XX years, BMI:
@@ -846,10 +850,10 @@ LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
 File: ../figures/trapezius.jpg Graphic file (type jpg)
 
 <use ../figures/trapezius.jpg>
-Package pdftex.def Info: ../figures/trapezius.jpg used on input line 26.
+Package pdftex.def Info: ../figures/trapezius.jpg used on input line 25.
 (pdftex.def)             Requested size: 143.50098pt x 80.71027pt.
 
-Underfull \hbox (badness 1377) in paragraph at lines 35--36
+Underfull \hbox (badness 1377) in paragraph at lines 34--35
 \T1/pplx/m/n/10 (+20) To en-sure same med-i-ta-tion con-di-tions, a
  []
 
@@ -880,10 +884,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
 ### simple group (level 1) entered at line 123 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 10760 strings out of 493089
- 163862 string characters out of 6134843
+ 10761 strings out of 493089
+ 163874 string characters out of 6134843
  296565 words of memory out of 5000000
- 13800 multiletter control sequences out of 15000+600000
+ 13801 multiletter control sequences out of 15000+600000
  58981 words of font info for 227 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,10n,43p,1572b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -894,7 +898,7 @@ cal/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on article_main.pdf (3 pages, 272418 bytes).
+Output written on article_main.pdf (3 pages, 272482 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream
