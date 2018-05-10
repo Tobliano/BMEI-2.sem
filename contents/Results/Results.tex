@@ -100,9 +100,9 @@ As the sample size is small the Shapiro-Wilk is used for normality test. The p-v
 \color[HTML]{000000}{\textbf{Tolerance Post}}
  \\ \hline
 Treatment(21)&  &  & & \\ \hline
-Control(21)& 0.016  & 0.080* & 0.514*  & 0.155* \\ \hline
+Control(21)& 0.016  & 0.080* & 0.155*  & 0.514* \\ \hline
 Treatment(17)&  &  & & \\ \hline
-Control(17)& & & & \\ \hline
+Control(17)& 0.077* & 0.107* & 0.976* & 0.426* \\ \hline
 	\caption{Shapiro-Wilk Test for Normality for Threshold and Tolerance pre and post for treatment and control respectively. The asterisk indicate normality}
 	\label{tab:ShapiroWilk1}
 \end{longtable}
@@ -123,7 +123,7 @@ Not all subject (17) &  &  &   & \\ \hline
 \end{longtable}
 \vspace{-.5cm}
 
-If the p-values is below 0.05 make a post hoc test to see where the different are.
+If the p-values is below 0.05 make a post hoc test to see where the differences are.
 
 
 
@@ -137,26 +137,22 @@ As the sample size is small the Shapiro-Wilk is used for normality test. The p-v
 \color[HTML]{000000}{\textbf{Tolerance Difference}}  
  \\ \hline
 Treatment(21) &  &   \\ \hline
-Control(21) & 0.071*  & 0.393*  \\ \hline
+Control(21) & 0.233*  & 0.856*  \\ \hline
 Treatment(17) &  &   \\ \hline
-Control(17) & & \\ \hline
+Control(17) & 0.148* & 0.929* \\ \hline
 	\caption{Shapiro-Wilk Test for Normality for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}
 	\label{tab:ShapiroWilk2}
 \end{longtable}
 \vspace{-.5cm}
 
 Normal = T-test Not normal = Mann Whitney ..
-\begin{longtable} {l|c|c|c|c}
+\begin{longtable} {l|c|c}
  \rowcolor[HTML]{C0C0C0}  \color[HTML]{000000}{} & 
-   \color[HTML]{000000}{\textbf{Treshold Pre}} & 
-  \color[HTML]{000000}{\textbf{Threshold Post}} & 
-   \color[HTML]{000000}{\textbf{Tolerance Pre}} & 
-\color[HTML]{000000}{\textbf{Tolerance Post}}  
+   \color[HTML]{000000}{\textbf{Treshold Difference}} &  \color[HTML]{000000}{\textbf{Tolerance Difference}}  
  \\ \hline
-All subject (21) &  &  &   & \\ \hline
-Not all subject (17) &  &  &   & \\ \hline
-	\caption{Kruskal Wallis Test for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}
-	\label{tab:KruskalWallis}
+All subject (21) &  &  \\ \hline
+Not all subject (17) &  &  \\ \hline
+	\caption{T-test or Mann whitney for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}	\label{tab:T-test}
 \end{longtable}
 \vspace{-.5cm}
 
