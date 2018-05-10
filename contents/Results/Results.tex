@@ -35,13 +35,7 @@
 \end{longtable}
 \vspace{-.5cm}
 
-
-
-
 \section{Control}
-
-
-
 \begin{longtable} {l|c|c|c|c|c|c}
  \rowcolor[HTML]{C0C0C0} 
   \color[HTML]{000000}{} & 
@@ -76,7 +70,6 @@
 	\caption{Measured threshold before and after and tolerance before and after for the control group. Furthermore, is the percentage difference illustrated for both threshold and tolerance. The asterisk indicated that the tolerance was not representative.}
 	\label{tab:Control}
 \end{longtable}
-\vspace{-.5cm}
 
 
 
@@ -87,9 +80,83 @@
 \color[HTML]{000000}{\textbf{Threshold}} & \color[HTML]{000000}{\textbf{Tolerance}} 	\\  \rule{0pt}{3ex} 
 \cellcolor[HTML]{C0C0C0}{} &
  \cellcolor[HTML]{C0C0C0}{Difference [\%]} &  \cellcolor[HTML]{C0C0C0}{Difference [\%]} \\ \hline
-Treatment & &  \\ \hline
-Control & &  \\ \hline
+Treatment &  &  \\ \hline
+Control & 25.34 & 12.63  \\ \hline
 	\caption{Total}
 	\label{tab:Total}
 \end{longtable}
 \vspace{-.5cm}
+
+
+\section{Statistics}
+As the sample size is small the Shapiro-Wilk is used for normality test. The p-value should be above 0.05 to reject the null hypothesis. This is for ANOVA...
+
+\begin{longtable} {l|c|c|c|c}
+ \rowcolor[HTML]{C0C0C0} 
+   \color[HTML]{000000}{} & 
+  \color[HTML]{000000}{\textbf{Threshold Pre}} & 
+\color[HTML]{000000}{\textbf{Threshold Post}} &
+\color[HTML]{000000}{\textbf{Tolerance Pre}}  &
+\color[HTML]{000000}{\textbf{Tolerance Post}}
+ \\ \hline
+Treatment(21)&  &  & & \\ \hline
+Control(21)& 0.016  & 0.080* & 0.514*  & 0.155* \\ \hline
+Treatment(17)&  &  & & \\ \hline
+Control(17)& & & & \\ \hline
+	\caption{Shapiro-Wilk Test for Normality for Threshold and Tolerance pre and post for treatment and control respectively. The asterisk indicate normality}
+	\label{tab:ShapiroWilk1}
+\end{longtable}
+\vspace{-.5cm}
+
+As all data were not normally distributed a Kruskall wallis test was tested.
+\begin{longtable} {l|c|c|c|c}
+ \rowcolor[HTML]{C0C0C0}  \color[HTML]{000000}{} & 
+   \color[HTML]{000000}{\textbf{Treshold Pre}} & 
+  \color[HTML]{000000}{\textbf{Threshold Post}} & 
+   \color[HTML]{000000}{\textbf{Tolerance Pre}} & 
+\color[HTML]{000000}{\textbf{Tolerance Post}}  
+ \\ \hline
+All subject (21) &  &  &   & \\ \hline
+Not all subject (17) &  &  &   & \\ \hline
+	\caption{Kruskal Wallis Test for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}
+	\label{tab:KruskalWallis}
+\end{longtable}
+\vspace{-.5cm}
+
+If the p-values is below 0.05 make a post hoc test to see where the different are.
+
+
+
+
+As the sample size is small the Shapiro-Wilk is used for normality test. The p-value should be above 0.05 to reject the null hypothesis. This is for T-test...
+
+\begin{longtable} {l|c|c}
+ \rowcolor[HTML]{C0C0C0} 
+   \color[HTML]{000000}{} & 
+  \color[HTML]{000000}{\textbf{Threshold  Difference}} & 
+\color[HTML]{000000}{\textbf{Tolerance Difference}}  
+ \\ \hline
+Treatment(21) &  &   \\ \hline
+Control(21) & 0.071*  & 0.393*  \\ \hline
+Treatment(17) &  &   \\ \hline
+Control(17) & & \\ \hline
+	\caption{Shapiro-Wilk Test for Normality for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}
+	\label{tab:ShapiroWilk2}
+\end{longtable}
+\vspace{-.5cm}
+
+Normal = T-test Not normal = Mann Whitney ..
+\begin{longtable} {l|c|c|c|c}
+ \rowcolor[HTML]{C0C0C0}  \color[HTML]{000000}{} & 
+   \color[HTML]{000000}{\textbf{Treshold Pre}} & 
+  \color[HTML]{000000}{\textbf{Threshold Post}} & 
+   \color[HTML]{000000}{\textbf{Tolerance Pre}} & 
+\color[HTML]{000000}{\textbf{Tolerance Post}}  
+ \\ \hline
+All subject (21) &  &  &   & \\ \hline
+Not all subject (17) &  &  &   & \\ \hline
+	\caption{Kruskal Wallis Test for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}
+	\label{tab:KruskalWallis}
+\end{longtable}
+\vspace{-.5cm}
+

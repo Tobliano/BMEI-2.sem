@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  10 MAY 2018 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  10 MAY 2018 11:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,17 +1114,16 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.17 \#
-       T6* & 0.31 & 0.94   & 206.52 & 5.95 & 5.99 & 0.67 \\ \hline
+       T6 & 0.31 & 0.94   & 206.52 & 5.95 & 5.99 & 0.67 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no # in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no 6 in font nullfont!
-Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.17 \#T6* &
-             0.31 & 0.94   & 206.52 & 5.95 & 5.99 & 0.67 \\ \hline
+l.17 \#T6 &
+            0.31 & 0.94   & 206.52 & 5.95 & 5.99 & 0.67 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1137,8 +1136,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.17 \#T6* & 0.31 &
-                    0.94   & 206.52 & 5.95 & 5.99 & 0.67 \\ \hline
+l.17 \#T6 & 0.31 &
+                   0.94   & 206.52 & 5.95 & 5.99 & 0.67 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1151,8 +1150,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
-l.17 \#T6* & 0.31 & 0.94   &
-                             206.52 & 5.95 & 5.99 & 0.67 \\ \hline
+l.17 \#T6 & 0.31 & 0.94   &
+                            206.52 & 5.95 & 5.99 & 0.67 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1167,8 +1166,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.17 \#T6* & 0.31 & 0.94   & 206.52 &
-                                      5.95 & 5.99 & 0.67 \\ \hline
+l.17 \#T6 & 0.31 & 0.94   & 206.52 &
+                                     5.95 & 5.99 & 0.67 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1181,8 +1180,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.17 \#T6* & 0.31 & 0.94   & 206.52 & 5.95 &
-                                             5.99 & 0.67 \\ \hline
+l.17 \#T6 & 0.31 & 0.94   & 206.52 & 5.95 &
+                                            5.99 & 0.67 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1195,7 +1194,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 ! Misplaced alignment tab character &.
-l.17 ...* & 0.31 & 0.94   & 206.52 & 5.95 & 5.99 &
+l.17 \#T6 & 0.31 & 0.94   & 206.52 & 5.95 & 5.99 &
                                                    0.67 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1572,7 +1571,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.21 \#
-       T10* & 4.71 & 4.85  & 3.12 & 12.37  & 13.24 & 7.06 \\ \hline
+       T10 & 4.71 & 4.85  & 3.12 & 12.37*  & 13.24* & 7.06 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1580,10 +1579,9 @@ Missing character: There is no # in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.21 \#T10* &
-              4.71 & 4.85  & 3.12 & 12.37  & 13.24 & 7.06 \\ \hline
+l.21 \#T10 &
+             4.71 & 4.85  & 3.12 & 12.37*  & 13.24* & 7.06 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1596,8 +1594,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.21 \#T10* & 4.71 &
-                     4.85  & 3.12 & 12.37  & 13.24 & 7.06 \\ \hline
+l.21 \#T10 & 4.71 &
+                    4.85  & 3.12 & 12.37*  & 13.24* & 7.06 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1610,8 +1608,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.21 \#T10* & 4.71 & 4.85  &
-                             3.12 & 12.37  & 13.24 & 7.06 \\ \hline
+l.21 \#T10 & 4.71 & 4.85  &
+                            3.12 & 12.37*  & 13.24* & 7.06 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1624,8 +1622,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.21 \#T10* & 4.71 & 4.85  & 3.12 &
-                                    12.37  & 13.24 & 7.06 \\ \hline
+l.21 \#T10 & 4.71 & 4.85  & 3.12 &
+                                   12.37*  & 13.24* & 7.06 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1638,9 +1636,10 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 7 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.21 \#T10* & 4.71 & 4.85  & 3.12 & 12.37  &
-                                             13.24 & 7.06 \\ \hline
+l.21 \#T10 & 4.71 & 4.85  & 3.12 & 12.37*  &
+                                             13.24* & 7.06 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1653,8 +1652,9 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 4 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.21 ...* & 4.71 & 4.85  & 3.12 & 12.37  & 13.24 &
+l.21 ...& 4.71 & 4.85  & 3.12 & 12.37*  & 13.24* &
                                                    7.06 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1670,7 +1670,7 @@ Missing character: There is no 6 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.21 ...  & 3.12 & 12.37  & 13.24 & 7.06 \\ \hline
+l.21 ...& 3.12 & 12.37*  & 13.24* & 7.06 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2150,7 +2150,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.26 \#
-       T15* & 2.03 & 2.58 & 27.30 & 8.57 & 14.28 & 66.56 \\ \hline
+       T15 & 2.03 & 2.58 & 27.30 & 8.57* & 14.28* & 66.56 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2158,67 +2158,67 @@ Missing character: There is no # in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+! Misplaced alignment tab character &.
+l.26 \#T15 &
+             2.03 & 2.58 & 27.30 & 8.57* & 14.28* & 66.56 \\ \hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Misplaced alignment tab character &.
+l.26 \#T15 & 2.03 &
+                    2.58 & 27.30 & 8.57* & 14.28* & 66.56 \\ \hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+! Misplaced alignment tab character &.
+l.26 \#T15 & 2.03 & 2.58 &
+                           27.30 & 8.57* & 14.28* & 66.56 \\ \hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Misplaced alignment tab character &.
+l.26 \#T15 & 2.03 & 2.58 & 27.30 &
+                                   8.57* & 14.28* & 66.56 \\ \hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 7 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.26 \#T15* &
-              2.03 & 2.58 & 27.30 & 8.57 & 14.28 & 66.56 \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-! Misplaced alignment tab character &.
-l.26 \#T15* & 2.03 &
-                     2.58 & 27.30 & 8.57 & 14.28 & 66.56 \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-! Misplaced alignment tab character &.
-l.26 \#T15* & 2.03 & 2.58 &
-                            27.30 & 8.57 & 14.28 & 66.56 \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-! Misplaced alignment tab character &.
-l.26 \#T15* & 2.03 & 2.58 & 27.30 &
-                                    8.57 & 14.28 & 66.56 \\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-! Misplaced alignment tab character &.
-l.26 \#T15* & 2.03 & 2.58 & 27.30 & 8.57 &
-                                           14.28 & 66.56 \\ \hline
+l.26 \#T15 & 2.03 & 2.58 & 27.30 & 8.57* &
+                                           14.28* & 66.56 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2231,8 +2231,9 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 8 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.26 \#T15* & 2.03 & 2.58 & 27.30 & 8.57 & 14.28 &
+l.26 ...5 & 2.03 & 2.58 & 27.30 & 8.57* & 14.28* &
                                                    66.56 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2249,7 +2250,7 @@ Missing character: There is no 6 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.26 ...8 & 27.30 & 8.57 & 14.28 & 66.56 \\ \hline
+l.26 ...& 27.30 & 8.57* & 14.28* & 66.56 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2267,7 +2268,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.27 \#
-       T16* & 2.79 & 2.39 & -14.32 & 13.35 & 13.59 & 1.80 \\ \hline
+       T16 & 2.79 & 2.39 & -14.32 & 13.35* & 13.59* & 1.80 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2275,10 +2276,9 @@ Missing character: There is no # in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.27 \#T16* &
-              2.79 & 2.39 & -14.32 & 13.35 & 13.59 & 1.80 \\ \hline
+l.27 \#T16 &
+             2.79 & 2.39 & -14.32 & 13.35* & 13.59* & 1.80 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2291,8 +2291,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 ! Misplaced alignment tab character &.
-l.27 \#T16* & 2.79 &
-                     2.39 & -14.32 & 13.35 & 13.59 & 1.80 \\ \hline
+l.27 \#T16 & 2.79 &
+                    2.39 & -14.32 & 13.35* & 13.59* & 1.80 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2305,8 +2305,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 ! Misplaced alignment tab character &.
-l.27 \#T16* & 2.79 & 2.39 &
-                            -14.32 & 13.35 & 13.59 & 1.80 \\ \hline
+l.27 \#T16 & 2.79 & 2.39 &
+                           -14.32 & 13.35* & 13.59* & 1.80 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2321,8 +2321,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.27 \#T16* & 2.79 & 2.39 & -14.32 &
-                                     13.35 & 13.59 & 1.80 \\ \hline
+l.27 \#T16 & 2.79 & 2.39 & -14.32 &
+                                    13.35* & 13.59* & 1.80 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2335,9 +2335,10 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.27 \#T16* & 2.79 & 2.39 & -14.32 & 13.35 &
-                                             13.59 & 1.80 \\ \hline
+l.27 \#T16 & 2.79 & 2.39 & -14.32 & 13.35* &
+                                             13.59* & 1.80 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2350,8 +2351,9 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 9 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.27 ...* & 2.79 & 2.39 & -14.32 & 13.35 & 13.59 &
+l.27 ...& 2.79 & 2.39 & -14.32 & 13.35* & 13.59* &
                                                    1.80 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2367,7 +2369,7 @@ Missing character: There is no 0 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.27 ... & -14.32 & 13.35 & 13.59 & 1.80 \\ \hline
+l.27 ... -14.32 & 13.35* & 13.59* & 1.80 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2502,7 +2504,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.29 \#
-       T18* & 2.16 & 1.98 & -8.33 & 8.38 & 11.93 & 42.32 \\ \hline
+       T18 & 2.16 & 1.98 & -8.33 & 8.38* & 11.93* & 42.32 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2510,10 +2512,9 @@ Missing character: There is no # in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 8 in font nullfont!
-Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.29 \#T18* &
-              2.16 & 1.98 & -8.33 & 8.38 & 11.93 & 42.32 \\ \hline
+l.29 \#T18 &
+             2.16 & 1.98 & -8.33 & 8.38* & 11.93* & 42.32 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2526,8 +2527,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
-l.29 \#T18* & 2.16 &
-                     1.98 & -8.33 & 8.38 & 11.93 & 42.32 \\ \hline
+l.29 \#T18 & 2.16 &
+                    1.98 & -8.33 & 8.38* & 11.93* & 42.32 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2540,8 +2541,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 ! Misplaced alignment tab character &.
-l.29 \#T18* & 2.16 & 1.98 &
-                            -8.33 & 8.38 & 11.93 & 42.32 \\ \hline
+l.29 \#T18 & 2.16 & 1.98 &
+                           -8.33 & 8.38* & 11.93* & 42.32 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2555,8 +2556,8 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
-l.29 \#T18* & 2.16 & 1.98 & -8.33 &
-                                    8.38 & 11.93 & 42.32 \\ \hline
+l.29 \#T18 & 2.16 & 1.98 & -8.33 &
+                                   8.38* & 11.93* & 42.32 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2568,9 +2569,10 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 8 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.29 \#T18* & 2.16 & 1.98 & -8.33 & 8.38 &
-                                           11.93 & 42.32 \\ \hline
+l.29 \#T18 & 2.16 & 1.98 & -8.33 & 8.38* &
+                                           11.93* & 42.32 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2583,8 +2585,9 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 3 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.29 \#T18* & 2.16 & 1.98 & -8.33 & 8.38 & 11.93 &
+l.29 ...8 & 2.16 & 1.98 & -8.33 & 8.38* & 11.93* &
                                                    42.32 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2601,7 +2604,7 @@ Missing character: There is no 2 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.29 ...8 & -8.33 & 8.38 & 11.93 & 42.32 \\ \hline
+l.29 ...& -8.33 & 8.38* & 11.93* & 42.32 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2910,7 +2913,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.33 	\caption
-              {Treatment. The asterisk indicated that the tolerance was not ...
+              {Measured threshold before and after and tolerance before and ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2922,13 +2925,76 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 	\caption{T
-                reatment. The asterisk indicated that the tolerance was not ...
+l.33 	\caption{M
+                easured threshold before and after and tolerance before and ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -2937,6 +3003,88 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2994,6 +3142,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: \begin{document} ended by \end{longtable}.
 
@@ -4020,7 +4169,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.59 \#
-       C5 & 2.01 	& 4.73 	& 	134.77	& 11.46		& 13.77 & 20.19		\\ \hline
+       C5 & 2.01 	& 4.73 	& 	134.77	& 11.46* 	& 13.77* & 20.19		\\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -4029,7 +4178,7 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
 l.59 \#C5 &
-            2.01 	& 4.73 	& 	134.77	& 11.46		& 13.77 & 20.19		\\ \hline
+            2.01 	& 4.73 	& 	134.77	& 11.46* 	& 13.77* & 20.19		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4043,7 +4192,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.59 \#C5 & 2.01 	&
-                    4.73 	& 	134.77	& 11.46		& 13.77 & 20.19		\\ \hline
+                    4.73 	& 	134.77	& 11.46* 	& 13.77* & 20.19		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4057,7 +4206,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 l.59 \#C5 & 2.01 	& 4.73 	&
-                            	134.77	& 11.46		& 13.77 & 20.19		\\ \hline
+                            	134.77	& 11.46* 	& 13.77* & 20.19		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4073,7 +4222,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 ! Misplaced alignment tab character &.
 l.59 \#C5 & 2.01 	& 4.73 	& 	134.77	&
-                                      11.46		& 13.77 & 20.19		\\ \hline
+                                      11.46* 	& 13.77* & 20.19		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4086,9 +4235,10 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 6 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.59 \#C5 & 2.01 	& 4.73 	& 	134.77	& 11.46		&
-                                               13.77 & 20.19		\\ \hline
+l.59 \#C5 & 2.01 	& 4.73 	& 	134.77	& 11.46* 	&
+                                                13.77* & 20.19		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4101,8 +4251,9 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 7 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.59 ...2.01 	& 4.73 	& 	134.77	& 11.46		& 13.77 &
+l.59 ...01 	& 4.73 	& 	134.77	& 11.46* 	& 13.77* &
                                                    20.19		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4119,7 +4270,7 @@ Missing character: There is no 9 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.59 ...134.77	& 11.46		& 13.77 & 20.19		\\ \hline
+l.59 ...4.77	& 11.46* 	& 13.77* & 20.19		\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -4137,7 +4288,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.60 \#
-       C6 & 2.60 	& 3.45	& 	32.56		& 7.85	& 14.05 & 79.01		\\ \hline
+       C6 & 2.60 	& 3.45	& 	32.56		& 7.85*	& 14.05 & 79.01		\\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -4146,7 +4297,7 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
 l.60 \#C6 &
-            2.60 	& 3.45	& 	32.56		& 7.85	& 14.05 & 79.01		\\ \hline
+            2.60 	& 3.45	& 	32.56		& 7.85*	& 14.05 & 79.01		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4160,7 +4311,7 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.60 \#C6 & 2.60 	&
-                    3.45	& 	32.56		& 7.85	& 14.05 & 79.01		\\ \hline
+                    3.45	& 	32.56		& 7.85*	& 14.05 & 79.01		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4174,7 +4325,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
 l.60 \#C6 & 2.60 	& 3.45	&
-                           	32.56		& 7.85	& 14.05 & 79.01		\\ \hline
+                           	32.56		& 7.85*	& 14.05 & 79.01		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4189,7 +4340,7 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
 l.60 \#C6 & 2.60 	& 3.45	& 	32.56		&
-                                     7.85	& 14.05 & 79.01		\\ \hline
+                                     7.85*	& 14.05 & 79.01		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4201,9 +4352,10 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.60 \#C6 & 2.60 	& 3.45	& 	32.56		& 7.85	&
-                                            14.05 & 79.01		\\ \hline
+l.60 \#C6 & 2.60 	& 3.45	& 	32.56		& 7.85*	&
+                                             14.05 & 79.01		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4217,7 +4369,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.60 ... & 2.60 	& 3.45	& 	32.56		& 7.85	& 14.05 &
+l.60 ...& 2.60 	& 3.45	& 	32.56		& 7.85*	& 14.05 &
                                                    79.01		\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4234,7 +4386,7 @@ Missing character: There is no 1 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.60 ... 	32.56		& 7.85	& 14.05 & 79.01		\\ \hline
+l.60 ...	32.56		& 7.85*	& 14.05 & 79.01		\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -4592,7 +4744,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.64 \#
-       C10 & 4.61 & 6.80	& 	47.61		& 12.85	& 10.65 & -17.17 \\ \hline
+       C10 & 4.61 & 6.80	& 	47.61		& 12.85*	& 10.65* & -17.17 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -4602,7 +4754,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.64 \#C10 &
-             4.61 & 6.80	& 	47.61		& 12.85	& 10.65 & -17.17 \\ \hline
+             4.61 & 6.80	& 	47.61		& 12.85*	& 10.65* & -17.17 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4616,7 +4768,7 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.64 \#C10 & 4.61 &
-                    6.80	& 	47.61		& 12.85	& 10.65 & -17.17 \\ \hline
+                    6.80	& 	47.61		& 12.85*	& 10.65* & -17.17 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4630,7 +4782,7 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.64 \#C10 & 4.61 & 6.80	&
-                           	47.61		& 12.85	& 10.65 & -17.17 \\ \hline
+                           	47.61		& 12.85*	& 10.65* & -17.17 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4645,7 +4797,7 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.64 \#C10 & 4.61 & 6.80	& 	47.61		&
-                                     12.85	& 10.65 & -17.17 \\ \hline
+                                     12.85*	& 10.65* & -17.17 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4658,9 +4810,10 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.64 \#C10 & 4.61 & 6.80	& 	47.61		& 12.85	&
-                                             10.65 & -17.17 \\ \hline
+l.64 \#C10 & 4.61 & 6.80	& 	47.61		& 12.85*	&
+                                              10.65* & -17.17 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -4673,8 +4826,9 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 5 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.64 ... & 4.61 & 6.80	& 	47.61		& 12.85	& 10.65 &
+l.64 ... 4.61 & 6.80	& 	47.61		& 12.85*	& 10.65* &
                                                    -17.17 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4692,7 +4846,7 @@ Missing character: There is no 7 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.64 ...	47.61		& 12.85	& 10.65 & -17.17 \\ \hline
+l.64 ...7.61		& 12.85*	& 10.65* & -17.17 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -5630,7 +5784,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.73 \#
-       C19 & 5.58 & 2.36 & 	-39.78 & 18.17 & 14.39 & -20.81 \\ \hline
+       C19 & 5.58 & 2.36 & 	-39.78 & 18.17* & 14.39* & -20.81 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -5640,7 +5794,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 ! Misplaced alignment tab character &.
 l.73 \#C19 &
-             5.58 & 2.36 & 	-39.78 & 18.17 & 14.39 & -20.81 \\ \hline
+             5.58 & 2.36 & 	-39.78 & 18.17* & 14.39* & -20.81 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -5654,7 +5808,7 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 ! Misplaced alignment tab character &.
 l.73 \#C19 & 5.58 &
-                    2.36 & 	-39.78 & 18.17 & 14.39 & -20.81 \\ \hline
+                    2.36 & 	-39.78 & 18.17* & 14.39* & -20.81 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -5668,7 +5822,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
 l.73 \#C19 & 5.58 & 2.36 &
-                           	-39.78 & 18.17 & 14.39 & -20.81 \\ \hline
+                           	-39.78 & 18.17* & 14.39* & -20.81 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -5684,7 +5838,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 ! Misplaced alignment tab character &.
 l.73 \#C19 & 5.58 & 2.36 & 	-39.78 &
-                                     18.17 & 14.39 & -20.81 \\ \hline
+                                     18.17* & 14.39* & -20.81 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -5697,9 +5851,10 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 7 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.73 \#C19 & 5.58 & 2.36 & 	-39.78 & 18.17 &
-                                             14.39 & -20.81 \\ \hline
+l.73 \#C19 & 5.58 & 2.36 & 	-39.78 & 18.17* &
+                                              14.39* & -20.81 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -5712,8 +5867,9 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 9 in font nullfont!
+Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.73 ... & 5.58 & 2.36 & 	-39.78 & 18.17 & 14.39 &
+l.73 ... 5.58 & 2.36 & 	-39.78 & 18.17* & 14.39* &
                                                    -20.81 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5731,7 +5887,7 @@ Missing character: There is no 1 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.73 ...	-39.78 & 18.17 & 14.39 & -20.81 \\ \hline
+l.73 ...39.78 & 18.17* & 14.39* & -20.81 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -5980,7 +6136,8 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.76 	\caption
-              {Control}
+              {Measured threshold before and after and tolerance before and ...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -5991,18 +6148,222 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.76 	\caption{C
-                ontrol}
+l.76 	\caption{M
+                easured threshold before and after and tolerance before and ...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no C in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: \begin{document} ended by \end{longtable}.
 
@@ -6324,7 +6685,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.90 T
-      reatment & &  \\ \hline
+      reatment &  &  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -6339,7 +6700,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
 l.90 Treatment &
-                 &  \\ \hline
+                  &  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -6348,8 +6709,8 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.90 Treatment & &
-                    \\ \hline
+l.90 Treatment &  &
+                     \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -6360,8 +6721,8 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.90 Treatment & &  \\ \hline
-                             
+l.90 Treatment &  &  \\ \hline
+                              
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
@@ -6378,7 +6739,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.91 C
-      ontrol & &  \\ \hline
+      ontrol & 25.34 & 12.63  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -6391,7 +6752,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
 l.91 Control &
-               &  \\ \hline
+               25.34 & 12.63  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -6399,9 +6760,14 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
-l.91 Control & &
-                  \\ \hline
+l.91 Control & 25.34 &
+                       12.63  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -6409,11 +6775,16 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 3 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.91 Control & &  \\ \hline
-                           
+l.91 Control & 25.34 & 12.63  \\ \hline
+                                       
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
@@ -6478,5 +6849,5 @@ Here is how much of TeX's memory you used:
  3597 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 13i,1n,12p,164b,71s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 13i,1n,12p,270b,71s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
