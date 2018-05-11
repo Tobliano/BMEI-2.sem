@@ -1,4 +1,6 @@
-\section{Treatment}
+\section{Difference in Threshold and Tolerance}
+The mean of the threshold and tolerance before and after and the difference between these values for the treatment group and control group are illustrated in  \tabref{tab:Treatment} and \tabref{tab:Control} respectively. The standard deviation for these values is illustrated \tabref{tab:TreatmentA} and \tabref{tab:ControlA} in \autoref{sec:ThresTolA}. The tolerance for all subjects are not representative, as the examiner was not able to applied a valid force with the algometer. 
+
 \begin{longtable} {l|c|c|c|c|c|c}
  \rowcolor[HTML]{C0C0C0} 
   \color[HTML]{000000}{} & 
@@ -25,17 +27,16 @@
 \#T14 & 1.69 & 1.01 & -40.55 & 6.04 & 3.93 & -34.88 \\ \hline
 \#T15 & 2.03 & 2.58 & 27.30 & 8.57* & 14.28* & 66.56 \\ \hline
 \#T16 & 2.79 & 2.39 & -14.32 & 13.35* & 13.59* & 1.80 \\ \hline
-\#T17 & 3.24 & 2.76 & -14.81 & 11.75 & 11.77 & 0.11 \\ \hline
+\#T17 & 3.24 & 2.76 & -14.81 & 11.75 & 11.77* & 0.11 \\ \hline
 \#T18 & 2.16 & 1.98 & -8.33 & 8.38* & 11.93* & 42.32 \\ \hline
-\#T19 & 1.77 &  & &9.66 & &  \\ \hline
-\#T20 & 2.28 &  & & 7.20     & & \\ \hline
-\#T21 & 3.91 &  & & 7.18 & & \\ \hline
-	\caption{Measured threshold before and after and tolerance before and after for the treatment group. Furthermore, is the percentage difference for both threshold and tolerance illustrated. The asterisk indicated that the tolerance was not representative.}
+\#T19 & 1.77 & 2.10 & 18.42 & 9.66 & 10.91 & 12.87  \\ \hline
+\#T20 & 2.28 & 3.35 & 46.78 & 7.20  & 14.01* & 94.54 \\ \hline
+\#T21 & 3.91 &  3.82 & -2.22 & 7.18 & 10.58 & 47.35 \\ \hline
+	\caption{Threshold and tolerance before and after and the percentage difference between these values for the treatment group. The asterisk indicated that the tolerance was not representative.}
 	\label{tab:Treatment}
 \end{longtable}
 \vspace{-.5cm}
 
-\section{Control}
 \begin{longtable} {l|c|c|c|c|c|c}
  \rowcolor[HTML]{C0C0C0} 
   \color[HTML]{000000}{} & 
@@ -49,7 +50,7 @@
 \#C1 & 3.04	& 5.00	&	64.47	& 7.80	& 	12.07 &	54.79\\ \hline
 \#C2 & 1.85 	& 2.27	&	22.30	& 7.35	& 	9.45 & 28.68	\\ \hline
 \#C3 & 1.92 	& 1.81	&	-5.90	& 4.90	& 	4.32 & -11.84	\\ \hline
-\#C4 & 1.93 	& 2.09	&	7,93		& 6.25	&	7.31 & 16.97	\\ \hline
+\#C4 & 1.93 	& 2.09	&	7.93		& 6.25	&	7.31 & 16.97	\\ \hline
 \#C5 & 2.01 	& 4.73 	& 	134.77	& 11.46* 	& 13.77* & 20.19		\\ \hline
 \#C6 & 2.60 	& 3.45	& 	32.56		& 7.85*	& 14.05 & 79.01		\\ \hline	
 \#C7 & 3.60 & 4.34	& 	20.56		& 6.57 & 8.96  &	36.31 \\ \hline
@@ -67,29 +68,29 @@
 \#C19 & 5.58 & 2.36 & 	-39.78 & 18.17* & 14.39* & -20.81 \\ \hline
 \#C20 & 2.41 & 2.97 &  23.27 & 7.80 &  8.96 & 14.87\\ \hline
 \#C21 & 3.83 & 4.06 & 5.91  & 11.65 & 11.32 & -2.78 \\ \hline
-	\caption{Measured threshold before and after and tolerance before and after for the control group. Furthermore, is the percentage difference illustrated for both threshold and tolerance. The asterisk indicated that the tolerance was not representative.}
+	\caption{Threshold and tolerance before and after and the percentage difference between these values for the control group. The asterisk indicated that the tolerance was not representative.}
 	\label{tab:Control}
 \end{longtable}
 
 
+The total difference in threshold and tolerance with associated standard deviations illustrated in \tabref{tab:Total}. \fxnote{Would it be better to have this earlier with the other text?}
 
-\section{Total}
 \begin{longtable} {l|c|c}
  \rowcolor[HTML]{C0C0C0} 
   \color[HTML]{000000}{} & 
 \color[HTML]{000000}{\textbf{Threshold}} & \color[HTML]{000000}{\textbf{Tolerance}} 	\\  \rule{0pt}{3ex} 
 \cellcolor[HTML]{C0C0C0}{} &
  \cellcolor[HTML]{C0C0C0}{Difference [\%]} &  \cellcolor[HTML]{C0C0C0}{Difference [\%]} \\ \hline
-Treatment &  &  \\ \hline
-Control & 25.34 & 12.63  \\ \hline
-	\caption{Total}
+Treatment & 38.35 $\pm$ 61.11 & 25.47 $\pm$ 33.22 \\ \hline
+Control & 26.42 $\pm$ 41.68 & 12.77 $\pm$ 27.27 \\ \hline
+	\caption{The total percentage difference between threshold and tolerance and the associated standard deviation for both treatment and control group.}
 	\label{tab:Total}
 \end{longtable}
 \vspace{-.5cm}
 
 
 \section{Statistics}
-As the sample size is small the Shapiro-Wilk is used for normality test. The p-value should be above 0.05 to reject the null hypothesis. This is for ANOVA...
+A Shapiro-Wilk test ($\alpha$ > 0.05) have been used to test for normality for the threshold and tolerance before and after for both treatment and control group. One test where all the data in the two groups are included and one where only the subjects with a representative tolerance are included. The results from the test is illustrated in \tabref{tab:ShapiroWilk1}.
 
 \begin{longtable} {l|c|c|c|c}
  \rowcolor[HTML]{C0C0C0} 
@@ -99,16 +100,19 @@ As the sample size is small the Shapiro-Wilk is used for normality test. The p-v
 \color[HTML]{000000}{\textbf{Tolerance Pre}}  &
 \color[HTML]{000000}{\textbf{Tolerance Post}}
  \\ \hline
-Treatment(21)&  &  & & \\ \hline
+Treatment(21)& 0.173* & 0.852* & 0.149* & 0.121* \\ \hline
 Control(21)& 0.016  & 0.080* & 0.155*  & 0.514* \\ \hline
-Treatment(17)&  &  & & \\ \hline
+Treatment(15) & 0.377*  & 0.930* & 0.582* & 0.142* \\ \hline
 Control(17)& 0.077* & 0.107* & 0.976* & 0.426* \\ \hline
-	\caption{Shapiro-Wilk Test for Normality for Threshold and Tolerance pre and post for treatment and control respectively. The asterisk indicate normality}
+	\caption{Shapiro-Wilk Test for Normality for Threshold and Tolerance pre and post for treatment and control respectively. The asterisk indicate normality.}
 	\label{tab:ShapiroWilk1}
 \end{longtable}
 \vspace{-.5cm}
 
-As all data were not normally distributed a Kruskall wallis test was tested.
+A normal distribution was not seen between the treatment and control group with all subjects included, why a Kruskall wallis test ($\alpha$ < 0.05) was used to test the difference between the groups. Results from this test are illustrated in \tabref{tab:KruskalWallis}.
+For the treatment group and control group with not all subjects included there were seen a normal distribution between the threshold and tolerance before and after, why a XXX test ($\alpha$ < 0.05) was used to test the difference between the groups
+Results from this test are illustrated in \tabref{tab:XXXX}. \fxnote{I don't know if this text should be move above the table}
+
 \begin{longtable} {l|c|c|c|c}
  \rowcolor[HTML]{C0C0C0}  \color[HTML]{000000}{} & 
    \color[HTML]{000000}{\textbf{Treshold Pre}} & 
@@ -116,16 +120,28 @@ As all data were not normally distributed a Kruskall wallis test was tested.
    \color[HTML]{000000}{\textbf{Tolerance Pre}} & 
 \color[HTML]{000000}{\textbf{Tolerance Post}}  
  \\ \hline
-All subject (21) &  &  &   & \\ \hline
-Not all subject (17) &  &  &   & \\ \hline
-	\caption{Kruskal Wallis Test for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}
+All subject (42) & 0.327  & 0.352 & 0.155  & 0.669 \\ \hline
+	\caption{Kruskal Wallis Test for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality.}
 	\label{tab:KruskalWallis}
 \end{longtable}
 \vspace{-.5cm}
 
+
+\begin{longtable} {l|c|c|c|c}
+ \rowcolor[HTML]{C0C0C0}  \color[HTML]{000000}{} & 
+   \color[HTML]{000000}{\textbf{Treshold Pre}} & 
+  \color[HTML]{000000}{\textbf{Threshold Post}} & 
+   \color[HTML]{000000}{\textbf{Tolerance Pre}} & 
+\color[HTML]{000000}{\textbf{Tolerance Post}}  
+ \\ \hline
+Not all subject (32)&  &  &   & \\ \hline
+	\caption{XXX for threshold and tolerance difference for treatment and control respectively.}
+	\label{tab:XXXX}
+\end{longtable}
+\vspace{-.5cm}
+
+
 If the p-values is below 0.05 make a post hoc test to see where the differences are.
-
-
 
 
 As the sample size is small the Shapiro-Wilk is used for normality test. The p-value should be above 0.05 to reject the null hypothesis. This is for T-test...
@@ -136,11 +152,11 @@ As the sample size is small the Shapiro-Wilk is used for normality test. The p-v
   \color[HTML]{000000}{\textbf{Threshold  Difference}} & 
 \color[HTML]{000000}{\textbf{Tolerance Difference}}  
  \\ \hline
-Treatment(21) &  &   \\ \hline
+Treatment(21) & 0.013 &  0.888* \\ \hline
 Control(21) & 0.233*  & 0.856*  \\ \hline
-Treatment(17) &  &   \\ \hline
+Treatment(15) & 0.197* & 0.975*  \\ \hline
 Control(17) & 0.148* & 0.929* \\ \hline
-	\caption{Shapiro-Wilk Test for Normality for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}
+	\caption{Shapiro-Wilk Test for Normality for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality.}
 	\label{tab:ShapiroWilk2}
 \end{longtable}
 \vspace{-.5cm}
@@ -150,9 +166,20 @@ Normal = T-test Not normal = Mann Whitney ..
  \rowcolor[HTML]{C0C0C0}  \color[HTML]{000000}{} & 
    \color[HTML]{000000}{\textbf{Treshold Difference}} &  \color[HTML]{000000}{\textbf{Tolerance Difference}}  
  \\ \hline
-All subject (21) &  &  \\ \hline
-Not all subject (17) &  &  \\ \hline
-	\caption{T-test or Mann whitney for threshold and tolerance difference for treatment and control respectively. The asterisk indicate normality}	\label{tab:T-test}
+All subject (42) & 0.850 & 0.195 \\ \hline
+	\caption{Mann whitney for threshold and tolerance difference for treatment and control respectively.}	\label{tab:T-test}
 \end{longtable}
 \vspace{-.5cm}
+
+
+Welch for unequal sample size and homogeneity of veriance. 
+\begin{longtable} {l|c|c}
+ \rowcolor[HTML]{C0C0C0}  \color[HTML]{000000}{} & 
+   \color[HTML]{000000}{\textbf{Treshold Difference}} &  \color[HTML]{000000}{\textbf{Tolerance Difference}}  
+ \\ \hline
+Not all subject (32) & 0.016* &  \\ \hline
+	\caption{T-test for threshold and tolerance difference for treatment and control respectively.}	\label{tab:T-test}
+\end{longtable}
+\vspace{-.5cm}
+
 
