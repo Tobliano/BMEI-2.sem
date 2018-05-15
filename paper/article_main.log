@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  10 MAY 2018 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  15 MAY 2018 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -856,8 +856,11 @@ Underfull \hbox (badness 1377) in paragraph at lines 35--36
 \T1/pplx/m/n/10 (+20) To en-sure same med-i-ta-tion con-di-tions, a
  []
 
-) (./results.tex) (./discussion.tex) (./conclusion.tex) (./article_main.bbl
-[2 <../figures/studydesign.png> <../figures/trapezius.jpg>]
+) (./results.tex
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <8> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 11.
+ [2 <../figures/studydesign.png> <../figures/trapezius.jpg>])
+(./discussion.tex) (./conclusion.tex) (./article_main.bbl
 Underfull \hbox (badness 3009) in paragraph at lines 37--41
 \T1/pplx/m/n/8 (+20) McHaffiea, and R. C. Coghilla.  Mind-ful-ness
  []
@@ -867,9 +870,7 @@ Underfull \hbox (badness 3009) in paragraph at lines 37--41
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
-[3
-
-]
+[3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
  (./article_main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
@@ -883,13 +884,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
 ### simple group (level 1) entered at line 125 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 10777 strings out of 493089
- 164025 string characters out of 6134843
- 297181 words of memory out of 5000000
- 13801 multiletter control sequences out of 15000+600000
- 59862 words of font info for 240 fonts, out of 8000000 for 9000
+ 10792 strings out of 493089
+ 164210 string characters out of 6134843
+ 300242 words of memory out of 5000000
+ 13808 multiletter control sequences out of 15000+600000
+ 62392 words of font info for 246 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,10n,43p,1572b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,43p,1572b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/lo
@@ -897,10 +898,10 @@ cal/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on article_main.pdf (3 pages, 275442 bytes).
+Output written on article_main.pdf (3 pages, 277566 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 52827 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 53339 words of extra memory for PDF output out of 61914 (max. 10000000)
 
