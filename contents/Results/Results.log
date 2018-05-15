@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  15 MAY 2018 21:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  15 MAY 2018 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7488,131 +7488,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: Environment figure undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.97 \begin{figure}
-                   [H]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.97 \begin{figure}[
-                    H]
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.98 	\includegraphics
-                      [width=1\textwidth]{figures/barplot.png}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 1 in font nullfont!
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.98 	\includegraphics[width=1\textwidth]
-                                         {figures/barplot.png}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.98 	\includegraphics[width=1\textwidth]
-                                         {figures/barplot.png}
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no ] in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-
-! LaTeX Error: \caption outside float.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 	\caption
-              {......}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.101 \end{figure}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 97--102
-[]
- []
-
-! Undefined control sequence.
-l.104 \section
-              {Statistical tests}
+l.98 \section
+             {Statistical tests}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -7626,8 +7504,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104 \section{S
-                tatistical tests}
+l.98 \section{S
+               tatistical tests}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -7831,12 +7709,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 104--107
+Overfull \hbox (20.0pt too wide) in paragraph at lines 98--101
 []
  []
 
 ! Undefined control sequence.
-l.108 \subsection
+l.102 \subsection
                  {Test of normality}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7851,7 +7729,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108 \subsection{T
+l.102 \subsection{T
                    est of normality}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -8017,7 +7895,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.109 ... control group are illustrated in \tabref
+l.103 ... control group are illustrated in \tabref
                                                   {tab:ShapiroWilk1}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8043,12 +7921,12 @@ Missing character: There is no k in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 108--110
+Overfull \hbox (20.0pt too wide) in paragraph at lines 102--104
 []
  []
 
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 108--110
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 102--104
 \OML/cmm/m/it/10 $
  []
 
@@ -8059,7 +7937,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111 \begin{longtable}
+l.105 \begin{longtable}
                         {l|c|c|c|c|c}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -8072,7 +7950,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111 \begin{longtable} {l
+l.105 \begin{longtable} {l
                           |c|c|c|c|c}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -8095,7 +7973,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 \caption
+l.106 \caption
               {Shapiro-Wilk test for normality for threshold and tolerance p...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -8230,7 +8108,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <recently read> \cellcolor 
                            
-l.114 \cellcolor
+l.108 \cellcolor
                 [HTML]{C0C0C0} {} &  \cellcolor[HTML]{C0C0C0} {} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8251,7 +8129,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.114 \cellcolor[HTML]{C0C0C0} {} &
+l.108 \cellcolor[HTML]{C0C0C0} {} &
                                      \cellcolor[HTML]{C0C0C0} {} &
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8261,7 +8139,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.114 \cellcolor[HTML]{C0C0C0} {} &  \cellcolor
+l.108 \cellcolor[HTML]{C0C0C0} {} &  \cellcolor
                                                [HTML]{C0C0C0} {} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8282,7 +8160,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.114 ...C0C0} {} &  \cellcolor[HTML]{C0C0C0} {} &
+l.108 ...C0C0} {} &  \cellcolor[HTML]{C0C0C0} {} &
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8294,7 +8172,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -8302,7 +8180,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -8313,7 +8191,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -8321,7 +8199,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8332,7 +8210,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8341,7 +8219,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.115 ...olor[HTML]{C0C0C0}{\textbf{Threshold}}} &
+l.109 ...olor[HTML]{C0C0C0}{\textbf{Threshold}}} &
                                                    \multicolumn{2}{c}{ \cell...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8353,7 +8231,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -8361,7 +8239,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -8372,7 +8250,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -8380,7 +8258,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8391,7 +8269,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.115 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.109 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8400,7 +8278,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.116   \cellcolor
+l.110   \cellcolor
                   [HTML]{C0C0C0}{} &   \cellcolor[HTML]{C0C0C0}{} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8421,7 +8299,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.116   \cellcolor[HTML]{C0C0C0}{} &
+l.110   \cellcolor[HTML]{C0C0C0}{} &
                                        \cellcolor[HTML]{C0C0C0}{} &
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8431,7 +8309,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.116   \cellcolor[HTML]{C0C0C0}{} &   \cellcolor
+l.110   \cellcolor[HTML]{C0C0C0}{} &   \cellcolor
                                                  [HTML]{C0C0C0}{} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8452,7 +8330,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.116 ...0C0C0}{} &   \cellcolor[HTML]{C0C0C0}{} &
+l.110 ...0C0C0}{} &   \cellcolor[HTML]{C0C0C0}{} &
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8464,7 +8342,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.117 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
+l.111 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
                                                    & \multicolumn{1}{c|}{ \c...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -8472,7 +8350,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.117 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
+l.111 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
                                                    & \multicolumn{1}{c|}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8483,7 +8361,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.117 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
+l.111 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
                                                    & \multicolumn{1}{c|}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8492,7 +8370,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.117 ...1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }} &
+l.111 ...1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }} &
                                                    \multicolumn{1}{c|}{ \cel...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8504,7 +8382,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.117 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.111 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                   
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -8512,7 +8390,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.117 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.111 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8523,7 +8401,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.117 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.111 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8532,7 +8410,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.118  &
+l.112  &
          \multicolumn{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8544,7 +8422,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.118 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
+l.112 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
                                                   
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -8552,7 +8430,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.118 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
+l.112 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8563,7 +8441,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.118 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
+l.112 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8572,7 +8450,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.119  &
+l.113  &
          \multicolumn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}} 	\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8584,7 +8462,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.119 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.113 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                    	\\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -8592,7 +8470,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.119 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.113 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                    	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8603,7 +8481,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.119 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.113 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                    	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8614,20 +8492,20 @@ and I'll forget about whatever was undefined.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.119 ...cellcolor[HTML]{C0C0C0}{Post}} 	\\ \hline
+l.113 ...cellcolor[HTML]{C0C0C0}{Post}} 	\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 111--119
+Overfull \hbox (20.0pt too wide) in paragraph at lines 105--113
 []
  []
 
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.127 \multirow
+l.121 \multirow
                { 2}{*}{All subjects} & Treatment (21)& 0.173* & 0.852* & 0.1...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8642,7 +8520,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 \multirow{ 2
+l.121 \multirow{ 2
                   }{*}{All subjects} & Treatment (21)& 0.173* & 0.852* & 0.1...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -8662,7 +8540,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.127 \multirow{ 2}{*}{All subjects} &
+l.121 \multirow{ 2}{*}{All subjects} &
                                        Treatment (21)& 0.173* & 0.852* & 0.1...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8685,7 +8563,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.127 ...ow{ 2}{*}{All subjects} & Treatment (21)&
+l.121 ...ow{ 2}{*}{All subjects} & Treatment (21)&
                                                    0.173* & 0.852* & 0.149* ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8701,7 +8579,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.127 ...{All subjects} & Treatment (21)& 0.173* &
+l.121 ...{All subjects} & Treatment (21)& 0.173* &
                                                    0.852* & 0.149* & 0.121* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8717,7 +8595,7 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.127 ...ects} & Treatment (21)& 0.173* & 0.852* &
+l.121 ...ects} & Treatment (21)& 0.173* & 0.852* &
                                                    0.149* & 0.121* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8733,7 +8611,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.127 ...reatment (21)& 0.173* & 0.852* & 0.149* &
+l.121 ...reatment (21)& 0.173* & 0.852* & 0.149* &
                                                    0.121* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8751,7 +8629,7 @@ Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.128  &
+l.122  &
          Control (21)& 0.016  & 0.080* & 0.155*  & 0.514* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8772,7 +8650,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.128  & Control (21)&
+l.122  & Control (21)&
                        0.016  & 0.080* & 0.155*  & 0.514* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8787,7 +8665,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
-l.128  & Control (21)& 0.016  &
+l.122  & Control (21)& 0.016  &
                                 0.080* & 0.155*  & 0.514* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8803,7 +8681,7 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.128  & Control (21)& 0.016  & 0.080* &
+l.122  & Control (21)& 0.016  & 0.080* &
                                          0.155*  & 0.514* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8819,7 +8697,7 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.128  & Control (21)& 0.016  & 0.080* & 0.155*  &
+l.122  & Control (21)& 0.016  & 0.080* & 0.155*  &
                                                    0.514* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8837,20 +8715,20 @@ Missing character: There is no * in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.128 ...16  & 0.080* & 0.155*  & 0.514* \\ \hline
+l.122 ...16  & 0.080* & 0.155*  & 0.514* \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 127--128
+Overfull \hbox (20.0pt too wide) in paragraph at lines 121--122
 []
  []
 
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.129 \multirow
+l.123 \multirow
                { 2}{*}{Not all subjects} & Treatment (15) & 0.377*  & 0.930*...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8865,7 +8743,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.129 \multirow{ 2
+l.123 \multirow{ 2
                   }{*}{Not all subjects} & Treatment (15) & 0.377*  & 0.930*...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -8888,7 +8766,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.129 \multirow{ 2}{*}{Not all subjects} &
+l.123 \multirow{ 2}{*}{Not all subjects} &
                                            Treatment (15) & 0.377*  & 0.930*...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8911,7 +8789,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.129 ...}{*}{Not all subjects} & Treatment (15) &
+l.123 ...}{*}{Not all subjects} & Treatment (15) &
                                                    0.377*  & 0.930* & 0.582*...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8927,7 +8805,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.129 ...ll subjects} & Treatment (15) & 0.377*  &
+l.123 ...ll subjects} & Treatment (15) & 0.377*  &
                                                    0.930* & 0.582* & 0.142* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8943,7 +8821,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.129 ...ts} & Treatment (15) & 0.377*  & 0.930* &
+l.123 ...ts} & Treatment (15) & 0.377*  & 0.930* &
                                                    0.582* & 0.142* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8959,7 +8837,7 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.129 ...atment (15) & 0.377*  & 0.930* & 0.582* &
+l.123 ...atment (15) & 0.377*  & 0.930* & 0.582* &
                                                    0.142* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8977,7 +8855,7 @@ Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.130 &
+l.124 &
         Control (17)& 0.077* & 0.107* & 0.976* & 0.426* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8998,7 +8876,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.130 & Control (17)&
+l.124 & Control (17)&
                       0.077* & 0.107* & 0.976* & 0.426* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9014,7 +8892,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.130 & Control (17)& 0.077* &
+l.124 & Control (17)& 0.077* &
                                0.107* & 0.976* & 0.426* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9030,7 +8908,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.130 & Control (17)& 0.077* & 0.107* &
+l.124 & Control (17)& 0.077* & 0.107* &
                                         0.976* & 0.426* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9046,7 +8924,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.130 & Control (17)& 0.077* & 0.107* & 0.976* &
+l.124 & Control (17)& 0.077* & 0.107* & 0.976* &
                                                  0.426* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9064,13 +8942,13 @@ Missing character: There is no * in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.130 ...077* & 0.107* & 0.976* & 0.426* \\ \hline
+l.124 ...077* & 0.107* & 0.976* & 0.426* \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 129--130
+Overfull \hbox (20.0pt too wide) in paragraph at lines 123--124
 []
  []
 
@@ -9081,7 +8959,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 \end{longtable}
+l.125 \end{longtable}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -9094,7 +8972,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.134 T
+l.128 T
        he results from the Shapiro-Wilk test ($\alpha$ > 0.05) which was use...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -9258,7 +9136,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.134 ... and tolerance are illustrated in \tabref
+l.128 ... and tolerance are illustrated in \tabref
                                                   {tab:ShapiroWilk2}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9284,12 +9162,12 @@ Missing character: There is no k in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 134--135
+Overfull \hbox (20.0pt too wide) in paragraph at lines 128--129
 []
  []
 
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 134--135
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 128--129
 \OML/cmm/m/it/10 $
  []
 
@@ -9300,7 +9178,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.136 \begin{longtable}
+l.130 \begin{longtable}
                         {l|c|c|c}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -9313,7 +9191,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.136 \begin{longtable} {l
+l.130 \begin{longtable} {l
                           |c|c|c}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9332,7 +9210,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 \caption
+l.131 \caption
               {Shapiro-Wilk Test for normality for threshold and tolerance d...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -9467,7 +9345,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <recently read> \cellcolor 
                            
-l.139 \cellcolor
+l.133 \cellcolor
                 [HTML]{C0C0C0} {} & \cellcolor[HTML]{C0C0C0} {} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9488,7 +9366,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.139 \cellcolor[HTML]{C0C0C0} {} &
+l.133 \cellcolor[HTML]{C0C0C0} {} &
                                     \cellcolor[HTML]{C0C0C0} {} &
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9498,7 +9376,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.139 \cellcolor[HTML]{C0C0C0} {} & \cellcolor
+l.133 \cellcolor[HTML]{C0C0C0} {} & \cellcolor
                                               [HTML]{C0C0C0} {} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9519,7 +9397,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.139 ...0C0C0} {} & \cellcolor[HTML]{C0C0C0} {} &
+l.133 ...0C0C0} {} & \cellcolor[HTML]{C0C0C0} {} &
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9529,7 +9407,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.140 \cellcolor
+l.134 \cellcolor
                 [HTML]{C0C0C0}{\textbf{Threshold}} &  \cellcolor[HTML]{C0C0C...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9550,7 +9428,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.140 ...color[HTML]{C0C0C0}{\textbf{Threshold}} &
+l.134 ...color[HTML]{C0C0C0}{\textbf{Threshold}} &
                                                     \cellcolor[HTML]{C0C0C0}...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9560,7 +9438,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.140 ...C0C0C0}{\textbf{Threshold}} &  \cellcolor
+l.134 ...C0C0C0}{\textbf{Threshold}} &  \cellcolor
                                                   [HTML]{C0C0C0}{\textbf{Tol...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9581,7 +9459,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.141   \cellcolor
+l.135   \cellcolor
                   [HTML]{C0C0C0}{} &  \cellcolor[HTML]{C0C0C0}{} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9602,7 +9480,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.141   \cellcolor[HTML]{C0C0C0}{} &
+l.135   \cellcolor[HTML]{C0C0C0}{} &
                                       \cellcolor[HTML]{C0C0C0}{} &
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9612,7 +9490,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.141   \cellcolor[HTML]{C0C0C0}{} &  \cellcolor
+l.135   \cellcolor[HTML]{C0C0C0}{} &  \cellcolor
                                                 [HTML]{C0C0C0}{} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9633,7 +9511,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.141 ...C0C0C0}{} &  \cellcolor[HTML]{C0C0C0}{} &
+l.135 ...C0C0C0}{} &  \cellcolor[HTML]{C0C0C0}{} &
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9645,7 +9523,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.142 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.136 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -9653,7 +9531,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.142 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.136 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9664,7 +9542,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.142 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.136 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9673,7 +9551,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.142 ... \cellcolor[HTML]{C0C0C0}{Difference }} &
+l.136 ... \cellcolor[HTML]{C0C0C0}{Difference }} &
                                                    \multicolumn{1}{|c}{ \cel...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9685,7 +9563,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.142 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.136 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -9693,7 +9571,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.142 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.136 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9704,7 +9582,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.142 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.136 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9715,45 +9593,45 @@ and I'll forget about whatever was undefined.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.142 ...or[HTML]{C0C0C0}{Difference}}  	\\ \hline
+l.136 ...or[HTML]{C0C0C0}{Difference}}  	\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 136--142
+Overfull \hbox (20.0pt too wide) in paragraph at lines 130--136
 []
  []
 
 
-Overfull \hbox (39.15396pt too wide) in paragraph at lines 136--142
+Overfull \hbox (39.15396pt too wide) in paragraph at lines 130--136
 \OT1/cmr/bx/n/10 Thresh-
  []
 
 
-Overfull \hbox (15.33325pt too wide) in paragraph at lines 136--142
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 130--136
 \OT1/cmr/bx/n/10 old
  []
 
 
-Overfull \hbox (19.81934pt too wide) in paragraph at lines 136--142
+Overfull \hbox (19.81934pt too wide) in paragraph at lines 130--136
 \OT1/cmr/bx/n/10 Tol-
  []
 
 
-Overfull \hbox (13.84023pt too wide) in paragraph at lines 136--142
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 130--136
 \OT1/cmr/bx/n/10 er-
  []
 
 
-Overfull \hbox (22.36098pt too wide) in paragraph at lines 136--142
+Overfull \hbox (22.36098pt too wide) in paragraph at lines 130--136
 \OT1/cmr/bx/n/10 ance 
  []
 
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.148 \multirow
+l.142 \multirow
                { 2}{*}{All subjects} & Treatment (21) & 0.013 &  0.888* \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9768,7 +9646,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.148 \multirow{ 2
+l.142 \multirow{ 2
                   }{*}{All subjects} & Treatment (21) & 0.013 &  0.888* \\
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9787,7 +9665,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.148 \multirow{ 2}{*}{All subjects} &
+l.142 \multirow{ 2}{*}{All subjects} &
                                        Treatment (21) & 0.013 &  0.888* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9810,7 +9688,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.148 ...w{ 2}{*}{All subjects} & Treatment (21) &
+l.142 ...w{ 2}{*}{All subjects} & Treatment (21) &
                                                    0.013 &  0.888* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9825,7 +9703,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
-l.148 ...{All subjects} & Treatment (21) & 0.013 &
+l.142 ...{All subjects} & Treatment (21) & 0.013 &
                                                     0.888* \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9843,7 +9721,7 @@ Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.149 &
+l.143 &
         Control (21) & 0.233*  & 0.856*  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9864,7 +9742,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.149 & Control (21) &
+l.143 & Control (21) &
                        0.233*  & 0.856*  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9880,7 +9758,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.149 & Control (21) & 0.233*  &
+l.143 & Control (21) & 0.233*  &
                                  0.856*  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9898,20 +9776,20 @@ Missing character: There is no * in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.149 & Control (21) & 0.233*  & 0.856*  \\ \hline
+l.143 & Control (21) & 0.233*  & 0.856*  \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 148--149
+Overfull \hbox (20.0pt too wide) in paragraph at lines 142--143
 []
  []
 
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.150 \multirow
+l.144 \multirow
                { 2}{*}{Not all subjects} & Treatment (15) & 0.197* & 0.975*  \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9926,7 +9804,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.150 \multirow{ 2
+l.144 \multirow{ 2
                   }{*}{Not all subjects} & Treatment (15) & 0.197* & 0.975*  \\
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -9949,7 +9827,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.150 \multirow{ 2}{*}{Not all subjects} &
+l.144 \multirow{ 2}{*}{Not all subjects} &
                                            Treatment (15) & 0.197* & 0.975*  \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9972,7 +9850,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.150 ...}{*}{Not all subjects} & Treatment (15) &
+l.144 ...}{*}{Not all subjects} & Treatment (15) &
                                                    0.197* & 0.975*  \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9988,7 +9866,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.150 ...all subjects} & Treatment (15) & 0.197* &
+l.144 ...all subjects} & Treatment (15) & 0.197* &
                                                    0.975*  \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10006,7 +9884,7 @@ Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.151 &
+l.145 &
         Control (17) & 0.148* & 0.929* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10027,7 +9905,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.151 & Control (17) &
+l.145 & Control (17) &
                        0.148* & 0.929* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10043,7 +9921,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.151 & Control (17) & 0.148* &
+l.145 & Control (17) & 0.148* &
                                 0.929* \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10061,13 +9939,13 @@ Missing character: There is no * in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.151 & Control (17) & 0.148* & 0.929* \\ \hline
+l.145 & Control (17) & 0.148* & 0.929* \\ \hline
                                                 
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 150--151
+Overfull \hbox (20.0pt too wide) in paragraph at lines 144--145
 []
  []
 
@@ -10078,14 +9956,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.152 \end{longtable}
+l.146 \end{longtable}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.155 \subsection
+l.149 \subsection
                  {Kruskal-Wallis test}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10100,7 +9978,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.155 \subsection{K
+l.149 \subsection{K
                    ruskal-Wallis test}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10320,7 +10198,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.156 ...from this test are illustrated in \tabref
+l.150 ...from this test are illustrated in \tabref
                                                   {tab:KruskalWallis1}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10348,12 +10226,12 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 155--157
+Overfull \hbox (20.0pt too wide) in paragraph at lines 149--151
 []
  []
 
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 155--157
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 149--151
 \OML/cmm/m/it/10 $
  []
 
@@ -10364,7 +10242,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158 \begin{longtable}
+l.152 \begin{longtable}
                         {l|c|c|c|c}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10377,7 +10255,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158 \begin{longtable} {l
+l.152 \begin{longtable} {l
                           |c|c|c|c}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10398,7 +10276,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.159 	\caption
+l.153 	\caption
                {Kruskal-Wallis Test for threshold and tolerance difference f...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -10523,7 +10401,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <recently read> \cellcolor 
                            
-l.161 	 \cellcolor
+l.155 	 \cellcolor
                   [HTML]{C0C0C0} {} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10544,7 +10422,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.161 	 \cellcolor[HTML]{C0C0C0} {} &
+l.155 	 \cellcolor[HTML]{C0C0C0} {} &
                                      
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10556,7 +10434,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -10564,7 +10442,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -10575,7 +10453,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -10583,7 +10461,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10594,7 +10472,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{2}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10603,7 +10481,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.162 ...olor[HTML]{C0C0C0}{\textbf{Threshold}}} &
+l.156 ...olor[HTML]{C0C0C0}{\textbf{Threshold}}} &
                                                    \multicolumn{2}{c}{ \cell...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10615,7 +10493,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -10623,7 +10501,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -10634,7 +10512,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -10642,7 +10520,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10653,7 +10531,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.162 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.156 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10662,7 +10540,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.163   \cellcolor
+l.157   \cellcolor
                   [HTML]{C0C0C0}{} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10683,7 +10561,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.163   \cellcolor[HTML]{C0C0C0}{} &
+l.157   \cellcolor[HTML]{C0C0C0}{} &
                                     
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10695,7 +10573,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.164 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
+l.158 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
                                                    & \multicolumn{1}{c|}{ \c...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -10703,7 +10581,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.164 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
+l.158 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
                                                    & \multicolumn{1}{c|}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10714,7 +10592,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.164 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
+l.158 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }}
                                                    & \multicolumn{1}{c|}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10723,7 +10601,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.164 ...1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }} &
+l.158 ...1}{c|}{ \cellcolor[HTML]{C0C0C0}{Pre }} &
                                                    \multicolumn{1}{c|}{ \cel...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10735,7 +10613,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.164 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.158 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                   
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -10743,7 +10621,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.164 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.158 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10754,7 +10632,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.164 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.158 ...n{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10763,7 +10641,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.165  &
+l.159  &
          \multicolumn{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10775,7 +10653,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.165 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
+l.159 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
                                                   
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -10783,7 +10661,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.165 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
+l.159 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10794,7 +10672,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.165 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
+l.159 ...n{1}{|c|}{ \cellcolor[HTML]{C0C0C0}{Pre}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10803,7 +10681,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.166  &
+l.160  &
          \multicolumn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}} 	\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10815,7 +10693,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.166 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.160 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                    	\\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -10823,7 +10701,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.166 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.160 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                    	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10834,7 +10712,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.166 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
+l.160 ...mn{1}{c}{ \cellcolor[HTML]{C0C0C0}{Post}}
                                                    	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10845,13 +10723,13 @@ and I'll forget about whatever was undefined.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.166 ...cellcolor[HTML]{C0C0C0}{Post}} 	\\ \hline
+l.160 ...cellcolor[HTML]{C0C0C0}{Post}} 	\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 158--166
+Overfull \hbox (20.0pt too wide) in paragraph at lines 152--160
 []
  []
 
@@ -10862,7 +10740,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.173 S
+l.167 S
        ubject (42) & 0.327  & 0.352 & 0.155  & 0.669 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10879,7 +10757,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.173 Subject (42) &
+l.167 Subject (42) &
                      0.327  & 0.352 & 0.155  & 0.669 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10894,7 +10772,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 ! Misplaced alignment tab character &.
-l.173 Subject (42) & 0.327  &
+l.167 Subject (42) & 0.327  &
                               0.352 & 0.155  & 0.669 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10909,7 +10787,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.173 Subject (42) & 0.327  & 0.352 &
+l.167 Subject (42) & 0.327  & 0.352 &
                                       0.155  & 0.669 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10924,7 +10802,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.173 Subject (42) & 0.327  & 0.352 & 0.155  &
+l.167 Subject (42) & 0.327  & 0.352 & 0.155  &
                                                0.669 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10941,13 +10819,13 @@ Missing character: There is no 9 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.173 ...0.327  & 0.352 & 0.155  & 0.669 \\ \hline
+l.167 ...0.327  & 0.352 & 0.155  & 0.669 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 173--173
+Overfull \hbox (20.0pt too wide) in paragraph at lines 167--167
 []
  []
 
@@ -10958,7 +10836,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \end{longtable}
+l.168 \end{longtable}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10971,7 +10849,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177 T
+l.171 T
        here is no significant difference between the threshold and tolerance...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -11050,12 +10928,12 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 177--178
+Overfull \hbox (20.0pt too wide) in paragraph at lines 171--172
 []
  []
 
 ! Undefined control sequence.
-l.179 \subsection
+l.173 \subsection
                  {Two-way mixed ANOVA}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11070,7 +10948,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179 \subsection{T
+l.173 \subsection{T
                    wo-way mixed ANOVA}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -11556,7 +11434,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.182 ...ay mixed ANOVA are illustrated in \tabref
+l.176 ...ay mixed ANOVA are illustrated in \tabref
                                                   {tab:ANOVA1}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11575,12 +11453,12 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 179--183
+Overfull \hbox (20.0pt too wide) in paragraph at lines 173--177
 []
  []
 
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 179--183
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 173--177
 \OML/cmm/m/it/10 $
  []
 
@@ -11591,7 +11469,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.184 \begin{longtable}
+l.178 \begin{longtable}
                         {l|c|c|c|c|c}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -11604,7 +11482,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.184 \begin{longtable} {l
+l.178 \begin{longtable} {l
                           |c|c|c|c|c}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -11627,7 +11505,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.185 \caption
+l.179 \caption
               {Two-way mixed ANOVA for the threshold and tolerance pre and p...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -11724,7 +11602,7 @@ Missing character: There is no y in font nullfont!
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.187 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
+l.181 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
                                                    & \multicolumn{3}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11732,7 +11610,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.187 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
+l.181 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
                                                    & \multicolumn{3}{c}{ \ce...
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -11743,7 +11621,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.187 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
+l.181 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
                                                    & \multicolumn{3}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11751,7 +11629,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.187 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
+l.181 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
                                                    & \multicolumn{3}{c}{ \ce...
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -11762,7 +11640,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.187 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
+l.181 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
                                                    & \multicolumn{3}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11770,7 +11648,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.187 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
+l.181 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
                                                    & \multicolumn{3}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11781,7 +11659,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.187 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
+l.181 ...C0C0C0}{\textbf{Within-Subjects Effect}}}
                                                    & \multicolumn{3}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11790,7 +11668,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.187 ...C0C0}{\textbf{Within-Subjects Effect}}} &
+l.181 ...C0C0}{\textbf{Within-Subjects Effect}}} &
                                                    \multicolumn{3}{c}{ \cell...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -11802,7 +11680,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.187 ...0C0C0}{\textbf{Between-Subjects Effect}}}
+l.181 ...0C0C0}{\textbf{Between-Subjects Effect}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11810,7 +11688,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.187 ...0C0C0}{\textbf{Between-Subjects Effect}}}
+l.181 ...0C0C0}{\textbf{Between-Subjects Effect}}}
                                                     	\\  \rule{0pt}{3ex}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -11821,7 +11699,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.187 ...0C0C0}{\textbf{Between-Subjects Effect}}}
+l.181 ...0C0C0}{\textbf{Between-Subjects Effect}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11829,7 +11707,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.187 ...0C0C0}{\textbf{Between-Subjects Effect}}}
+l.181 ...0C0C0}{\textbf{Between-Subjects Effect}}}
                                                     	\\  \rule{0pt}{3ex}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -11840,7 +11718,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.187 ...0C0C0}{\textbf{Between-Subjects Effect}}}
+l.181 ...0C0C0}{\textbf{Between-Subjects Effect}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11848,7 +11726,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.187 ...0C0C0}{\textbf{Between-Subjects Effect}}}
+l.181 ...0C0C0}{\textbf{Between-Subjects Effect}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11859,7 +11737,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.187 ...0C0C0}{\textbf{Between-Subjects Effect}}}
+l.181 ...0C0C0}{\textbf{Between-Subjects Effect}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11868,7 +11746,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.188   \cellcolor
+l.182   \cellcolor
                   [HTML]{C0C0C0}{} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11889,7 +11767,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.188   \cellcolor[HTML]{C0C0C0}{} &
+l.182   \cellcolor[HTML]{C0C0C0}{} &
                                     
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -11901,7 +11779,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.189 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
+l.183 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
                                                    & \multicolumn{1}{c|}{ \c...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11909,7 +11787,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.189 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
+l.183 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
                                                    & \multicolumn{1}{c|}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11920,7 +11798,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.189 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
+l.183 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
                                                    & \multicolumn{1}{c|}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11929,7 +11807,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.189 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}} &
+l.183 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}} &
                                                    \multicolumn{1}{c|}{ \cel...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -11941,7 +11819,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.189 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}}
+l.183 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}}
                                                    &  \multicolumn{1}{c|}{ \...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11949,7 +11827,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.189 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}}
+l.183 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}}
                                                    &  \multicolumn{1}{c|}{ \...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11960,7 +11838,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.189 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}}
+l.183 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}}
                                                    &  \multicolumn{1}{c|}{ \...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11969,7 +11847,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.189 ...{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}} &
+l.183 ...{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}} &
                                                     \multicolumn{1}{c|}{ \ce...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -11981,7 +11859,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.189 ...olumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}}
+l.183 ...olumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}}
                                                    &  \multicolumn{1}{c|}{ \...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -11989,7 +11867,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.189 ...olumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}}
+l.183 ...olumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}}
                                                    &  \multicolumn{1}{c|}{ \...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12000,7 +11878,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.189 ...olumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}}
+l.183 ...olumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}}
                                                    &  \multicolumn{1}{c|}{ \...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12009,7 +11887,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.189 ...umn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}} &
+l.183 ...umn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}} &
                                                     \multicolumn{1}{c|}{ \ce...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12021,7 +11899,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.189 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
+l.183 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
                                                    & \multicolumn{1}{|c}{ \c...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -12029,7 +11907,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.189 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
+l.183 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
                                                    & \multicolumn{1}{|c}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12040,7 +11918,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.189 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
+l.183 ...lumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}}
                                                    & \multicolumn{1}{|c}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12049,7 +11927,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.189 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}} &
+l.183 ...mn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}} &
                                                    \multicolumn{1}{|c}{ \cel...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12061,7 +11939,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.189 ...mn{1}{|c}{ \cellcolor[HTML]{C0C0C0}{Sig}}
+l.183 ...mn{1}{|c}{ \cellcolor[HTML]{C0C0C0}{Sig}}
                                                   	\\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -12069,7 +11947,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.189 ...mn{1}{|c}{ \cellcolor[HTML]{C0C0C0}{Sig}}
+l.183 ...mn{1}{|c}{ \cellcolor[HTML]{C0C0C0}{Sig}}
                                                   	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12080,7 +11958,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.189 ...mn{1}{|c}{ \cellcolor[HTML]{C0C0C0}{Sig}}
+l.183 ...mn{1}{|c}{ \cellcolor[HTML]{C0C0C0}{Sig}}
                                                   	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12091,13 +11969,13 @@ and I'll forget about whatever was undefined.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.189 ... \cellcolor[HTML]{C0C0C0}{Sig}}	\\ \hline
+l.183 ... \cellcolor[HTML]{C0C0C0}{Sig}}	\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 184--189
+Overfull \hbox (20.0pt too wide) in paragraph at lines 178--183
 []
  []
 
@@ -12108,7 +11986,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190 M
+l.184 M
        easurement & 13.051 & 0.001* & Group & 1.492 & 0.231\\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -12125,7 +12003,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
-l.190 Measurement &
+l.184 Measurement &
                     13.051 & 0.001* & Group & 1.492 & 0.231\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12141,7 +12019,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.190 Measurement & 13.051 &
+l.184 Measurement & 13.051 &
                              0.001* & Group & 1.492 & 0.231\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12157,7 +12035,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Misplaced alignment tab character &.
-l.190 Measurement & 13.051 & 0.001* &
+l.184 Measurement & 13.051 & 0.001* &
                                       Group & 1.492 & 0.231\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12172,7 +12050,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Misplaced alignment tab character &.
-l.190 Measurement & 13.051 & 0.001* & Group &
+l.184 Measurement & 13.051 & 0.001* & Group &
                                               1.492 & 0.231\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12187,7 +12065,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.190 ...ement & 13.051 & 0.001* & Group & 1.492 &
+l.184 ...ement & 13.051 & 0.001* & Group & 1.492 &
                                                    0.231\\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12204,13 +12082,13 @@ Missing character: There is no 1 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.190 ...& 0.001* & Group & 1.492 & 0.231\\ \hline
+l.184 ...& 0.001* & Group & 1.492 & 0.231\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 190--190
+Overfull \hbox (20.0pt too wide) in paragraph at lines 184--184
 []
  []
 
@@ -12221,7 +12099,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.191 M
+l.185 M
        easurement*Group & 0.154 & 0.507 & &  & \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -12244,7 +12122,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Misplaced alignment tab character &.
-l.191 Measurement*Group &
+l.185 Measurement*Group &
                           0.154 & 0.507 & &  & \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12259,7 +12137,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
-l.191 Measurement*Group & 0.154 &
+l.185 Measurement*Group & 0.154 &
                                   0.507 & &  & \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12274,7 +12152,7 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 ! Misplaced alignment tab character &.
-l.191 Measurement*Group & 0.154 & 0.507 &
+l.185 Measurement*Group & 0.154 & 0.507 &
                                           &  & \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12284,7 +12162,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.191 Measurement*Group & 0.154 & 0.507 & &
+l.185 Measurement*Group & 0.154 & 0.507 & &
                                              & \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12294,7 +12172,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.191 Measurement*Group & 0.154 & 0.507 & &  &
+l.185 Measurement*Group & 0.154 & 0.507 & &  &
                                                \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12306,13 +12184,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.191 ...nt*Group & 0.154 & 0.507 & &  & \\ \hline
+l.185 ...nt*Group & 0.154 & 0.507 & &  & \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 191--191
+Overfull \hbox (20.0pt too wide) in paragraph at lines 185--185
 []
  []
 
@@ -12323,7 +12201,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.192 \end{longtable}
+l.186 \end{longtable}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -12336,7 +12214,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.195 T
+l.189 T
        he test indicated that there is a significant main effect on measurem...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -12571,12 +12449,12 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 195--196
+Overfull \hbox (20.0pt too wide) in paragraph at lines 189--190
 []
  []
 
 ! Undefined control sequence.
-l.197 \subsection
+l.191 \subsection
                  {Mann-Whitney U Test}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12591,7 +12469,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \subsection{M
+l.191 \subsection{M
                    ann-Whitney U Test}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -12799,7 +12677,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.198 ... from this test is illustrated in \tabref
+l.192 ... from this test is illustrated in \tabref
                                                   {tab:MannWhitney1}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12825,12 +12703,12 @@ Missing character: There is no y in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 197--199
+Overfull \hbox (20.0pt too wide) in paragraph at lines 191--193
 []
  []
 
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 197--199
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 191--193
 \OML/cmm/m/it/10 $
  []
 
@@ -12841,7 +12719,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.200 \begin{longtable}
+l.194 \begin{longtable}
                         {l|c|c}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -12854,7 +12732,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.200 \begin{longtable} {l
+l.194 \begin{longtable} {l
                           |c|c}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -12871,7 +12749,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.201 	\caption
+l.195 	\caption
                {Mann-Whitney U test for threshold and tolerance difference f...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -12966,7 +12844,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <recently read> \cellcolor 
                            
-l.202  \cellcolor
+l.196  \cellcolor
                  [HTML]{C0C0C0} {} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12987,7 +12865,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.202  \cellcolor[HTML]{C0C0C0} {} &
+l.196  \cellcolor[HTML]{C0C0C0} {} &
                                     
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -12999,7 +12877,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.203 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.197 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{1}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -13007,7 +12885,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.203 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.197 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{1}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13018,7 +12896,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.203 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.197 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{1}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13027,7 +12905,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.203 ...olor[HTML]{C0C0C0}{\textbf{Threshold}}} &
+l.197 ...olor[HTML]{C0C0C0}{\textbf{Threshold}}} &
                                                    \multicolumn{1}{c}{ \cell...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -13039,7 +12917,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.203 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.197 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -13047,7 +12925,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.203 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.197 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13058,7 +12936,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.203 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.197 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13067,7 +12945,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.204   \cellcolor
+l.198   \cellcolor
                   [HTML]{C0C0C0}{} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13088,7 +12966,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.204   \cellcolor[HTML]{C0C0C0}{} &
+l.198   \cellcolor[HTML]{C0C0C0}{} &
                                     
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -13100,7 +12978,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.205 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.199 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -13108,7 +12986,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.205 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.199 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13119,7 +12997,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.205 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.199 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13128,7 +13006,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.205 ... \cellcolor[HTML]{C0C0C0}{Difference }} &
+l.199 ... \cellcolor[HTML]{C0C0C0}{Difference }} &
                                                    \multicolumn{1}{|c}{ \cel...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -13140,7 +13018,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.205 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.199 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -13148,7 +13026,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.205 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.199 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13159,7 +13037,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.205 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.199 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13170,13 +13048,13 @@ and I'll forget about whatever was undefined.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.205 ...or[HTML]{C0C0C0}{Difference}}  	\\ \hline
+l.199 ...or[HTML]{C0C0C0}{Difference}}  	\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 200--205
+Overfull \hbox (20.0pt too wide) in paragraph at lines 194--199
 []
  []
 
@@ -13187,7 +13065,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.209 S
+l.203 S
        ubject (42) & 0.850 & 0.195 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -13204,7 +13082,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.209 Subject (42) &
+l.203 Subject (42) &
                      0.850 & 0.195 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -13219,7 +13097,7 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.209 Subject (42) & 0.850 &
+l.203 Subject (42) & 0.850 &
                              0.195 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -13236,13 +13114,13 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.209 Subject (42) & 0.850 & 0.195 \\ \hline
+l.203 Subject (42) & 0.850 & 0.195 \\ \hline
                                             
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 209--209
+Overfull \hbox (20.0pt too wide) in paragraph at lines 203--203
 []
  []
 
@@ -13253,7 +13131,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.210 \end{longtable}
+l.204 \end{longtable}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -13266,7 +13144,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.213 T
+l.207 T
        he test indicates that there is no significant difference between the...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -13367,12 +13245,12 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 213--214
+Overfull \hbox (20.0pt too wide) in paragraph at lines 207--208
 []
  []
 
 ! Undefined control sequence.
-l.215 \subsection
+l.209 \subsection
                  {T-test}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13387,7 +13265,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.215 \subsection{T
+l.209 \subsection{T
                    -test}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -13719,7 +13597,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.218 ...from this test are illustrated in \tabref
+l.212 ...from this test are illustrated in \tabref
                                                   {tab:T-test1}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13740,12 +13618,12 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 215--219
+Overfull \hbox (20.0pt too wide) in paragraph at lines 209--213
 []
  []
 
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 215--219
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 209--213
 \OML/cmm/m/it/10 $
  []
 
@@ -13756,7 +13634,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.220 \begin{longtable}
+l.214 \begin{longtable}
                         {l|c|c}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -13769,7 +13647,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.220 \begin{longtable} {l
+l.214 \begin{longtable} {l
                           |c|c}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -13786,7 +13664,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.221 	\caption
+l.215 	\caption
                {T-test for threshold and tolerance difference for treatment ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -13912,7 +13790,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <recently read> \cellcolor 
                            
-l.222 	 \cellcolor
+l.216 	 \cellcolor
                   [HTML]{C0C0C0} {} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13933,7 +13811,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.222 	 \cellcolor[HTML]{C0C0C0} {} &
+l.216 	 \cellcolor[HTML]{C0C0C0} {} &
                                      
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -13945,7 +13823,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.223 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.217 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{1}{c}{ \ce...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -13953,7 +13831,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.223 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.217 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{1}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13964,7 +13842,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.223 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
+l.217 ...lcolor[HTML]{C0C0C0}{\textbf{Threshold}}}
                                                    & \multicolumn{1}{c}{ \ce...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13973,7 +13851,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.223 ...olor[HTML]{C0C0C0}{\textbf{Threshold}}} &
+l.217 ...olor[HTML]{C0C0C0}{\textbf{Threshold}}} &
                                                    \multicolumn{1}{c}{ \cell...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -13985,7 +13863,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.223 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.217 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -13993,7 +13871,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.223 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.217 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14004,7 +13882,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.223 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
+l.217 ...lcolor[HTML]{C0C0C0}{\textbf{Tolerance}}}
                                                     	\\  \rule{0pt}{3ex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14013,7 +13891,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.224   \cellcolor
+l.218   \cellcolor
                   [HTML]{C0C0C0}{} &
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14034,7 +13912,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.224   \cellcolor[HTML]{C0C0C0}{} &
+l.218   \cellcolor[HTML]{C0C0C0}{} &
                                     
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -14046,7 +13924,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.225 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.219 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -14054,7 +13932,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.225 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.219 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14065,7 +13943,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.225 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
+l.219 ...}{ \cellcolor[HTML]{C0C0C0}{Difference }}
                                                    & \multicolumn{1}{|c}{ \c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14074,7 +13952,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.225 ... \cellcolor[HTML]{C0C0C0}{Difference }} &
+l.219 ... \cellcolor[HTML]{C0C0C0}{Difference }} &
                                                    \multicolumn{1}{|c}{ \cel...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -14086,7 +13964,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.225 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.219 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -14094,7 +13972,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.225 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.219 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14105,7 +13983,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.225 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
+l.219 ...c}{ \cellcolor[HTML]{C0C0C0}{Difference}}
                                                     	\\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14116,13 +13994,13 @@ and I'll forget about whatever was undefined.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.225 ...or[HTML]{C0C0C0}{Difference}}  	\\ \hline
+l.219 ...or[HTML]{C0C0C0}{Difference}}  	\\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 220--225
+Overfull \hbox (20.0pt too wide) in paragraph at lines 214--219
 []
  []
 
@@ -14133,7 +14011,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.229 S
+l.223 S
        ubject (32) & 0.149 & 0.330  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14150,7 +14028,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.229 Subject (32) &
+l.223 Subject (32) &
                      0.149 & 0.330  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -14165,7 +14043,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 ! Misplaced alignment tab character &.
-l.229 Subject (32) & 0.149 &
+l.223 Subject (32) & 0.149 &
                              0.330  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -14182,13 +14060,13 @@ Missing character: There is no 0 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.229 Subject (32) & 0.149 & 0.330  \\ \hline
+l.223 Subject (32) & 0.149 & 0.330  \\ \hline
                                              
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 229--229
+Overfull \hbox (20.0pt too wide) in paragraph at lines 223--223
 []
  []
 
@@ -14199,7 +14077,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.231 \end{longtable}
+l.225 \end{longtable}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14212,7 +14090,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.234 T
+l.228 T
        he test indicates that there is no significant difference in the thre...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -14296,7 +14174,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 234--235
+Overfull \hbox (20.0pt too wide) in paragraph at lines 228--229
 []
  []
 
@@ -14308,10 +14186,10 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 234--235
 
  
 Here is how much of TeX's memory you used:
- 17 strings out of 493089
- 242 string characters out of 6134843
+ 15 strings out of 493089
+ 227 string characters out of 6134843
  62199 words of memory out of 5000000
- 3601 multiletter control sequences out of 15000+600000
+ 3599 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  18i,1n,12p,580b,84s stack positions out of 5000i,500n,10000p,200000b,80000s
