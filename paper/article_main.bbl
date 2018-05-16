@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Macfarlanea2016}
 Gary~J. Macfarlanea.
@@ -19,6 +19,14 @@ Harald Breivik, Beverly Collett, Vittorio Ventafridda, Rob Cohen, and Derek
   and treatment}.
 \newblock {\em European Journal of Pain}, 10(4):287--333, 2006.
 
+\bibitem{vanRanderaat2016}
+Carlijn~H. {van Randeraat-van der Zee}, Anna J. H.~M. Beurskens, Raymond~A.H.M.
+  Swinkels, Jan~J.M. Pool, Roy~W. Batterham, Richard~H. Osborne, and
+  Henrica~C.W. de~Vet.
+\newblock {The burden of neck pain: its meaning for persons with neck pain and
+  healthcare providers, explored by concept mapping}.
+\newblock {\em Quality of Life Research}, 25:1219--1225, 2016.
+
 \bibitem{Gross2013}
 Anita Gross, Faith Kaplan, Stacey Huang, Mahweesh Kahn, Lina Santaguida, Lisa
   Carlesso, Joy MacDermid, David Walton, Justin Kenardy, Anne S{\"{o}}derlund,
@@ -33,10 +41,41 @@ Jason~E. Pope and Timothy~R. Deer.
 \newblock {\em {Treatment of Chronic Pain Conditions}}.
 \newblock 2017.
 
+\bibitem{marcus2009}
+Dawn~A. Marcus.
+\newblock {\em {Chronic Pain}}.
+\newblock 2009.
+
 \bibitem{Zeidan2012}
 R.~F. Zeidan, J.~A. Grantb, C.~A. Brownc, J.~G. McHaffiea, and R.~C. Coghilla.
 \newblock {Mindfulness meditation-related pain relief: Evidence for unique
   brain mechanisms in the regulation of pain}.
 \newblock pages 265--275, 2012.
+
+\bibitem{Tesarz2012}
+Jonas Tesarz, Alexander~K. Schuster, Mechthild Hartmann, Andreas Gerhardt, and
+  Wolfgang Eich.
+\newblock {Pain perception in athletes compared to normally active controls: A
+  systematic review with meta-analysis}.
+\newblock {\em Pain}, 153(6):1253--1262, 2012.
+
+\bibitem{Koltyn2002}
+Kelli~F. Koltyn.
+\newblock {Exercise-Induced Hypoalgesia and Intensity of Exercise}.
+\newblock {\em Sports Medicine}, 32(8):477--487, 2002.
+
+\bibitem{Kabat1982}
+Jon Kabat-Zinn.
+\newblock {An Outpatient Program in Behavioral Medicine for Chronic Pain
+  Patients Based on the Practice of Mindfulness Meditation: Theoretical
+  Considerations and Preliminary Results}.
+\newblock {\em General Hospital Psychiatry}, 4(1):33--47, 1982.
+
+\bibitem{Rosenzweig2010}
+Steven Rosenzweig, Jeffrey Greeson, Diane Reibel, Joshua Green, Samar Jasser,
+  and Denise Beasley.
+\newblock {Mindfulness-based stress reduction for chronic pain conditions:
+  Variation in treatment outcomes and role of home meditation practice}.
+\newblock {\em Journal of Psychosomatic Research}, 68(1):29--36, 2010.
 
 \end{thebibliography}
