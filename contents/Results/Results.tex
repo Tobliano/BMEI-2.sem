@@ -1,5 +1,5 @@
 \section{Difference in Threshold and Tolerance}
-The mean of the three threshold and tolerance measurements in each measurements sessions, first measurement (Pre) and second measurement (Post) for the treatment group and control group are illustrated in  \tabref{tab:Treatment} and \tabref{tab:Control} respectively. The standard deviation for these values are illustrated in \tabref{tab:TreatmentA} and \tabref{tab:ControlA} in \autoref{ThresTolA}. The tolerance for some of the subjects is not representative, as the examiner was not able to apply enough force with the algometer to reach the subjects' tolerance.
+The mean of the three threshold and tolerance measurements in each measurements sessions, first measurement (Pre) and second measurement (Post) for the treatment group and control group are illustrated in  \tabref{tab:Treatment} and \tabref{tab:Control} respectively. The standard deviation for these values are illustrated in \tabref{tab:TreatmentA} and \tabref{tab:ControlA} in Appendix \autoref{ThresTolA}. The tolerance for some of the subjects is not representative, as the examiner was not able to apply enough force with the algometer to reach the subjects' tolerance.
 
 \begin{longtable} {l|c|c|c|c|c|c}
 	\caption{Threshold and tolerance pre and post and the percentage difference between these values for the control group. The asterisk indicates that the tolerance is not representative.}
@@ -128,10 +128,10 @@ The results from the Shapiro-Wilk test ($\alpha$ > 0.05) which was used to test 
 %\color[HTML]{000000}{\textbf{Tolerance Pre}}  &
 %\color[HTML]{000000}{\textbf{Tolerance Post}}
 % \\ \hline
-\multirow{ 2}{*}{All subjects} & Treatment (21)& 0.173* & 0.852* & 0.149* & 0.121* \\ \cline{2-6}
- & Control (21)& 0.016  & 0.080* & 0.155*  & 0.514* \\ \hline
-\multirow{ 2}{*}{Not all subjects} & Treatment (15) & 0.377*  & 0.930* & 0.582* & 0.142* \\ \cline{2-6}
-& Control (17)& 0.077* & 0.107* & 0.976* & 0.426* \\ \hline
+\cellcolor[HTML]{C0C0C0} & Treatment (21)& 0.173* & 0.852* & 0.149* & 0.121* \\ \cline{2-6}
+\cellcolor[HTML]{C0C0C0}{\multirow{-2}{*}{All subjects}} & Control (21)& 0.016  & 0.080* & 0.155*  & 0.514* \\ \hline
+\cellcolor[HTML]{C0C0C0}& Treatment (15) & 0.377*  & 0.930* & 0.582* & 0.142* \\ \cline{2-6}
+\cellcolor[HTML]{C0C0C0}{\multirow{-2}{*}{After exclusion}} & Control (17)& 0.077* & 0.107* & 0.976* & 0.426* \\ \hline
 \end{longtable}
 \vspace{-.5cm}
 
@@ -149,10 +149,10 @@ The results from the Shapiro-Wilk test ($\alpha$ > 0.05) which was used to test 
 %  \color[HTML]{000000}{\textbf{Threshold  Difference}} & 
 %\color[HTML]{000000}{\textbf{Tolerance Difference}}  
 % \\ \hline
-\multirow{ 2}{*}{All subjects} & Treatment (21) & 0.013 &  0.888* \\  \cline{2-4}
-& Control (21) & 0.233*  & 0.856*  \\ \hline
-\multirow{ 2}{*}{Not all subjects} & Treatment (15) & 0.197* & 0.975*  \\ \cline{2-4}
-& Control (17) & 0.148* & 0.929* \\ \hline
+\cellcolor[HTML]{C0C0C0} & Treatment (21) & 0.013 &  0.888* \\  \cline{2-4}
+\cellcolor[HTML]{C0C0C0}\multirow{-2}{*}{All subjects} & Control (21) & 0.233*  & 0.856*  \\ \hline
+\cellcolor[HTML]{C0C0C0} & Treatment (15) & 0.197* & 0.975*  \\ \cline{2-4}
+\cellcolor[HTML]{C0C0C0}\multirow{-2}{*}{After exclusion} & Control (17) & 0.148* & 0.929* \\ \hline
 \end{longtable}
 \vspace{-.5cm}
 
@@ -181,22 +181,28 @@ Subject (42) & 0.327  & 0.352 & 0.155  & 0.669 \\ \hline
 There is no significant difference between the threshold and tolerance pre and post.
 
 \subsection{Two-way mixed ANOVA}
-The data set was normal distributed after the exclusion of the subjects whose tolerance could not be reached.
-A two-way mixed ANOVA ($\alpha$ < 0.05) was used to test  if there is a difference within and between the groups.
-The measurements, threshold and tolerance pre and post, are the within-subjects and the groups, treatment and control, are the between-subjects. The test showed an equality of covariance (p = 0.955) and a equality of error variances (p > 0.05) for threshold and tolerance pre and post. Results from the two-way mixed ANOVA are illustrated in \tabref{tab:ANOVA1}
 
-\begin{longtable} {l|c|c|c|c|c}
+The data set was normal distributed after the exclusion of the subjects whose tolerance
+could not be reached. A two-way mixed ANOVA ( < 0.05) was used to test if there is a difference within and between the groups. Whereby the pre and post measurements of threshold and tolerance were compared to see the  within-subjects effect. The groups, treatment and control, were compared to see the between-subjects effect. The test showed an equality of covariance (p = 0.955) and a equality
+of error variances (p > 0.05) for threshold and tolerance pre and post. Results from the
+two-way mixed ANOVA are illustrated in \tabref{tab:ANOVA1}
+
+\begin{longtable} {l|l|c|c}
 \caption{Two-way mixed ANOVA for the threshold and tolerance pre and post for treatment and control respectively}
 	\label{tab:ANOVA1} \\
-\multicolumn{3}{c|}{ \cellcolor[HTML]{C0C0C0}{\textbf{Within-Subjects Effect}}} & \multicolumn{3}{c}{ \cellcolor[HTML]{C0C0C0}{\textbf{Between-Subjects Effect}}}  	\\  \rule{0pt}{3ex} 
-  \cellcolor[HTML]{C0C0C0}{} &
- \multicolumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}} & \multicolumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{Sig}} &  \multicolumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{}} &  \multicolumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{F}} & \multicolumn{1}{|c}{ \cellcolor[HTML]{C0C0C0}{Sig}}	\\ \hline 
-Measurement & 13.051 & 0.001* & Group & 1.492 & 0.231\\ \hline
-Measurement*Group & 0.154 & 0.507 & &  & \\ \hline
+%\multicolumn{3}{c|}{ \cellcolor[HTML]{C0C0C0}{\textbf{Within-Subjects Effect}}} & \multicolumn{3}{c}{ \cellcolor[HTML]{C0C0C0}{\textbf{Between-Subjects Effect}}}  	\\  \rule{0pt}{3ex} 
+  
+  \cellcolor[HTML]{C0C0C0}{} &  \cellcolor[HTML]{C0C0C0}{} &
+ \multicolumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{\textbf{F}}} & \multicolumn{1}{c|}{ \cellcolor[HTML]{C0C0C0}{\textbf{Sig}}} \\ \hline  
+\cellcolor[HTML]{C0C0C0} & Measurement & 13.051 & 0.001* \\ \cline{2-4}
+\cellcolor[HTML]{C0C0C0}\multirow{-2}{*}{Within-subjects effect} & Measurement*Group & 0.154 & 0.507  \\ \hline
+\cellcolor[HTML]{C0C0C0}{Between-subjects effect} & Group & 1.492 & 0.231 \\ \hline
 \end{longtable}
 \vspace{-.5cm}
 
-The test indicated that there is a significant main effect on measurement, F(1,30) = 13.051, p=0.001. However, no significant main effect is seen on the group F(1,30)=1.492, p = 0.231 and main interaction between the measurement and the groups, F(1,30)=0.154, p=0.507 .
+The test indicates that there is a significant main effect between the pre and post measurements (within-subject effect, Measurement). However, no significant main effect is seen between the treatment and control group (between-subjects effect, Group), nor a significant main interaction between the measurements and the groups (within-subjects effect, Measurement*Group).
+
+%The test indicated that there is a significant main effect on measurement, F(1,30) = 13.051, p=0.001. However, no significant main effect is seen on the group F(1,30)=1.492, p = 0.231 and main interaction between the measurement and the groups, F(1,30)=0.154, p=0.507 .
 
 \subsection{Mann-Whitney U Test}
 A normal distribution was not seen between all the threshold and tolerance difference, why a Mann Whitney U ($\alpha$ < 0.05) was used to test if there exists a difference between the groups. Results from this test is illustrated in \tabref{tab:MannWhitney1}.
