@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  16 MAY 2018 13:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  16 MAY 2018 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -642,27 +642,28 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (./article_main.aux)
 \openout1 = `article_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Try loading font information for T1+pplx on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Try loading font information for T1+pplx on input line 101.
+
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 )
 \big@size=\dimen163
-LaTeX Info: Redefining \microtypecontext on input line 93.
+LaTeX Info: Redefining \microtypecontext on input line 101.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -743,7 +744,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 93.
+Package hyperref Info: Link coloring OFF on input line 101.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -752,42 +753,42 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count145
 )
-LaTeX Info: Redefining \ref on input line 93.
-LaTeX Info: Redefining \pageref on input line 93.
-LaTeX Info: Redefining \nameref on input line 93.
+LaTeX Info: Redefining \ref on input line 101.
+LaTeX Info: Redefining \pageref on input line 101.
+LaTeX Info: Redefining \nameref on input line 101.
 
 (./article_main.out) (./article_main.out)
 \@outlinefile=\write3
 \openout3 = `article_main.out'.
 
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 97.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 97.
-
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 105.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 105
+.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 97.
-
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 105
+.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 97.
-
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 105
+.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 97.
-
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 105
+.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 97.
-
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 105
+.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -800,9 +801,9 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplx/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 97.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 105.
 LaTeX Font Info:    Font shape `T1/pplx/bx/it' in size <9> not available
-(Font)              Font shape `T1/pplx/b/it' tried instead on input line 97.
+(Font)              Font shape `T1/pplx/b/it' tried instead on input line 105.
 
 (./introduction.tex
 
@@ -814,10 +815,6 @@ Package natbib Warning: Citation `marcus2009' on page 1 undefined on input line
  2.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 Package natbib Warning: Citation `marcus2009' on page 1 undefined on input line
  5.
 
@@ -826,17 +823,17 @@ Package natbib Warning: Citation `Ziedan2016' on page 1 undefined on input line
  5.
 
 
-Package natbib Warning: Citation `marcus2009' on page 1 undefined on input line
- 7.
-
-
-Underfull \vbox (badness 5359) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]) (./methods.tex
-<../figures/studydesign.png, id=83, 660.4675pt x 251.94125pt>
+]
+
+Package natbib Warning: Citation `marcus2009' on page 2 undefined on input line
+ 7.
+
+) (./methods.tex <../figures/studydesign.png, id=81, 660.4675pt x 251.94125pt>
 File: ../figures/studydesign.png Graphic file (type png)
 
 <use ../figures/studydesign.png>
@@ -845,7 +842,7 @@ Package pdftex.def Info: ../figures/studydesign.png used on input line 11.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 12.
 
-<../figures/trapezius.jpg, id=86, 1284.8pt x 722.7pt>
+<../figures/trapezius.jpg, id=84, 1284.8pt x 722.7pt>
 File: ../figures/trapezius.jpg Graphic file (type jpg)
 
 <use ../figures/trapezius.jpg>
@@ -856,7 +853,10 @@ Underfull \hbox (badness 1377) in paragraph at lines 35--36
 \T1/pplx/m/n/10 (+20) To en-sure same med-i-ta-tion con-di-tions, a
  []
 
-) (./results.tex [2 <../figures/studydesign.png> <../figures/trapezius.jpg>])
+
+Underfull \vbox (badness 1540) has occurred while \output is active []
+
+ [2 <../figures/studydesign.png> <../figures/trapezius.jpg>]) (./results.tex)
 (./discussion.tex [3]
 
 Package natbib Warning: Citation `Tesarz2012' on page 4 undefined on input line
@@ -874,7 +874,11 @@ Package natbib Warning: Citation `Kabat1982' on page 4 undefined on input line
 Package natbib Warning: Citation `Rosenzweig2010' on page 4 undefined on input 
 line 21.
 
-) (./conclusion.tex) [4] (./article_main.bbl
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(./conclusion.tex) [4] (./article_main.bbl
 Underfull \hbox (badness 3009) in paragraph at lines 37--41
 \T1/pplx/m/n/8 (+20) McHaffiea, and R. C. Coghilla.  Mind-ful-ness
  []
@@ -883,28 +887,28 @@ Underfull \hbox (badness 3009) in paragraph at lines 37--41
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
 [5
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
  (./article_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `article_main.out' has not changed.
 (rerunfilecheck)             Checksum: B3AB7EA49FDB16A40F3F9B632C4E13F8;761.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 125 ({)
+### simple group (level 1) entered at line 133 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 10834 strings out of 493089
- 164599 string characters out of 6134843
- 298491 words of memory out of 5000000
+ 10826 strings out of 493089
+ 164521 string characters out of 6134843
+ 300257 words of memory out of 5000000
  13812 multiletter control sequences out of 15000+600000
- 64203 words of font info for 270 fonts, out of 8000000 for 9000
+ 63783 words of font info for 264 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,10n,43p,1585b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc
@@ -915,7 +919,7 @@ texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on article_main.pdf (5 pages, 288924 bytes).
+Output written on article_main.pdf (5 pages, 292156 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  130 compressed objects within 2 object streams
