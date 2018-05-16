@@ -18,14 +18,14 @@
 \contentsline {subsection}{\numberline {2.3.4}Psychological therapy}{11}{subsection.2.3.4}
 \contentsline {subsection}{\numberline {2.3.5}Surgery}{11}{subsection.2.3.5}
 \contentsline {subsection}{\numberline {2.3.6}Alternative treatments}{11}{subsection.2.3.6}
-\contentsline {subsubsection}{\numberline {2.3.6.1}Acupuncture}{12}{subsubsection.2.3.6.1}
+\contentsline {subsubsection}{\numberline {2.3.6.1}Acupuncture}{11}{subsubsection.2.3.6.1}
 \contentsline {subsubsection}{\numberline {2.3.6.2}Chiropractor}{12}{subsubsection.2.3.6.2}
 \contentsline {subsubsection}{\numberline {2.3.6.3}Hypnosis}{12}{subsubsection.2.3.6.3}
 \contentsline {subsubsection}{\numberline {2.3.6.4}Yoga}{12}{subsubsection.2.3.6.4}
 \contentsline {subsubsection}{\numberline {2.3.6.5}Meditation}{12}{subsubsection.2.3.6.5}
 \contentsline {section}{\numberline {2.4}Mindfulness}{13}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Meditation classification}{13}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Mechanisms of mindfulness}{14}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.2}Mechanisms of mindfulness}{13}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}Stages of meditation}{16}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}State of the Art}{17}{section.2.5}
 \contentsline {chapter}{\numberline {3}Problem formulation}{19}{chapter.3}
@@ -47,5 +47,5 @@
 \contentsline {section}{\numberline {6.2}Experimental Setup}{29}{section.6.2}
 \contentsline {section}{\numberline {6.3}Meditation technique}{30}{section.6.3}
 \contentsline {chapter}{\numberline {7}Conclusion}{31}{chapter.7}
-\contentsline {chapter}{\numberline {A}Subject information}{32}{Appendix.a.A}
-\contentsline {chapter}{\numberline {B}Threshold and Tolerance}{34}{Appendix.a.B}
+\contentsline {chapter}{\numberline {A}Subject information}{37}{Appendix.a.A}
+\contentsline {chapter}{\numberline {B}Threshold and Tolerance}{39}{Appendix.a.B}

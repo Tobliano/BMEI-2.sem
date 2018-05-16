@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.21)  16 MAY 2018 10:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.21)  16 MAY 2018 11:13
 entering extended mode
 **./main.tex
 (main.tex
@@ -3704,8 +3704,23 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-No file main.bbl.
+Package biblatex Info: ... file 'main.bbl' found.
+(main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Grant2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Perlman2016
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 8.
 Package biblatex Info: Reference segment=0 on input line 8.
 \AtBeginShipoutBox=\box104
@@ -3714,7 +3729,7 @@ LaTeX Info: Redefining \ref on input line 8.
 LaTeX Info: Redefining \pageref on input line 8.
 LaTeX Info: Redefining \nameref on input line 8.
 \c@lstlisting=\count515
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 ("C:\Users\tobbe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
 .sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -3823,21 +3838,6 @@ Package cleveref Info: loaded `english' language definitions on input line 2.
 
 ] (contents/Introduction.tex
 Chapter 1.
-
-LaTeX Warning: Citation 'Briggs2010' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Mello2016' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 1 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'Macfarlanea2016' on page 1 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'Mello2016' on page 1 undefined on input line 5.
-
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -3850,555 +3850,91 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
 line 6.
+)
+Package cleveref Info: loaded `english' language definitions on input line 78.
 
-
-LaTeX Warning: Citation 'Breivik2006' on page 1 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Macfarlanea2016' on page 1 undefined on input line 12.
-
-
-
-LaTeX Warning: Citation 'vanRanderaat2016' on page 1 undefined on input line 12
-.
-
-
-LaTeX Warning: Citation 'gross2013' on page 1 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 1 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'pope2017' on page 1 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Breivik2006' on page 1 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 1 undefined on input line 17.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 1 undefined on input line 17.
-
-Package cleveref Info: loaded `english' language definitions on input line 22.
 [1
 
-])
+]
 Package cleveref Info: loaded `english' language definitions on input line 78.
  [2]
 Chapter 2.
 (contents/background/Pain2.tex
-
-LaTeX Warning: Citation 'Kerstman2013' on page 3 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Mello2016' on page 3 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Goldberg2011' on page 3 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Mello2016' on page 3 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Macfarlanea2016' on page 3 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'Goldberg2011' on page 3 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'Goldberg2011' on page 3 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'Breivik2006' on page 3 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'Geisser2018' on page 3 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Steeds2013' on page 3 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Kerstman2013' on page 3 undefined on input line 12.
-
 Package cleveref Info: loaded `english' language definitions on input line 14.
-[3
+ [3
 
 ]
-
-LaTeX Warning: Citation 'Steeds2013' on page 4 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Martini2012' on page 4 undefined on input line 17.
-
-
-LaTeX Warning: Citation 'Martini2012' on page 4 undefined on input line 17.
-
-<figures/pathways.png, id=164, 323.2075pt x 621.32124pt>
+<figures/pathways.png, id=207, 323.2075pt x 621.32124pt>
 File: figures/pathways.png Graphic file (type png)
 <use figures/pathways.png>
 Package pdftex.def Info: figures/pathways.png  used on input line 21.
 (pdftex.def)             Requested size: 227.62206pt x 437.56699pt.
-
-LaTeX Warning: Citation 'Martini2012' on page 4 undefined on input line 22.
-
-
-LaTeX Warning: Citation 'Martini2012' on page 4 undefined on input line 22.
-
 Package cleveref Info: loaded `english' language definitions on input line 25.
-[4]
-
-LaTeX Warning: Citation 'Mindruta2013' on page 5 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Mindruta2013' on page 5 undefined on input line 32.
-
-) (contents/background/pain_measurement.tex
-Package cleveref Info: loaded `english' language definitions on input line 1.
+ [4])
+(contents/background/pain_measurement.tex
+Package cleveref Info: loaded `english' language definitions on input line 3.
  [5 <./figures/pathways.png>]
-
-LaTeX Warning: Citation 'Jensen2001' on page 6 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Younger2010' on page 6 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Briggs2010' on page 6 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Jensen2001' on page 6 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'Ebert2010' on page 6 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Jensen2001' on page 6 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Jensen1986' on page 6 undefined on input line 12.
-
-<figures/VRS.png, id=179, 730.73pt x 41.15375pt>
+<figures/VRS.png, id=235, 730.73pt x 41.15375pt>
 File: figures/VRS.png Graphic file (type png)
 <use figures/VRS.png>
 Package pdftex.def Info: figures/VRS.png  used on input line 15.
 (pdftex.def)             Requested size: 227.62206pt x 12.81906pt.
-
-LaTeX Warning: Citation 'Jensen2001' on page 6 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Jensen2001' on page 6 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Jensen2001' on page 6 undefined on input line 20.
-
-<figures/VAS.png, id=181, 629.35126pt x 97.36375pt>
+<figures/VAS.png, id=240, 629.35126pt x 97.36375pt>
 File: figures/VAS.png Graphic file (type png)
 <use figures/VAS.png>
 Package pdftex.def Info: figures/VAS.png  used on input line 23.
 (pdftex.def)             Requested size: 227.62206pt x 35.21432pt.
-
-LaTeX Warning: Citation 'Jensen2001' on page 6 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'Jensen2001' on page 6 undefined on input line 24.
-
-Package cleveref Info: loaded `english' language definitions on input line 26.
-[6 <./figures/VRS.png>]
-
-LaTeX Warning: Citation 'Fillingim2016' on page 7 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'Jensen2001' on page 7 undefined on input line 28.
-
-<figures/NRS.png, id=191, 628.3475pt x 83.31125pt>
+Package cleveref Info: loaded `english' language definitions on input line 27.
+ [6 <./figures/VRS.png>]
+<figures/NRS.png, id=258, 628.3475pt x 83.31125pt>
 File: figures/NRS.png Graphic file (type png)
 <use figures/NRS.png>
 Package pdftex.def Info: figures/NRS.png  used on input line 31.
 (pdftex.def)             Requested size: 227.62206pt x 30.17888pt.
-
-LaTeX Warning: Citation 'Jensen2001' on page 7 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Jensen2001' on page 7 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Jensen2001' on page 7 undefined on input line 36.
-
-
-LaTeX Warning: Citation 'Briggs2010' on page 7 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'Katz2001' on page 7 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'Katz2001' on page 7 undefined on input line 44.
-
-Package cleveref Info: loaded `english' language definitions on input line 45.
-[7 <./figures/VAS.png> <./figures/NRS.png>]
-
-LaTeX Warning: Citation 'Jensen2001' on page 8 undefined on input line 46.
-
-
-LaTeX Warning: Citation 'Fillingim2016' on page 8 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Fillingim2016' on page 8 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Yarnitsky2006' on page 8 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yarnitsky2006' on page 8 undefined on input line 59.
-
-
-LaTeX Warning: Citation 'Pelli2010' on page 8 undefined on input line 61.
-
+Package cleveref Info: loaded `english' language definitions on input line 46.
+ [7 <./figures/VAS.png> <./figures/NRS.png>]
 Package cleveref Info: loaded `english' language definitions on input line 62.
-[8]
+ [8]
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 65.
- ("C:\Users\tobbe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
+
+("C:\Users\tobbe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-
-LaTeX Warning: Citation 'Kingdom2016' on page 9 undefined on input line 65.
-
-
-LaTeX Warning: Citation 'Kingdom2016' on page 9 undefined on input line 67.
-
-
-LaTeX Warning: Citation 'Kingdom2016' on page 9 undefined on input line 69.
-
-) (contents/background/Treatment.tex
-
-LaTeX Warning: Citation 'marcus2009' on page 9 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'pope2017' on page 9 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 9 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'pope2017' on page 9 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 9 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'pope2017' on page 9 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 9 undefined on input line 16.
-
-Package cleveref Info: loaded `english' language definitions on input line 19.
-[9]
-
-LaTeX Warning: Citation 'marcus2009' on page 10 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 10 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'stein2007' on page 10 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 10 undefined on input line 23.
-
-
-LaTeX Warning: Citation 'stein2007' on page 10 undefined on input line 23.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 10 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 10 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'pope2017' on page 10 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 10 undefined on input line 33.
-
-
-LaTeX Warning: Citation 'pope2017' on page 10 undefined on input line 33.
-
+))
+(contents/background/Treatment.tex
+Package cleveref Info: loaded `english' language definitions on input line 20.
+ [9]
 Package cleveref Info: loaded `english' language definitions on input line 34.
-[10]
-
-LaTeX Warning: Citation 'Eccleston2002' on page 11 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'Eccleston2013' on page 11 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 11 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'pope2017' on page 11 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'Burger2016' on page 11 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'Eccleston2013' on page 11 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 11 undefined on input line 41.
-
-
-LaTeX Warning: Citation 'pope2017' on page 11 undefined on input line 41.
-
-
-LaTeX Warning: Citation 'pope2017' on page 11 undefined on input line 41.
-
-
-LaTeX Warning: Citation 'Dhanani2011' on page 11 undefined on input line 47.
-
-
-LaTeX Warning: Citation 'Junnilla1983' on page 11 undefined on input line 47.
-
+ [10]
 Package cleveref Info: loaded `english' language definitions on input line 50.
-[11]
-
-LaTeX Warning: Citation 'Gerald2013' on page 12 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Peterson2012' on page 12 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Gerald2013' on page 12 undefined on input line 59.
-
-
-LaTeX Warning: Citation 'Dhanani2011' on page 12 undefined on input line 60.
-
-
-LaTeX Warning: Citation 'Alkis2010' on page 12 undefined on input line 61.
-
-
-LaTeX Warning: Citation 'Spiegel2013' on page 12 undefined on input line 61.
-
-
-LaTeX Warning: Citation 'Whitehead2017' on page 12 undefined on input line 66.
-
-
-LaTeX Warning: Citation 'Kabat1982' on page 12 undefined on input line 71.
-
-
-LaTeX Warning: Citation 'Goyal2014' on page 12 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Kabat1982' on page 12 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 12 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Kabat1982' on page 12 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 12 undefined on input line 72.
-
+ [11]
 Package cleveref Info: loaded `english' language definitions on input line 73.
-[12]) (contents/background/Newmindfulness.tex
-
-LaTeX Warning: Citation 'Kabat1982' on page 13 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 13 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 13 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Tang2017' on page 13 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 13 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 13 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Tang2017' on page 13 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Jacob2016' on page 13 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Kabat1982' on page 13 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'Tang2017' on page 13 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 13 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 13 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Perlman2016' on page 13 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 13 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Kabat1982' on page 13 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Perlman2010' on page 13 undefined on input line 21.
-
-Package cleveref Info: loaded `english' language definitions on input line 23.
-[13]
-
-LaTeX Warning: Citation 'Brown2010' on page 14 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'Zeidan2011' on page 14 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Perlman2010' on page 14 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 14 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'Perlman2010' on page 14 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'Brown2010' on page 14 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'Lutz2012' on page 14 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'Gard2011' on page 14 undefined on input line 36.
-
-
-LaTeX Warning: Citation 'Gard2011' on page 14 undefined on input line 36.
-
-
-LaTeX Warning: Citation 'Grant2011' on page 14 undefined on input line 37.
-
-<figures/brain_meditation.png, id=235, 401.0985pt x 206.57175pt>
+ [12])
+(contents/background/Newmindfulness.tex
+Package cleveref Info: loaded `english' language definitions on input line 26.
+ [13]
+<figures/brain_meditation.png, id=403, 401.0985pt x 206.57175pt>
 File: figures/brain_meditation.png Graphic file (type png)
 <use figures/brain_meditation.png>
 Package pdftex.def Info: figures/brain_meditation.png  used on input line 48.
 (pdftex.def)             Requested size: 409.71692pt x 211.00928pt.
-
-LaTeX Warning: Citation 'Tang2017' on page 14 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'Tang2017' on page 14 undefined on input line 49.
-
 Package cleveref Info: loaded `english' language definitions on input line 52.
-[14]
-
-LaTeX Warning: Citation 'Tang2017' on page 15 undefined on input line 58.
-
-
-LaTeX Warning: Citation 'Tang2017' on page 15 undefined on input line 60.
-
-
-LaTeX Warning: Citation 'Tang2017' on page 15 undefined on input line 62.
-
+ [14]
 Package cleveref Info: loaded `english' language definitions on input line 63.
-[15 <./figures/brain_meditation.png>]
-
-LaTeX Warning: Citation 'Tang2017' on page 16 undefined on input line 68.
-
-<figures/stages_of_meditation.png, id=255, 442.65375pt x 222.8325pt>
+ [15 <./figures/brain_meditation.png>]
+<figures/stages_of_meditation.png, id=433, 442.65375pt x 222.8325pt>
 File: figures/stages_of_meditation.png Graphic file (type png)
 <use figures/stages_of_meditation.png>
 Package pdftex.def Info: figures/stages_of_meditation.png  used on input line 7
 1.
 (pdftex.def)             Requested size: 364.19667pt x 183.34605pt.
-
-LaTeX Warning: Citation 'Tang2017' on page 16 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Tang2017' on page 16 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Tang2017' on page 16 undefined on input line 76.
-
-
-LaTeX Warning: Citation 'Jacob2016' on page 16 undefined on input line 79.
-
-Package cleveref Info: loaded `english' language definitions on input line 80.
-[16 <./figures/stages_of_meditation.png>]
-
-LaTeX Warning: Citation 'Zeidan2012' on page 17 undefined on input line 81.
-
-) (contents/background/stateoftheart.tex
-
-LaTeX Warning: Citation 'Briggs2010' on page 17 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'Norton1999' on page 17 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'marcus2009' on page 17 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'pope2017' on page 17 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 17 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Zeidan2016' on page 17 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Kabat1982' on page 17 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Rosenzweig2010' on page 17 undefined on input line 14.
-
-
-
-LaTeX Warning: Citation 'Cramer2012' on page 17 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'Kabat1982' on page 17 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'Chiesa2010' on page 17 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 17 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 17 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Rosenzweig2010' on page 17 undefined on input line 24.
-
-
-
-LaTeX Warning: Citation 'Ussher2012' on page 17 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'Ussher2012' on page 17 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 17 undefined on input line 26.
-
-Package cleveref Info: loaded `english' language definitions on input line 27.
-[17]
-
-LaTeX Warning: Citation 'Chiesa2010' on page 18 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'Macfarlanea2016' on page 18 undefined on input line 28
-.
-
-) (contents/Problem_formulation.tex
+Package cleveref Info: loaded `english' language definitions on input line 82.
+ [16 <./figures/stages_of_meditation.png>])
+(contents/background/stateoftheart.tex
+Package cleveref Info: loaded `english' language definitions on input line 29.
+ [17]) (contents/Problem_formulation.tex
 Package cleveref Info: loaded `english' language definitions on input line 1.
- [18]
+
+[18]
 Chapter 3.
 )
 Package cleveref Info: loaded `english' language definitions on input line 89.
@@ -4407,7 +3943,7 @@ Package cleveref Info: loaded `english' language definitions on input line 89.
 ]
 Chapter 4.
 (contents/Protocol.tex
-<figures/studydesign.png, id=282, 660.4675pt x 251.94125pt>
+<figures/studydesign.png, id=489, 660.4675pt x 251.94125pt>
 File: figures/studydesign.png Graphic file (type png)
 <use figures/studydesign.png>
 Package pdftex.def Info: figures/studydesign.png  used on input line 69.
@@ -4416,20 +3952,13 @@ Package cleveref Info: loaded `english' language definitions on input line 73.
  [20
 
 ]
-<figures/trapezius.jpg, id=296, 1284.8pt x 722.7pt>
+<figures/trapezius.jpg, id=503, 1284.8pt x 722.7pt>
 File: figures/trapezius.jpg Graphic file (type jpg)
 <use figures/trapezius.jpg>
 Package pdftex.def Info: figures/trapezius.jpg  used on input line 88.
 (pdftex.def)             Requested size: 227.62206pt x 128.02927pt.
 Package cleveref Info: loaded `english' language definitions on input line 96.
- [21 <./figures/studydesign.png> <./figures/trapezius.jpg>]
-
-LaTeX Warning: Citation 'Shapiro1965' on page 22 undefined on input line 104.
-
-
-LaTeX Warning: Citation 'Mooi2018' on page 22 undefined on input line 104.
-
-)
+ [21 <./figures/studydesign.png> <./figures/trapezius.jpg>])
 Package cleveref Info: loaded `english' language definitions on input line 93.
  [22]
 Chapter 5.
@@ -4443,7 +3972,7 @@ Package cleveref Info: loaded `english' language definitions on input line 38.
 ]
 Package cleveref Info: loaded `english' language definitions on input line 76.
  [24]
-<figures/barplot.png, id=332, 1405.25pt x 769.87625pt>
+<figures/barplot.png, id=543, 1405.25pt x 769.87625pt>
 File: figures/barplot.png Graphic file (type png)
 <use figures/barplot.png>
 Package pdftex.def Info: figures/barplot.png  used on input line 101.
@@ -4461,63 +3990,47 @@ Package cleveref Info: loaded `english' language definitions on input line 97.
  [28]
 Chapter 6.
 (contents/Discussion.tex
-
-LaTeX Warning: Citation 'Neddermeyer2007' on page 29 undefined on input line 13
-.
-
-
-LaTeX Warning: Citation 'Yarnitsky2006' on page 29 undefined on input line 22.
-
-
-LaTeX Warning: Citation 'Koltyn2002' on page 29 undefined on input line 25.
-
 Package cleveref Info: loaded `english' language definitions on input line 26.
-[29
+ [29
 
-]
-
-LaTeX Warning: Citation 'Fischer1987' on page 30 undefined on input line 29.
-
-
-LaTeX Warning: Citation 'Tesarz2012' on page 30 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'Kabat1982' on page 30 undefined on input line 34.
-
-
-LaTeX Warning: Citation 'Rosenzweig2010' on page 30 undefined on input line 34.
-
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 30 undefined on input line 34.
-
-
-LaTeX Warning: Citation 'Zeidan2012' on page 30 undefined on input line 34.
-
-)
+])
 Package cleveref Info: loaded `english' language definitions on input line 100.
 
  [30]
 Chapter 7.
 (contents/Conclusion.tex)
+Package cleveref Info: loaded `english' language definitions on input line 104.
 
-LaTeX Warning: Empty bibliography on input line 104.
-
-(contents/Appendices/Subjectinformation.tex
-Package cleveref Info: loaded `english' language definitions on input line 1.
  [31
 
 ]
+Package cleveref Info: loaded `english' language definitions on input line 104.
+
+ [32
+
+]
+Package cleveref Info: loaded `english' language definitions on input line 104.
+
+ [33]
+Package cleveref Info: loaded `english' language definitions on input line 104.
+
+ [34]
+Package cleveref Info: loaded `english' language definitions on input line 104.
+
+ [35]
+(contents/Appendices/Subjectinformation.tex
+Package cleveref Info: loaded `english' language definitions on input line 1.
+ [36]
 Appendix A.
 Package cleveref Info: loaded `english' language definitions on input line 58.
-[32
+[37
 
 ]) (contents/Appendices/ThresTolStd.tex
 Package cleveref Info: loaded `english' language definitions on input line 1.
- [33]
+ [38]
 Appendix B.
 Package cleveref Info: loaded `english' language definitions on input line 36.
-[34
+[39
 
 ])
 
@@ -4531,7 +4044,7 @@ See the caption package documentation for explanation.
 AED: lastpage setting LastPage
 Package cleveref Info: loaded `english' language definitions on input line 111.
 
-[35]
+[40]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
  (main.aux
@@ -4539,50 +4052,42 @@ Package cleveref Info: loaded `english' language definitions on input line 25.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 111.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52515 strings out of 493303
- 1086971 string characters out of 3129784
- 1693950 words of memory out of 3000000
- 55131 multiletter control sequences out of 15000+200000
- 659060 words of font info for 115 fonts, out of 3000000 for 9000
+ 52808 strings out of 493303
+ 1095705 string characters out of 3129784
+ 1699535 words of memory out of 3000000
+ 55359 multiletter control sequences out of 15000+200000
+ 661855 words of font info for 116 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,22n,92p,10455b,2839s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
+ 57i,22n,92p,10455b,3169s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
+c}{C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
 t.enc}{C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-m
 athsy.enc}{C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/
 lm-ts1.enc}{C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm
-/lm-ec.enc}{C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm
 /lm-rm.enc}<C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /lm/lmbx10.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/lm/lmbx12.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/lm/lmbx8.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmmi12.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/lm/lmmi8.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/lm/lmr10.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Users/tobbe/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/tobbe/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/tobbe/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/tobbe/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Users/tobbe/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/tobbe/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (40 pages, 986750 bytes).
+ype1/public/lm/lmcsc10.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmmi12.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/lm/lmmi8.pfb><C:/Users/tobbe/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/tobbe/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/tobbe/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Users/tobbe/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/tobbe/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/tobbe/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/tobbe/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Users/tobbe/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/tobbe/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (45 pages, 1090062 bytes).
 PDF statistics:
- 636 PDF objects out of 1000 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
+ 992 PDF objects out of 1000 (max. 8388607)
+ 179 named destinations out of 1000 (max. 500000)
  463 words of extra memory for PDF output out of 10000 (max. 10000000)
 
