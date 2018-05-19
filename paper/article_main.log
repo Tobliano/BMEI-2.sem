@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  18 MAY 2018 15:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  19 MAY 2018 12:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -843,12 +843,12 @@ Underfull \hbox (badness 1377) in paragraph at lines 35--36
 Underfull \vbox (badness 1540) has occurred while \output is active []
 
  [2 <../figures/studydesign.png> <../figures/trapezius.jpg>]) (./results.tex
-Overfull \hbox (17.63773pt too wide) in paragraph at lines 10--25
+Overfull \hbox (7.76758pt too wide) in paragraph at lines 10--27
  [][] 
  []
 
 
-Overfull \hbox (12.63773pt too wide) in paragraph at lines 33--48
+Overfull \hbox (2.76758pt too wide) in paragraph at lines 35--50
  [][] 
  []
 
@@ -891,7 +891,7 @@ texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on article_main.pdf (5 pages, 295473 bytes).
+Output written on article_main.pdf (5 pages, 295563 bytes).
 PDF statistics:
  164 PDF objects out of 1000 (max. 8388607)
  145 compressed objects within 2 object streams
