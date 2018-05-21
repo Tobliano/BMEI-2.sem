@@ -2378,16 +2378,15 @@
     <bcf:citekey order="136">Mooi2018</bcf:citekey>
     <bcf:citekey order="137">Mooi2018</bcf:citekey>
     <bcf:citekey order="138">Mooi2018</bcf:citekey>
-    <bcf:citekey order="139">Doganci2011</bcf:citekey>
-    <bcf:citekey order="140">Fischer1987</bcf:citekey>
-    <bcf:citekey order="141">Neddermeyer2007</bcf:citekey>
-    <bcf:citekey order="142">Yarnitsky2006</bcf:citekey>
-    <bcf:citekey order="143">Tesarz2012</bcf:citekey>
-    <bcf:citekey order="144">Koltyn2002</bcf:citekey>
-    <bcf:citekey order="145">Kabat1982</bcf:citekey>
-    <bcf:citekey order="145">Rosenzweig2010</bcf:citekey>
+    <bcf:citekey order="139">Fischer1987</bcf:citekey>
+    <bcf:citekey order="140">Neddermeyer2007</bcf:citekey>
+    <bcf:citekey order="141">Yarnitsky2006</bcf:citekey>
+    <bcf:citekey order="142">Tesarz2012</bcf:citekey>
+    <bcf:citekey order="143">Koltyn2002</bcf:citekey>
+    <bcf:citekey order="144">Kabat1982</bcf:citekey>
+    <bcf:citekey order="144">Rosenzweig2010</bcf:citekey>
+    <bcf:citekey order="145">Zeidan2012</bcf:citekey>
     <bcf:citekey order="146">Zeidan2012</bcf:citekey>
-    <bcf:citekey order="147">Zeidan2012</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none" type="entry" sortscheme="none">
   <bcf:sorting>
