@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.21)  22 MAY 2018 11:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.21)  22 MAY 2018 12:05
 entering extended mode
 **./article_main.tex
 (article_main.tex
@@ -1003,12 +1003,7 @@ Overfull \hbox (2.76758pt too wide) in paragraph at lines 43--58
  [][] 
  []
 
-) (discussion.tex
-
-Package natbib Warning: Citation `Kinser2009' on page 4 undefined on input line
- 14.
-
-[4]) (conclusion.tex) (article_main.bbl
+) (discussion.tex [4]) (conclusion.tex) (article_main.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
@@ -1017,11 +1012,8 @@ Underfull \hbox (badness 1990) in paragraph at lines 56--60
  []
 
 )
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
-[6]
+ [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
  (article_main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
@@ -1035,11 +1027,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
 ### simple group (level 1) entered at line 120 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11297 strings out of 493303
- 174227 string characters out of 3129784
- 307230 words of memory out of 3000000
- 14222 multiletter control sequences out of 15000+200000
- 68467 words of font info for 343 fonts, out of 3000000 for 9000
+ 11296 strings out of 493303
+ 174249 string characters out of 3129784
+ 307246 words of memory out of 3000000
+ 14224 multiletter control sequences out of 15000+200000
+ 68244 words of font info for 340 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,10n,43p,904b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/tobbe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvi
@@ -1051,9 +1043,9 @@ ams/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/tobbe/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/tobbe/AppD
 ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/tob
 be/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on article_main.pdf (6 pages, 2000423 bytes).
+Output written on article_main.pdf (6 pages, 1999657 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
+ 185 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
  52856 words of extra memory for PDF output out of 61914 (max. 10000000)
 
