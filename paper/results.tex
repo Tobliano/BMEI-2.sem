@@ -63,13 +63,50 @@ The test indicates that there is a significant main effect between Pre and Post 
 The Shapiro-Wilk test showed a normal distribution ($\alpha$ > 0.05) and an unequal variance (p = 0.013) for the Improvement in Threshold and Tolerance for both groups. Therefore the t-test was applied. The results from the t-test are illustrated in Table \ref{table:TTEST}. 
 
 \begin{table}[ht]
-\caption{T-test for Threshold and Tolerance Improvement for treatment and control group. P-values marked with an asterisk indicate significant difference.}
+\caption{T-test for Threshold and Tolerance Improvement for treatment and control group. P-values marked with an asterisk indicate significant difference. F-value and degree of
+freedom (df) are illustrated as well.}
 \centering
-\begin{tabular}{c c}
+\begin{tabular}{l c c c} 
 \toprule
-\textbf{Threshold} & \textbf{Tolerance} \\
-\midrule
- 0.149 &  0.330 \\
+& \textbf{df} & \textbf{F} & \textbf{Sig} \\ [0.5ex]
+\midrule 
+\textbf{Threshold} & 19.892 & 6.967 & 0.149    \\ \hline
+\textbf{Tolerance} & 30 & 2.084 & 0.330 \\
+\hline
+\end{tabular}
+\label{table:TTEST}
+\end{table}
+
+\begin{table}[ht]
+\caption{T-test for Threshold and Tolerance Improvement for treatment and control group. P-values marked with an asterisk indicate significant difference. F-value and degree of
+freedom (df) are illustrated as well.}
+\centering
+\begin{tabular}{l c c c} 
+\toprule
+& \textbf{df} & \textbf{F} & \textbf{Sig} \\ [0.5ex]
+\midrule 
+\textbf{Threshold} & 19.892 & 6.967 & 0.149    \\ 
+\textbf{Tolerance} & 30 & 2.084 & 0.330 \\
+\hline
+\end{tabular}
+\label{table:TTEST}
+\end{table}
+
+\begin{table}[ht]
+\caption{T-test for Threshold and Tolerance Improvement for treatment and control group. P-values marked with an asterisk indicate significant difference. F-value and degree of
+freedom (df) are illustrated as well.}
+\centering
+\begin{tabular}{l c c} 
+\toprule
+\multicolumn{3}{c}{\textbf{Threshold}} \\
+\midrule  
+\textbf{df} & \textbf{F} & \textbf{Sig} \\ [0.5ex] % inserts table %heading
+19.892 & 6.967 & 0.149    \\
+\toprule
+\multicolumn{3}{c}{\textbf{Tolerance}} \\
+\midrule 
+\textbf{df} & \textbf{F} & \textbf{Sig} \\ [0.5ex] % inserts table %heading
+30 & 2.084 & 0.330 \\
 \hline
 \end{tabular}
 \label{table:TTEST}
