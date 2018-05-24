@@ -2379,21 +2379,29 @@
     <bcf:citekey order="134">Kabat1982</bcf:citekey>
     <bcf:citekey order="135">Falla2004</bcf:citekey>
     <bcf:citekey order="135">Fischer1987</bcf:citekey>
-    <bcf:citekey order="136">Shapiro1965</bcf:citekey>
-    <bcf:citekey order="136">Mooi2018</bcf:citekey>
-    <bcf:citekey order="137">Mooi2018</bcf:citekey>
-    <bcf:citekey order="138">Mooi2018</bcf:citekey>
-    <bcf:citekey order="139">Bingel2007</bcf:citekey>
-    <bcf:citekey order="140">Neddermeyer2007</bcf:citekey>
-    <bcf:citekey order="141">Kinser2009</bcf:citekey>
-    <bcf:citekey order="142">Tesarz2012</bcf:citekey>
-    <bcf:citekey order="143">Koltyn2002</bcf:citekey>
-    <bcf:citekey order="144">Koltyn2002</bcf:citekey>
-    <bcf:citekey order="145">Serinken2013</bcf:citekey>
-    <bcf:citekey order="146">Kabat1982</bcf:citekey>
-    <bcf:citekey order="146">Rosenzweig2010</bcf:citekey>
-    <bcf:citekey order="147">Zeidan2012</bcf:citekey>
-    <bcf:citekey order="148">Zeidan2012</bcf:citekey>
+    <bcf:citekey order="136">Kjogx2016</bcf:citekey>
+    <bcf:citekey order="137">Fischer1987</bcf:citekey>
+    <bcf:citekey order="137">Kinser2009</bcf:citekey>
+    <bcf:citekey order="138">Kinser2009</bcf:citekey>
+    <bcf:citekey order="138">Vaughan2007</bcf:citekey>
+    <bcf:citekey order="139">Shapiro1965</bcf:citekey>
+    <bcf:citekey order="139">Mooi2018</bcf:citekey>
+    <bcf:citekey order="140">Mooi2018</bcf:citekey>
+    <bcf:citekey order="141">Mooi2018</bcf:citekey>
+    <bcf:citekey order="142">Bingel2007</bcf:citekey>
+    <bcf:citekey order="143">Neddermeyer2007</bcf:citekey>
+    <bcf:citekey order="144">Fischer1987</bcf:citekey>
+    <bcf:citekey order="144">Kinser2009</bcf:citekey>
+    <bcf:citekey order="145">Kinser2009</bcf:citekey>
+    <bcf:citekey order="146">Vaughan2007</bcf:citekey>
+    <bcf:citekey order="147">Tesarz2012</bcf:citekey>
+    <bcf:citekey order="148">Koltyn2002</bcf:citekey>
+    <bcf:citekey order="149">Koltyn2002</bcf:citekey>
+    <bcf:citekey order="150">Serinken2013</bcf:citekey>
+    <bcf:citekey order="151">Kabat1982</bcf:citekey>
+    <bcf:citekey order="151">Rosenzweig2010</bcf:citekey>
+    <bcf:citekey order="152">Zeidan2012</bcf:citekey>
+    <bcf:citekey order="153">Zeidan2012</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none" type="entry" sortscheme="none">
   <bcf:sorting>
