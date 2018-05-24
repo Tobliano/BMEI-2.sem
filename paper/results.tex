@@ -2,17 +2,8 @@
 The Tolerance for some of the subjects is not representative, as the examiner was not able to apply enough force with the algometer to reach the subjects' Tolerance, thus those subjects were excluded. 
 Therefore the results are based on 32 subjects, 15 subjects in the treatment and 17 subjects in the control group. 
 
-The Threshold and Tolerance increases for both, treatment and control group, between the measurements. The Improvement in Threshold and Tolerance is illustrated in Figure \ref{fig:barplot}. 
-
-\begin{figure}[H]
-\centering
-%\caption{} \vspace{-.25cm}
-\includegraphics[width=1\columnwidth]{../figures/barplot.png}
-\caption{Improvement for Threshold (left) and Tolerance (right) with associated standard error for treatment group (light grey) and control group (dark grey).}
-\label{fig:barplot}
-\end{figure} 
-
-The Shapiro-Wilk test showed a normal distribution ($\alpha$ > 0.05) and the Levene's test showed equal variances ($\alpha$ > 0.05) for the Threshold and Tolerance Pre and Post for both, treatment and control group. Therefore the two-way mixed ANOVA was applied. Hereby the Pre and Post measurements of Threshold and Tolerance were compared to assess the within-subjects effect. The treatment and control group were compared to assess the between-subjects effect. The results from the two-way mixed ANOVA are illustrated in Table \ref{table:TWOWAYANOVA1} for Threshold and Table \ref{table:TWOWAYANOVA2} for the Tolerance. 
+\subsection{Two-way mixed ANOVA}
+The Shapiro-Wilk test showed a normal distribution and the Levene's test showed equal variances for the Threshold and Tolerance Pre and Post for both, treatment and control group. Therefore the two-way mixed ANOVA was applied. Hereby the Pre and Post measurements of Threshold and Tolerance were compared to assess the within-subjects effect. The treatment and control group were compared to assess the between-subjects effect. The results from the two-way mixed ANOVA are illustrated in Table \ref{table:TWOWAYANOVA1} for Threshold and Table \ref{table:TWOWAYANOVA2} for the Tolerance. 
 
 \begin{table}[ht]
 \caption{Two-way mixed ANOVA for the Threshold Pre and Post for treatment and control group. P-values marked with an asterisk indicate significant difference. F-value and degree of freedom (df) are illustrated as well.}
@@ -60,7 +51,18 @@ Group & 30 & 3.289 &  0.080 \\
 \noindent
 The test indicates that there is a significant main effect between Pre and Post of the Tolerance measurements (within-subject effect, Measurement), F(1,30) = 8.981, p=0.006. However, no significant main effect is seen between the treatment and control group for Threshold (between-subjects effect, Group), F(1,30) = 3.289, p = 0.080 nor a significant main interaction between  measurements and group (within-subjects effect, Measurement x Group), F(1,30) = 0.532, p = 0.472.
 
-The Shapiro-Wilk test showed a normal distribution ($\alpha$ > 0.05). An unequal variance (p = 0.013) for the Improvement in Threshold and an equal variance for the Improvement in Tolerance was found for both groups. Therefore the t-test was applied. The results from the t-test are illustrated in Table \ref{table:TTEST}. 
+\subsection{T-test}
+The Threshold and Tolerance increases for both, treatment and control group, between the measurements. The Improvement in Threshold and Tolerance is illustrated in Figure \ref{fig:barplot}. 
+
+\begin{figure}[H]
+\centering
+%\caption{} \vspace{-.25cm}
+\includegraphics[width=1\columnwidth]{../figures/barplot.png}
+\caption{Improvement for Threshold (left) and Tolerance (right) with associated standard error for treatment group (light grey) and control group (dark grey).}
+\label{fig:barplot}
+\end{figure} 
+
+The Shapiro-Wilk test showed a normal distribution. An unequal variance for the Improvement in Threshold and an equal variance for the Improvement in Tolerance was found for both groups. Therefore the t-test was applied. The results from the t-test are illustrated in Table \ref{table:TTEST}. 
 
 \begin{table}[ht]
 \caption{T-test for Threshold and Tolerance Improvement for treatment and control group. P-values marked with an asterisk indicate significant difference. F-value and degree of
