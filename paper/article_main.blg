@@ -1,10 +1,74 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: article_main.aux
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: article_main.aux
 The style file: unsrt.bst
-Database file #1: C:/Users/tobbe/Documents/GitHub/BMEI-2.sem/setup/BMEI_2.sem.bib
-Warning--can't use both author and editor fields in Pope2017
-Warning--empty publisher in Pope2017
-Warning--can't use both author and editor fields in marcus2009
-Warning--empty publisher in marcus2009
-Warning--empty journal in Zeidan2012
-Warning--empty journal in Kinser2009
-(There were 6 warnings)
+I couldn't open database file C:/Users/tobbe/Documents/GitHub/BMEI-2.sem/setup/BMEI_2.sem.bib
+---line 79 of file article_main.aux
+ : \bibdata{C:/Users/tobbe/Documents/GitHub/BMEI-2.sem/setup/BMEI_2.sem
+ :                                                                     }
+I'm skipping whatever remains of this command
+I found no database files---while reading file article_main.aux
+Warning--I didn't find a database entry for "Macfarlanea2016"
+Warning--I didn't find a database entry for "Mello2016"
+Warning--I didn't find a database entry for "Breivik2006"
+Warning--I didn't find a database entry for "vanRanderaat2016"
+Warning--I didn't find a database entry for "Gross2013"
+Warning--I didn't find a database entry for "Pope2017"
+Warning--I didn't find a database entry for "marcus2009"
+Warning--I didn't find a database entry for "stein2007"
+Warning--I didn't find a database entry for "Zeidan2016"
+Warning--I didn't find a database entry for "Kabat1982"
+Warning--I didn't find a database entry for "Zeidan2012"
+Warning--I didn't find a database entry for "Kjogx2016"
+Warning--I didn't find a database entry for "Fischer1987"
+Warning--I didn't find a database entry for "Falla2004"
+Warning--I didn't find a database entry for "Mooi2018"
+Warning--I didn't find a database entry for "Bingel2007"
+Warning--I didn't find a database entry for "Neddermeyer2007"
+Warning--I didn't find a database entry for "Kinser2009"
+Warning--I didn't find a database entry for "Tesarz2012"
+Warning--I didn't find a database entry for "Koltyn2002"
+Warning--I didn't find a database entry for "Serinken2013"
+Warning--I didn't find a database entry for "Rosenzweig2010"
+You've used 0 entries,
+            1791 wiz_defined-function locations,
+            487 strings with 4030 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There were 2 error messages)
