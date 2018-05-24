@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  24 MAY 2018 12:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  24 MAY 2018 13:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,32 +816,33 @@ Package natbib Warning: Citation `stein2017' on page 1 undefined on input line
 
 
 ])
-(./methods.tex <../figures/studydesign_a.png, id=103, 574.145pt x 262.9825pt>
-File: ../figures/studydesign_a.png Graphic file (type png)
+(./methods.tex
+<../figures/studydesign_aa.png, id=103, 435.6275pt x 254.9525pt>
+File: ../figures/studydesign_aa.png Graphic file (type png)
 
-<use ../figures/studydesign_a.png>
-Package pdftex.def Info: ../figures/studydesign_a.png used on input line 11.
-(pdftex.def)             Requested size: 205.0023pt x 93.89915pt.
+<use ../figures/studydesign_aa.png>
+Package pdftex.def Info: ../figures/studydesign_aa.png used on input line 11.
+(pdftex.def)             Requested size: 205.0023pt x 119.97551pt.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 12.
-
-<../figures/trapezius.png, id=106, 575.2692pt x 490.4724pt>
+ [2 <../figures/studydesign_aa.png>]
+<../figures/trapezius.png, id=119, 575.2692pt x 490.4724pt>
 File: ../figures/trapezius.png Graphic file (type png)
 
 <use ../figures/trapezius.png>
 Package pdftex.def Info: ../figures/trapezius.png used on input line 26.
 (pdftex.def)             Requested size: 143.50098pt x 122.34837pt.
- [2 <../figures/studydesign_a.png>])
-(./results.tex
+) (./results.tex
 Overfull \hbox (7.76758pt too wide) in paragraph at lines 11--26
  [][] 
  []
 
-[3 <../figures/trapezius.png>]
+
 Overfull \hbox (2.76758pt too wide) in paragraph at lines 34--49
  [][] 
  []
 
+[3 <../figures/trapezius.png>]
 <../figures/barplot.png, id=133, 1209.01688pt x 641.39626pt>
 File: ../figures/barplot.png Graphic file (type png)
 
@@ -849,7 +850,7 @@ File: ../figures/barplot.png Graphic file (type png)
 Package pdftex.def Info: ../figures/barplot.png used on input line 60.
 (pdftex.def)             Requested size: 205.0023pt x 108.75209pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2875) has occurred while \output is active []
 
 )
 (./discussion.tex
@@ -895,8 +896,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
 ### bottom level 
 Here is how much of TeX's memory you used:
  11032 strings out of 493089
- 167039 string characters out of 6134843
- 302928 words of memory out of 5000000
+ 167044 string characters out of 6134843
+ 303957 words of memory out of 5000000
  13859 multiletter control sequences out of 15000+600000
  70819 words of font info for 366 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -908,7 +909,7 @@ cal/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on article_main.pdf (6 pages, 1981210 bytes).
+Output written on article_main.pdf (6 pages, 1978703 bytes).
 PDF statistics:
  197 PDF objects out of 1000 (max. 8388607)
  175 compressed objects within 2 object streams
