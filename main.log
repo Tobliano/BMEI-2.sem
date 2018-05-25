@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.21)  25 MAY 2018 09:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.21)  25 MAY 2018 10:58
 entering extended mode
 **./main.tex
 (main.tex
@@ -3709,21 +3709,7 @@ Package biblatex Info: ... file 'main.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Kjogx2016
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Perlman2016
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Serinken2013
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -3745,13 +3731,6 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                Treutwein1995
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Vaughan2007
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -3911,8 +3890,14 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
 line 5.
-Package cleveref Info: loaded `english' language definitions on input line 17.
 
+
+LaTeX Warning: Citation 'Breivik2006' on page 1 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'Breivik2006' on page 1 undefined on input line 9.
+
+Package cleveref Info: loaded `english' language definitions on input line 17.
 [1
 
 ])
@@ -3920,11 +3905,14 @@ Package cleveref Info: loaded `english' language definitions on input line 78.
  [2]
 Chapter 2.
 (contents/background/Pain2.tex
+
+LaTeX Warning: Citation 'Breivik2006' on page 3 undefined on input line 7.
+
 Package cleveref Info: loaded `english' language definitions on input line 16.
- [3
+[3
 
 ]
-<figures/pathways.png, id=201, 323.2075pt x 621.32124pt>
+<figures/pathways.png, id=197, 323.2075pt x 621.32124pt>
 File: figures/pathways.png Graphic file (type png)
 <use figures/pathways.png>
 Package pdftex.def Info: figures/pathways.png  used on input line 23.
@@ -3932,21 +3920,20 @@ Package pdftex.def Info: figures/pathways.png  used on input line 23.
 Package cleveref Info: loaded `english' language definitions on input line 27.
  [4]
 Package cleveref Info: loaded `english' language definitions on input line 35.
- [5 <./figures/pathways.png>])
-(contents/background/pain_measurement.tex
-<figures/VRS.png, id=227, 730.73pt x 41.15375pt>
+ [5 <./figures/pathways.png>]) (contents/background/pain_measurement.tex
+<figures/VRS.png, id=223, 730.73pt x 41.15375pt>
 File: figures/VRS.png Graphic file (type png)
 <use figures/VRS.png>
 Package pdftex.def Info: figures/VRS.png  used on input line 17.
 (pdftex.def)             Requested size: 227.62206pt x 12.81906pt.
-<figures/VAS.png, id=232, 629.35126pt x 97.36375pt>
+<figures/VAS.png, id=228, 629.35126pt x 97.36375pt>
 File: figures/VAS.png Graphic file (type png)
 <use figures/VAS.png>
 Package pdftex.def Info: figures/VAS.png  used on input line 25.
 (pdftex.def)             Requested size: 227.62206pt x 35.21432pt.
 Package cleveref Info: loaded `english' language definitions on input line 31.
- [6 <./figures/VRS.png> <./figures/VAS.png>]
-<figures/NRS.png, id=253, 628.3475pt x 83.31125pt>
+[6 <./figures/VRS.png> <./figures/VAS.png>]
+<figures/NRS.png, id=249, 628.3475pt x 83.31125pt>
 File: figures/NRS.png Graphic file (type png)
 <use figures/NRS.png>
 Package pdftex.def Info: figures/NRS.png  used on input line 33.
@@ -3972,14 +3959,14 @@ Package cleveref Info: loaded `english' language definitions on input line 9.
  [12]
 Package cleveref Info: loaded `english' language definitions on input line 43.
  [13]
-<figures/brain_meditation.png, id=409, 401.0985pt x 206.57175pt>
+<figures/brain_meditation.png, id=405, 401.0985pt x 206.57175pt>
 File: figures/brain_meditation.png Graphic file (type png)
 <use figures/brain_meditation.png>
 Package pdftex.def Info: figures/brain_meditation.png  used on input line 45.
 (pdftex.def)             Requested size: 409.71692pt x 211.00928pt.
 Package cleveref Info: loaded `english' language definitions on input line 56.
  [14 <./figures/brain_meditation.png>]
-<figures/stages_of_meditation.png, id=428, 442.65375pt x 121.45375pt>
+<figures/stages_of_meditation.png, id=424, 442.65375pt x 121.45375pt>
 File: figures/stages_of_meditation.png Graphic file (type png)
 <use figures/stages_of_meditation.png>
 Package pdftex.def Info: figures/stages_of_meditation.png  used on input line 6
@@ -3998,7 +3985,7 @@ Package cleveref Info: loaded `english' language definitions on input line 89.
 ]
 Chapter 4.
 (contents/Protocol.tex
-<figures/studydesign.png, id=481, 660.4675pt x 261.97874pt>
+<figures/studydesign.png, id=479, 660.4675pt x 261.97874pt>
 File: figures/studydesign.png Graphic file (type png)
 <use figures/studydesign.png>
 Package pdftex.def Info: figures/studydesign.png  used on input line 71.
@@ -4007,16 +3994,19 @@ Package cleveref Info: loaded `english' language definitions on input line 75.
  [18
 
 ]
-<figures/trapezius.png, id=493, 575.2692pt x 490.4724pt>
+<figures/trapezius.png, id=491, 575.2692pt x 490.4724pt>
 File: figures/trapezius.png Graphic file (type png)
 <use figures/trapezius.png>
 Package pdftex.def Info: figures/trapezius.png  used on input line 91.
 (pdftex.def)             Requested size: 227.62206pt x 194.0675pt.
 Package cleveref Info: loaded `english' language definitions on input line 97.
  [19 <./figures/studydesign.png> <./figures/trapezius.png>]
+
+LaTeX Warning: Reference `FAM' on page 20 undefined on input line 100.
+
 Package cleveref Info: loaded `english' language definitions on input line 115.
 
- [20])
+[20])
 Package cleveref Info: loaded `english' language definitions on input line 93.
  [21]
 Chapter 5.
@@ -4027,7 +4017,7 @@ Package cleveref Info: loaded `english' language definitions on input line 41.
 ]
 Package cleveref Info: loaded `english' language definitions on input line 88.
  [23]
-<figures/barplot.png, id=542, 1209.01688pt x 641.39626pt>
+<figures/barplot.png, id=546, 1209.01688pt x 641.39626pt>
 File: figures/barplot.png Graphic file (type png)
 <use figures/barplot.png>
 Package pdftex.def Info: figures/barplot.png  used on input line 94.
@@ -4111,15 +4101,24 @@ Package cleveref Info: loaded `english' language definitions on input line 25.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 111.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52818 strings out of 493303
- 1096144 string characters out of 3129784
- 1702136 words of memory out of 3000000
- 55370 multiletter control sequences out of 15000+200000
+ 52842 strings out of 493303
+ 1096882 string characters out of 3129784
+ 1701339 words of memory out of 3000000
+ 55390 multiletter control sequences out of 15000+200000
  661855 words of font info for 116 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,22n,92p,10455b,3175s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -4143,9 +4142,9 @@ ams/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/tobbe/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Users/tobbe/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/tobbe/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (45 pages, 2748898 bytes).
+Output written on main.pdf (45 pages, 2753184 bytes).
 PDF statistics:
- 1006 PDF objects out of 1200 (max. 8388607)
- 179 named destinations out of 1000 (max. 500000)
+ 1016 PDF objects out of 1200 (max. 8388607)
+ 183 named destinations out of 1000 (max. 500000)
  439 words of extra memory for PDF output out of 10000 (max. 10000000)
 

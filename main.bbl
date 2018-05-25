@@ -44,7 +44,7 @@
       \verb 10.7748/ns2010.09.25.2.35.c7986
       \endverb
       \verb{file}
-      \verb ::
+      \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Briggs - 2010 - Assessment and expresion of pain.pdf:pdf
       \endverb
       \verb{urlraw}
       \verb https://www.ncbi.nlm.nih.gov/pubmed/20949822
@@ -95,7 +95,7 @@
       \field{title}{{Applicability of the Nursing Outcomes Classification (NOC) to the evaluation of cancer patients with acute or chronic pain in palliative care}}
       \field{year}{2016}
       \verb{doi}
-      \verb http://dx.doi.org/10.1016/j.apnr.2015.04.001
+      \verb https://doi.org/10.1016/j.apnr.2015.04.001
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Mello, et al - 2016 - Applicability of the Nursing Outcomes Classification (NOC) to the evaluation of cancer patients with acute or chro.pdf:pdf
@@ -172,62 +172,6 @@
       \verb{file}
       \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Macfarlanea - 2016 - The epidemiology of chronic pain(3).pdf:pdf
       \endverb
-    \endentry
-    \entry{Breivik2006}{article}{}
-      \name{author}{5}{}{%
-        {{hash=b9aa21d114f449e08ee1b3fd19d5b59b}{%
-           family={Breivik},
-           familyi={B\bibinitperiod},
-           given={Harald},
-           giveni={H\bibinitperiod}}}%
-        {{hash=196f35e6cc4a6eaf380207a40b54ae50}{%
-           family={Collett},
-           familyi={C\bibinitperiod},
-           given={Beverly},
-           giveni={B\bibinitperiod}}}%
-        {{hash=85a0c3c0e9a222b83cc9e93b45591c69}{%
-           family={Ventafridda},
-           familyi={V\bibinitperiod},
-           given={Vittorio},
-           giveni={V\bibinitperiod}}}%
-        {{hash=93049f6d2ede417447d0e3e19b4ffde1}{%
-           family={Cohen},
-           familyi={C\bibinitperiod},
-           given={Rob},
-           giveni={R\bibinitperiod}}}%
-        {{hash=a6fe9827ffde93feb396c2c8e8f8bc3a}{%
-           family={Gallacher},
-           familyi={G\bibinitperiod},
-           given={Derek},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{a146f1c9bcdc31d78e48a74d356fd168}
-      \strng{fullhash}{0a779283dc7215cb045c863054c3be34}
-      \strng{bibnamehash}{a146f1c9bcdc31d78e48a74d356fd168}
-      \strng{authorbibnamehash}{a146f1c9bcdc31d78e48a74d356fd168}
-      \strng{authornamehash}{a146f1c9bcdc31d78e48a74d356fd168}
-      \strng{authorfullhash}{0a779283dc7215cb045c863054c3be34}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This large scale computer-assisted telephone survey was undertaken to explore the prevalence, severity, treatment and impact of chronic pain in 15 European countries and Israel. Screening interviews identified respondents aged ≥18 years with chronic pain for in-depth interviews. 19{\%} of 46,394 respondents willing to participate (refusal rate 46{\%}) had suffered pain for ≥6 months, had experienced pain in the last month and several times during the last week. Their pain intensity was ≥5 on a 10-point Numeric Rating Scale (NRS) (1 = no pain, 10 = worst pain imaginable) during last episode of pain. In-depth interviews with 4839 respondents with chronic pain (about 300 per country) showed: 66{\%} had moderate pain (NRS = 5-7), 34{\%} had severe pain (NRS = 8-10), 46{\%} had constant pain, 54{\%} had intermittent pain. 59{\%} had suffered with pain for two to 15 years, 21{\%} had been diagnosed with depression because of their pain, 61{\%} were less able or unable to work outside the home, 19{\%} had lost their job and 13{\%} had changed jobs because of their pain. 60{\%} visited their doctor about their pain 2-9 times in the last six months. Only 2{\%} were currently treated by a pain management specialist. One-third of the chronic pain sufferers were currently not being treated. Two-thirds used non-medication treatments, e.g,. massage (30{\%}), physical therapy (21{\%}), acupuncture (13{\%}). Almost half were taking non-prescription analgesics; 'over the counter' (OTC) NSAIDs (55{\%}), paracetamol (43{\%}), weak opioids (13{\%}). Two-thirds were taking prescription medicines: NSAIDs (44{\%}), weak opioids (23{\%}), paracetamol (18{\%}), COX-2 inhibitors (1-36{\%}), and strong opioids (5{\%}). Forty percent had inadequate management of their pain. Interesting differences between countries were observed, possibly reflecting differences in cultural background and local traditions in managing chronic pain. Conclusions: Chronic pain of moderate to severe intensity occurs in 19{\%} of adult Europeans, seriously affecting the quality of their social and working lives. Very few were managed by pain specialists and nearly half received inadequate pain management. Although differences were observed between the 16 countries, we have documented that chronic pain is a major health care problem in Europe that needs to be taken more seriously. {©} 2005 European Federation of Chapters of the International Association for the Study of Pain. Published by Elsevier Ltd. All rights reserved.}
-      \field{isbn}{1090-3801 (Print)$\backslash$n1090-3801 (Linking)}
-      \field{issn}{10903801}
-      \field{journaltitle}{European Journal of Pain}
-      \field{number}{4}
-      \field{title}{{Survey of chronic pain in Europe: Prevalence, impact on daily life, and treatment}}
-      \field{volume}{10}
-      \field{year}{2006}
-      \field{pages}{287\bibrangedash 333}
-      \range{pages}{47}
-      \verb{doi}
-      \verb 10.1016/j.ejpain.2005.06.009
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/tobbe/Downloads/Breivik{\_}et{\_}al-2006-European{\_}Journal{\_}of{\_}Pain.pdf:pdf
-      \endverb
-      \keyw{Chronic pain,Europe,Impact of pain,Survey,Treatment of pain}
     \endentry
     \entry{vanRanderaat2016}{article}{}
       \name{author}{7}{}{%
@@ -598,10 +542,16 @@
       \field{title}{{Pain as a global public health priority}}
       \field{year}{2011}
       \verb{doi}
-      \verb https://doi.org/10.1186/1471-2458-11-770
+      \verb 10.1186/1471-2458-11-770
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Goldberg, McGee - 2011 - Pain as a global public health priority.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-770
+      \endverb
+      \verb{url}
+      \verb https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-770
       \endverb
     \endentry
     \entry{Geisser2018}{article}{}
@@ -631,7 +581,7 @@
       \field{title}{{Cognitive dysfunction and pain: considerations for future research}}
       \field{year}{2018}
       \verb{doi}
-      \verb http://dx.doi.org/10.1097/j.pain.0000000000001093
+      \verb 10.1097/j.pain.0000000000001093
       \endverb
       \verb{file}
       \verb ::
@@ -659,7 +609,7 @@
       \field{title}{{The anatomy and physiology of pain}}
       \field{year}{2013}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.mpsur.2015.11.005
+      \verb 10.1016/j.mpsur.2015.11.005
       \endverb
       \verb{file}
       \verb ::
@@ -874,7 +824,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{The measurement of subjective pain intensity continues to be important to both researchers and clinicians. Although several scales are currently used to assess the intensity construct, it remains unclear which of these provides the most precise, replicable, and predictively valid measure. Five criteria for judging intensity scales have been considered in previous research: (a) ease of administration of scoring; (b) relative rates of incorrect responding; (c) sensitivity as defined by the number of available response categories; (d) sensitivity as defined by statistical power; and (e) the magnitude of the relationship between each scale and a linear combination of pain intensity indices. In order to judge commonly used pain intensity measures, 75 chronic pain patients were asked to rate 4 kinds of pain (present, least, most, and average) using 6 scales. The utility and validity of the scales was judged using the criteria listed above. The results indicate that, for the present sample, the scales yield similar results in terms of the number of subjects who respond correctly to them and their predictive validity. However, when considering the remaining 3 criteria, the 101-point numerical rating scale appears to be the most practical index. {©} 1986.}
       \field{isbn}{0304-3959 (Print)$\backslash$r0304-3959 (Linking)}
-      \field{issn}{03043959}
       \field{journaltitle}{Pain}
       \field{number}{1}
       \field{title}{{The measurement of clinical pain intensity: a comparison of six methods}}
@@ -926,13 +875,7 @@
       \field{title}{{Assessment of Chronic Pain: Domains, Methods and Mechanisms}}
       \field{year}{2016}
       \verb{doi}
-      \verb 10.1016/j.jpain.2015.08.010.
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pubmed/27586827
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pubmed/27586827
+      \verb 10.1016/j.jpain.2015.08.010
       \endverb
     \endentry
     \entry{Katz2001}{incollection}{}
@@ -1072,6 +1015,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Handbook of Optics}
       \field{chapter}{29}
+      \field{isbn}{9780198523192}
       \field{title}{{Psychophysical Methods}}
       \field{year}{2010}
       \verb{file}
@@ -1106,7 +1050,7 @@
       \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{0171-2004}
+      \field{isbn}{978-3-540-33823-9}
       \field{title}{{Analgesia}}
       \field{year}{2007}
       \verb{file}
@@ -1153,7 +1097,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A systematic review and subset meta-analysis of published randomised controlled trials of psychological therapies for children and adolescents with chronic pain is reported. A search of four computerised abstracting services recovered 123 papers from which 28 potential trials were identified. Eighteen met the criteria for inclusion in the review. The majority of these papers reported brief behavioural and cognitive behavioural interventions for children with headache and many were conducted in community (i.e. school) settings. Meta-analysis was applicable for 12 headache trials and one trial of recurrent abdominal pain using the Pain Index. The odds-ratio for a 50{\%} reduction in pain was 9.62 and the number needed to treat was 2.32, indicating that the psychological treatments examined are effective in reducing the pain of headache. The quality of the 18 trials retrieved is narratively reviewed and suggestions for the development of trials in this field are made. {©} 2002 International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.}
       \field{isbn}{0304-3959 (Print)$\backslash$r0304-3959 (Linking)}
-      \field{issn}{03043959}
       \field{journaltitle}{Pain}
       \field{number}{1-2}
       \field{title}{{Systematic review of randomised controlled trials of psychological therapy for chronic pain in children and adolescents, with a subset meta-analysis of pain relief}}
@@ -1272,9 +1215,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: Current psychological and behavioral therapies for chronic musculoskeletal pain only modestly reduce pain, disability, and distress. These limited effects may be due to the failure of current therapies: a) to help patients learn that their pain is influenced primarily by central nervous system psychological processes; and b) to enhance awareness and expression of emotions related to psychological trauma or conflict.Methods: We developed and conducted a preliminary, uncontrolled test of a novel psychological attribution and emotional awareness and expression therapy that involves an initial individual consultation followed by 4 group sessions. A series of 72 patients with chronic musculoskeletal pain had the intervention and were assessed at baseline, post-treatment, and 6-month follow-up. Results: Participation and satisfaction were high and attrition was low. Intent-to-treat analyses found significant improvements in hypothesized change processes: psychological attributions for pain, emotional awareness, emotional approach coping, and alexithymia. Pain, interference, depression, and distress showed large effect size improvements at post-treatment, which were maintained or even enhanced at 6 months. Approximately two-thirds of the patients improved at least 30{\%} in pain and other outcomes, and one-third of the patients improved 70{\%}. Changes in attribution and emotional processes predicted outcomes. Higher baseline depressive symptoms predicted greater improvements, and outcomes were comparable for patients with widespread vs. localized pain.Conclusion: This novel intervention may lead to greater benefits than available psychological interventions for patients with chronic musculoskeletal pain, but needs controlled testing.}
-      \field{eprinttype}{arXiv}
       \field{isbn}{0022-3999$\backslash$r1879-1360}
-      \field{issn}{18791360}
       \field{journaltitle}{Journal of Psychosomatic Research}
       \field{title}{{The effects of a novel psychological attribution and emotional awareness and expression therapy for chronic musculoskeletal pain: A preliminary, uncontrolled trial}}
       \field{volume}{81}
@@ -1284,17 +1225,8 @@
       \verb{doi}
       \verb 10.1016/j.jpsychores.2015.12.003
       \endverb
-      \verb{eprint}
-      \verb 15334406
-      \endverb
       \verb{file}
-      \verb :C$\backslash$:/Users/tobbe/Downloads/1-s2.0-S0022399915300192-main.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1016/j.jpsychores.2015.12.003
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1016/j.jpsychores.2015.12.003
+      \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Burger et al. - 2016 - The effects of a novel psychological attribution and emotional awareness and expression therapy for chronic muscu.pdf:pdf
       \endverb
       \keyw{Attribution,Registered at Clinicaltrials.gov (NCT00861302)}
     \endentry
@@ -1607,22 +1539,27 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The practice of mindfulness meditation was used in a 10-week Stress Reduction and Relaxation Program to train chronic pain patients in self-regulation. The meditation facilitates an attentional stance towards proprioception known as detached observation. This appears to cause an “uncoupling” of the sensory dimension of the pain experience from the affectivel evaluative alarm reaction and reduce the experience of suffering via cognitive reappraisal. Data are presented on 51 chronic pain patients who had not improved with traditional medical care. The dominant pain categories were low back, neck and shoulder, and headache. Facial pain, angina pectoris, noncoronary chest pain, and GI pain were also represented. At 10 weeks, 65{\%} of the patients showed a reduction of ≥33{\%} in the mean total Pain Rating Index (Melzack) and 50{\%} showed a reduction of ≥50{\%}. Similar decreases were recorded on other pain indices and in the number of medical symptoms reported. Large and significant reductions in mood disturbance and psychiatric symptomatology accompanied these changes and were relatively stable on follow-up. These improvements were independent of the pain category. We conclude that this form of meditation can be used as the basis for an effective behavioral program in self-regulation for chronic pain patients. Key features of the program structure, and the limitations of the present uncontrolled study are discussed.}
+      \field{issn}{01638343}
       \field{journaltitle}{General Hospital Psychiatry}
+      \field{month}{4}
       \field{number}{1}
-      \field{title}{{An Outpatient Program in Behavioral Medicine for Chronic Pain Patients Based on the Practice of Mindfulness Meditation: Theoretical Considerations and Preliminary Results}}
+      \field{title}{{An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: Theoretical considerations and preliminary results}}
       \field{volume}{4}
       \field{year}{1982}
       \field{pages}{33\bibrangedash 47}
       \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/0163-8343(82)90026-3
+      \endverb
       \verb{urlraw}
-      \verb https://doi.org/10.1016/0163-8343(82)90026-3
+      \verb http://linkinghub.elsevier.com/retrieve/pii/0163834382900263
       \endverb
       \verb{url}
-      \verb https://doi.org/10.1016/0163-8343(82)90026-3
+      \verb http://linkinghub.elsevier.com/retrieve/pii/0163834382900263
       \endverb
     \endentry
     \entry{Goyal2014}{article}{}
-      \name{author}{4}{}{%
+      \name{author}{15}{}{%
         {{hash=3f95913b03286baabac0414b9b36bd24}{%
            family={Goyal},
            familyi={G\bibinitperiod},
@@ -1643,28 +1580,92 @@
            familyi={G\bibinitperiod},
            given={Neda\bibnamedelima F.},
            giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=3c0f666410f530f69138b92aa419a2ca}{%
+           family={Rowland-Seymour},
+           familyi={R\bibinithyphendelim S\bibinitperiod},
+           given={Anastasia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=36f5de974db4fc6d878f9865f2223f2c}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Ritu},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ad597974f0bef0b078e3e8ef6d617d17}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Zackary},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c244a04d208da2ab965b69ed44222ad0}{%
+           family={Sleicher},
+           familyi={S\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod}}}%
+        {{hash=551690d01bb0fdd2eea9a357dc459547}{%
+           family={Maron},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4d5686f56b30f70ca0edce877bad82b8}{%
+           family={Shihab},
+           familyi={S\bibinitperiod},
+           given={Hasan\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=418d3f113ee618ca35b3865bbf17433d}{%
+           family={Ranasinghe},
+           familyi={R\bibinitperiod},
+           given={Padmini\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=374695ab16afcf1267640273a0ccbd00}{%
+           family={Linn},
+           familyi={L\bibinitperiod},
+           given={Shauna},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bf25ea9105babecab539c28d9fcc2891}{%
+           family={Saha},
+           familyi={S\bibinitperiod},
+           given={Shonali},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1ec1101f079fd151e3447b68cc880903}{%
+           family={Bass},
+           familyi={B\bibinitperiod},
+           given={Eric\bibnamedelima B.},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=6b8e71d5ccb417af4285ef7b7b20fdf8}{%
+           family={Haythornthwaite},
+           familyi={H\bibinitperiod},
+           given={Jennifer\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \strng{namehash}{78e68bf90b1796f12c2e1abec2204212}
-      \strng{fullhash}{fd4f5dbb4099fc2d60afa8f3a36fd4bd}
+      \strng{fullhash}{321130cad19c0a3f7ad684f446000f23}
       \strng{bibnamehash}{78e68bf90b1796f12c2e1abec2204212}
       \strng{authorbibnamehash}{78e68bf90b1796f12c2e1abec2204212}
       \strng{authornamehash}{78e68bf90b1796f12c2e1abec2204212}
-      \strng{authorfullhash}{fd4f5dbb4099fc2d60afa8f3a36fd4bd}
+      \strng{authorfullhash}{321130cad19c0a3f7ad684f446000f23}
       \field{sortinit}{8}
       \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{abstract}{Importance Many people meditate to reduce psychological stress and stress-related health problems. To counsel people appropriately, clinicians need to know what the evidence says about the health benefits of meditation. Objective To determine the efficacy of meditation programs in improving stress-related outcomes (anxiety, depression, stress/distress, positive mood, mental health–related quality of life, attention, substance use, eating habits, sleep, pain, and weight) in diverse adult clinical populations. Evidence Review We identified randomized clinical trials with active controls for placebo effects through November 2012 from MEDLINE, PsycINFO, EMBASE, PsycArticles, Scopus, CINAHL, AMED, the Cochrane Library, and hand searches. Two independent reviewers screened citations and extracted data. We graded the strength of evidence using 4 domains (risk of bias, precision, directness, and consistency) and determined the magnitude and direction of effect by calculating the relative difference between groups in change from baseline. When possible, we conducted meta-analyses using standardized mean differences to obtain aggregate estimates of effect size with 95{\%} confidence intervals. Findings After reviewing 18 753 citations, we included 47 trials with 3515 participants. Mindfulness meditation programs had moderate evidence of improved anxiety (effect size, 0.38 [95{\%} CI, 0.12-0.64] at 8 weeks and 0.22 [0.02-0.43] at 3-6 months), depression (0.30 [0.00-0.59] at 8 weeks and 0.23 [0.05-0.42] at 3-6 months), and pain (0.33 [0.03- 0.62]) and low evidence of improved stress/distress and mental health–related quality of life. We found low evidence of no effect or insufficient evidence of any effect of meditation programs on positive mood, attention, substance use, eating habits, sleep, and weight. We found no evidence that meditation programs were better than any active treatment (ie, drugs, exercise, and other behavioral therapies). Conclusions and Relevance Clinicians should be aware that meditation programs can result in small to moderate reductions of multiple negative dimensions of psychological stress. Thus, clinicians should be prepared to talk with their patients about the role that a meditation program could have in addressing psychological stress. Stronger study designs are needed to determine the effects of meditation programs in improving the positive dimensions of mental health and stress-related behavior.}
+      \field{issn}{2168-6106}
+      \field{journaltitle}{JAMA Internal Medicine}
+      \field{number}{3}
       \field{title}{{Meditation Programs for Psychological Stress and Well-being}}
       \field{volume}{174}
       \field{year}{2014}
+      \field{pages}{357}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1001/jamainternmed.2013.13018
+      \endverb
       \verb{file}
-      \verb :C$\backslash$:/Users/tobbe/Downloads/ioi130131.pdf:pdf
+      \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Goyal et al. - 2014 - Meditation Programs for Psychological Stress and Well-being(2).pdf:pdf
       \endverb
       \verb{urlraw}
-      \verb jamainternalmedicine.com
+      \verb http://archinte.jamanetwork.com/article.aspx?doi=10.1001/jamainternmed.2013.13018
       \endverb
       \verb{url}
-      \verb jamainternalmedicine.com
+      \verb http://archinte.jamanetwork.com/article.aspx?doi=10.1001/jamainternmed.2013.13018
       \endverb
     \endentry
     \entry{Tang2017}{book}{}
@@ -1769,10 +1770,10 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Pain is an unpleasant sensory and emotional experience that can be regulated by many different cognitive mechanisms. We compared the regulatory qualities of two different meditation practices during noxious thermal stimuli: Focused Attention, directed at a fixation cross away from the stimulation, which could regulate negative affect through a sensory gating mechanism; and Open Monitoring, which could regulate negative affect through a mechanism of nonjudgmental, nonreactive awareness of sensory experience. Here, we report behavioral data from a comparison between novice and long-term meditation practitioners (long-term meditators, LTMs) using these techniques. LTMs, compared to novices, had a significant reduction of self-reported unpleasantness, but not intensity, of painful stimuli while practicing Open Monitoring. No significant effects were found for FA. This finding illuminates the possible regulatory mechanism of meditation-based clinical interventions like Mindfulness-Based Stress Reduction (MBSR). Implications are discussed in the broader context of training-induced changes in trait emotion regulation.}
       \field{isbn}{1931-1516 (Electronic)$\backslash$r1528-3542 (Linking)}
-      \field{issn}{15283542}
+      \field{issn}{1931-1516}
       \field{journaltitle}{Emotion}
       \field{number}{1}
-      \field{title}{{Differential Effects on Pain Intensity and Unpleasantness of Two Meditation Practices}}
+      \field{title}{{Differential effects on pain intensity and unpleasantness of two meditation practices.}}
       \field{volume}{10}
       \field{year}{2010}
       \field{pages}{65\bibrangedash 71}
@@ -1813,7 +1814,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of mindfulness meditation is to develop present-focused, non-judgmental, attention. Therefore, experience in meditation should be associated with less anticipation and negative appraisal of pain. In this study we compared a group of individuals with meditation experience to a control group to test whether any differences in the affective appraisal of pain could be explained by lower anticipatory neural processing. Anticipatory and pain-evoked ERPs and reported pain unpleasantness were recorded in response to laser stimuli of matched subjective intensity between the two groups. ERP data were analysed after source estimation with LORETA. No group effects were found on the laser energies used to induce pain. More experienced meditators perceived the pain as less unpleasant relative to controls, with meditation experience correlating inversely with unpleasantness ratings. ERP source data for anticipation showed that in meditators, lower activity in midcingulate cortex relative to controls was related to the lower unpleasantness ratings, and was predicted by lifetime meditation experience. Meditators also reversed the normal positive correlation between medial prefrontal cortical activity and pain unpleasantness during anticipation. Meditation was also associated with lower activity in S2 and insula during the pain-evoked response, although the experiment could not disambiguate this activity from the preceding anticipation response. Our data is consistent with the hypothesis that meditation reduces the anticipation and negative appraisal of pain, but effects on pain-evoked activity are less clear and may originate from preceding anticipatory activity. Further work is required to directly test the causal relationship between meditation, pain anticipation, and pain experience. {©} 2010 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.}
       \field{isbn}{1872-6623 (Electronic)$\backslash$r0304-3959 (Linking)}
-      \field{issn}{03043959}
       \field{journaltitle}{Pain}
       \field{number}{3}
       \field{title}{{Meditation experience predicts less negative appraisal of pain: Electrophysiological evidence for the involvement of anticipatory neural responses}}
@@ -1939,20 +1939,25 @@
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{issn}{10538119}
       \field{journaltitle}{NeuroImage}
+      \field{month}{1}
       \field{title}{{Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators}}
       \field{volume}{64}
       \field{year}{2013}
       \field{pages}{538\bibrangedash 546}
       \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2012.09.030
+      \endverb
       \verb{file}
       \verb ::
       \endverb
       \verb{urlraw}
-      \verb http://dx.doi.org/10.1016/j.neuroimage.2012.09.030
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S1053811912009408
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1016/j.neuroimage.2012.09.030
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S1053811912009408
       \endverb
     \endentry
     \entry{Gard2012}{article}{}
@@ -2067,12 +2072,6 @@
       \endverb
       \verb{file}
       \verb ::
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1016/j.pain.2010.10.006
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1016/j.pain.2010.10.006
       \endverb
       \keyw{Attention,Emotion,FMRI,Meditation,Mindfulness,Pain}
     \endentry
@@ -2234,12 +2233,6 @@
       \verb{file}
       \verb :C$\backslash$:/Users/tobbe/AppData/Local/Temp/Rar{\$}DRa12172.27734/10.1186-1472-6882-12-162.pdf:pdf
       \endverb
-      \verb{urlraw}
-      \verb http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage{\&}an=00007632-200708150-00014{\%}0Ahttps://bmccomplementalternmed.biomedcentral.com/articles/10.1186/1472-6882-12-162
-      \endverb
-      \verb{url}
-      \verb http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage%7B%5C&%7Dan=00007632-200708150-00014%7B%5C%%7D0Ahttps://bmccomplementalternmed.biomedcentral.com/articles/10.1186/1472-6882-12-162
-      \endverb
       \keyw{complementary therapies,low back pain,mbsr,mindfulness-based stress reduction,review}
     \endentry
     \entry{Chiesa2010}{article}{}
@@ -2267,7 +2260,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Objectives: Chronic pain is a common disabling illness that does not completely respond to current medical treatments. As a consequence, in recent years many alternative interventions have been suggested. Among them, mindfulness-based interventions (MBIs) are receiving growing attention. The aim of the present article is to review controlled studies investigating the efficacy of MBIs for the reduction of pain and the improvement of depressive symptoms in patients suffering from chronic pain. Methods: A literature search was undertaken using MEDLINE,{®} ISI web of knowledge, the Cochrane database, and references of retrieved articles. The search included articles written in English published up to July 2009. The data were independently extracted by two reviewers from the original reports. Quality of included trials was also assessed. Results: Ten (10) studies were considered eligible for the present review. Current studies showed that MBIs could have nonspecific effects for the reduction of pain symptoms and the improvement of depressive symptoms in patients with chronic pain, while there is only limited evidence suggesting specific effects of such interventions. Further findings evidenced some improvements in psychologic measures related to chronic pain such as copying with pain following MBIs as well. Discussion: There is not yet sufficient evidence to determine the magnitude of the effects of MBIs for patients with chronic pain. Main limitations of reviewed studies include small sample size, absence of randomization, the use of a waiting list control group that does not allow distinguishing of specific from nonspecific effects of MBI as well as differences among interventions. Conclusions: However, because of these preliminary results, further research in larger properly powered and better designed studies is warranted.}
       \field{isbn}{1557-7708(Electronic);1075-5535(Print)}
-      \field{issn}{1075-5535}
       \field{journaltitle}{The Journal of Alternative and Complementary Medicine}
       \field{number}{1}
       \field{title}{{Mindfulness-Based Interventions for Chronic Pain: A Systematic Review of the Evidence}}
@@ -2280,12 +2272,6 @@
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Chiesa, Serretti - 2011 - Mindfulness-Based Interventions for Chronic Pain A Systematic Review of the Evidence.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.liebertonline.com/doi/abs/10.1089/acm.2009.0546
-      \endverb
-      \verb{url}
-      \verb http://www.liebertonline.com/doi/abs/10.1089/acm.2009.0546
       \endverb
     \endentry
     \entry{Ussher2012}{article}{}
@@ -2412,7 +2398,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Exercise interventions are deemed essential for the effective management of patients with neck pain. However, there has been a lack of consensus on optimal exercise prescription, which has resulted from a paucity of studies to quantify the precise nature of muscle impairment, in people with neck pain. This masterclass will present recent research from our laboratory, which has utilized surface electromyography to investigate cervical flexor muscle impairment in patients with chronic neck pain. This research has identified deficits in the motor control of the deep and superficial cervical flexor muscles in people with chronic neck pain, characterized by a delay in onset of neck muscle contraction associated with movement of the upper limb. In addition, people with neck pain demonstrate an altered pattern of muscle activation, which is characterized by reduced deep cervical flexor muscle activity during a low load cognitive task and increased activity of the superficial cervical flexor muscles during both cognitive tasks and functional activities. The results have demonstrated the complex, multifaceted nature of cervical muscle impairment, which exists in people with a history of neck pain. In turn, this has considerable implications for the rehabilitation of muscle function in people with neck pain disorders. {©} 2004 Elsevier Ltd. All rights reserved.}
-      \field{eprinttype}{arXiv}
       \field{isbn}{1356-689X (Print)$\backslash$r1356-689x}
       \field{issn}{1356689X}
       \field{journaltitle}{Manual Therapy}
@@ -2424,9 +2409,6 @@
       \range{pages}{9}
       \verb{doi}
       \verb 10.1016/j.math.2004.05.003
-      \endverb
-      \verb{eprint}
-      \verb NIHMS150003
       \endverb
       \verb{file}
       \verb ::
@@ -2468,32 +2450,105 @@
       \endverb
       \keyw{Muscle,Pain,Pressure}
     \endentry
-    \entry{Kinser2009}{article}{}
-      \name{author}{3}{}{%
-        {{hash=79d086af101e227cecc44100cc9885a5}{%
-           family={{Ann M. Kinser}},
-           familyi={A\bibinitperiod}}}%
-        {{hash=3b882f771dfe17a5dc9ad7ab52cbd01b}{%
-           family={{William A. Sands}},
-           familyi={W\bibinitperiod}}}%
-        {{hash=711c93fd91ca452110b7c5e347710165}{%
-           family={{Michael H. Stone}},
-           familyi={M\bibinitperiod}}}%
+    \entry{Kjogx2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ca1cfbf0f5823f2b111eca856b6540fd}{%
+           family={Kj{ø}gx},
+           familyi={K\bibinitperiod},
+           given={Heidi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=51d274850b596e095d7094427b6f3bca}{%
+           family={Kasch},
+           familyi={K\bibinitperiod},
+           given={Helge},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1e68f029b5e9f363d4c6a3b4075554cc}{%
+           family={Zachariae},
+           familyi={Z\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=facc234e631bd0bfb9716a04d5d95ba2}{%
+           family={Svensson},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fdb95058fd7e72ab3748b0ef92c08709}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Troels\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a3a1b491a085727a745ed148c95a45aa}{%
+           family={Vase},
+           familyi={V\bibinitperiod},
+           given={Lene},
+           giveni={L\bibinitperiod}}}%
       }
-      \strng{namehash}{5c59d6a8ae9bd3c09b37b012a4a49a1e}
-      \strng{fullhash}{5c59d6a8ae9bd3c09b37b012a4a49a1e}
-      \strng{bibnamehash}{5c59d6a8ae9bd3c09b37b012a4a49a1e}
-      \strng{authorbibnamehash}{5c59d6a8ae9bd3c09b37b012a4a49a1e}
-      \strng{authornamehash}{5c59d6a8ae9bd3c09b37b012a4a49a1e}
-      \strng{authorfullhash}{5c59d6a8ae9bd3c09b37b012a4a49a1e}
+      \strng{namehash}{6e55f212ab81fcc64c9478566c669446}
+      \strng{fullhash}{a116b8ed6b1ebb623ce4ffac394f317b}
+      \strng{bibnamehash}{6e55f212ab81fcc64c9478566c669446}
+      \strng{authorbibnamehash}{6e55f212ab81fcc64c9478566c669446}
+      \strng{authornamehash}{6e55f212ab81fcc64c9478566c669446}
+      \strng{authorfullhash}{a116b8ed6b1ebb623ce4ffac394f317b}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Reliability and validity of a pressure algometer}}
+      \field{abstract}{Pain catastrophizing (PC) has been related to pain levels in both patients experiencing acute or chronic pain and in healthy volunteers exposed to experimental pain. Still, it is unclear whether high levels of pain catastrophizing lead to high levels of pain or vice versa. We therefore tested whether levels of pain catastrophizing could be increased and decreased in the same participant through hypnotic suggestions and whether the altered level of situation-specific pain catastrophizing was related to increased and decreased pain levels, respectively. Using the spontaneous pain of 22 patients with chronic tension-type headache and experimentally induced pain in 22 healthy volunteers, participants were tested in 3 randomized sessions where they received 3 types of hypnotic suggestions: Negative (based on the 13 items in the Pain Catastrophizing Scale), Positive (coping-oriented reversion of the Pain Catastrophizing Scale), and Neutral (neutral sentence) hypnotic suggestions. The hypnotic suggestions significantly increased and decreased situation-specific PC in both patients and healthy volunteers (P , 0.001). Also, the levels of pain intensity and pain unpleasantness were significantly altered in both patients and healthy volunteers (P , 0.001). Furthermore, regression analyses showed that changes in pain catastrophizing predicted changes in pain in patients (R 2 5 0.204-0.304; P , 0.045) and in healthy volunteers (R 2 5 0.328-0.252; P , 0.018). This is the first study to successfully manipulate PC in positive and negative directions in both patients with chronic pain and healthy volunteers and to show that these manipulations significantly influence pain levels. These findings may have important theoretical and clinical implications.}
+      \field{journaltitle}{Pain}
+      \field{number}{6}
+      \field{title}{{Experimental manipulations of pain catastrophizing influence pain levels in patients with chronic pain and healthy volunteers}}
+      \field{volume}{157}
+      \field{year}{2016}
+      \field{pages}{1287\bibrangedash 1296}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1097/j.pain.0000000000000519
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tobbe/Downloads/00006396-201606000-00015.pdf:pdf
+      \endverb
+      \keyw{Hypnotic suggestions,Pain Catastrophizing Scale,Pain catastrophizing}
+    \endentry
+    \entry{Kinser2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6db938a77281d0e16d586a962589c541}{%
+           family={Kinser},
+           familyi={K\bibinitperiod},
+           given={Ann\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=572dfa547717542f72d1ff32a9948d13}{%
+           family={Sands},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d34412c9d365d3cdddbb67df3ac5c109}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f00f1c7d3706deed1b08ec8d8fefa1bd}
+      \strng{fullhash}{f00f1c7d3706deed1b08ec8d8fefa1bd}
+      \strng{bibnamehash}{f00f1c7d3706deed1b08ec8d8fefa1bd}
+      \strng{authorbibnamehash}{f00f1c7d3706deed1b08ec8d8fefa1bd}
+      \strng{authornamehash}{f00f1c7d3706deed1b08ec8d8fefa1bd}
+      \strng{authorfullhash}{f00f1c7d3706deed1b08ec8d8fefa1bd}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1064-8011}
+      \field{journaltitle}{Journal of Strength and Conditioning Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Reliability and Validity of a Pressure Algometer}}
+      \field{volume}{23}
       \field{year}{2009}
-      \field{pages}{2\bibrangedash 4}
+      \field{pages}{312\bibrangedash 314}
       \range{pages}{3}
+      \verb{doi}
+      \verb 10.1519/JSC.0b013e31818f051c
+      \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tobbe/Downloads/00124278-200901000-00045.pdf:pdf
       \endverb
@@ -2502,6 +2557,112 @@
       \endverb
       \verb{url}
       \verb https://www.ncbi.nlm.nih.gov/pubmed/19130648
+      \endverb
+    \endentry
+    \entry{Vaughan2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a8e6e27d9744eb7e879922d312d454e9}{%
+           family={Vaughan},
+           familyi={V\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ac66aba2db0787e5b53c01f44ce9cb1b}{%
+           family={McLaughlin},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=31efdb600a6aacd9705404d907161796}{%
+           family={Gosling},
+           familyi={G\bibinitperiod},
+           given={Cameron},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7905cdc0be71da51f3ecc501f898d322}
+      \strng{fullhash}{7905cdc0be71da51f3ecc501f898d322}
+      \strng{bibnamehash}{7905cdc0be71da51f3ecc501f898d322}
+      \strng{authorbibnamehash}{7905cdc0be71da51f3ecc501f898d322}
+      \strng{authornamehash}{7905cdc0be71da51f3ecc501f898d322}
+      \strng{authorfullhash}{7905cdc0be71da51f3ecc501f898d322}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Pressure algometry is one of a number of outcome measures that manual therapy practitioners are able to use in both clinical and research settings. The pressure algometer is used to determine the pressure pain threshold of specific muscle and bone locations. Objective: To determine the validity of a commonly utilised electronic pressure algometer. Design: A repeated measures design was used. Setting: Biomechanics Laboratory, Victoria University, Melbourne. Methods: A total of 300 measurements were collected from the electronic pressure algometer as it was applied perpendicularly to an AMTI force plate. Thirty (30) measurements were taken at five discrete rates of application; 10 kPa/s, 20 kPa/s, 30 kPa/s, 40 kPa/s and 50 kPa/s on two separate occasions. Maximum data were recorded from both the pressure algometer and force plate and analysed using the Intraclass Correlation Coefficient (ICC) statistic and the test for significant equality. Results: ICC values between the raw pressure algometer maximum values and the converted force plate data were high (ICC 0.905-0.998) for the two separate testing sessions and for both sessions combined (ICC 0.968-0.994). The test of significant equality revealed however that the data could not be considered as significantly the same even when allowing for a 5{\%} or 10{\%} tolerance. Conclusion: The results indicate that the electronic pressure algometer utilised in this study demonstrates limited validity in the laboratory setting. {©} 2007 Elsevier Ltd. All rights reserved.}
+      \field{isbn}{1746-0689}
+      \field{issn}{17460689}
+      \field{journaltitle}{International Journal of Osteopathic Medicine}
+      \field{number}{1}
+      \field{title}{{Validity of an electronic pressure algometer}}
+      \field{volume}{10}
+      \field{year}{2007}
+      \field{pages}{24\bibrangedash 28}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.ijosm.2006.12.003
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Algometry,Data correlation,Osteopathic medicine,Outcome measure,Pain measurement,Pressure,Validity}
+    \endentry
+    \entry{Noyce2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e50db6fe6a1264342a68e8bd524be70d}{%
+           family={Noyce},
+           familyi={N\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e50db6fe6a1264342a68e8bd524be70d}
+      \strng{fullhash}{e50db6fe6a1264342a68e8bd524be70d}
+      \strng{bibnamehash}{e50db6fe6a1264342a68e8bd524be70d}
+      \strng{authorbibnamehash}{e50db6fe6a1264342a68e8bd524be70d}
+      \strng{authornamehash}{e50db6fe6a1264342a68e8bd524be70d}
+      \strng{authorfullhash}{e50db6fe6a1264342a68e8bd524be70d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Focused Attention Meditation {\~{}} Sensations of Breathing (20 Minutes, 1.5 Min Intro)}}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=6bQ-gAhKa8I{\&}t=508s
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=6bQ-gAhKa8I%7B%5C&%7Dt=508s
+      \endverb
+    \endentry
+    \entry{BuddhistMusic}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ae3b4080be065ddfba145afe4f586110}{%
+           family={NuMeditationMusic},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae3b4080be065ddfba145afe4f586110}
+      \strng{fullhash}{ae3b4080be065ddfba145afe4f586110}
+      \strng{bibnamehash}{ae3b4080be065ddfba145afe4f586110}
+      \strng{authorbibnamehash}{ae3b4080be065ddfba145afe4f586110}
+      \strng{authornamehash}{ae3b4080be065ddfba145afe4f586110}
+      \strng{authorfullhash}{ae3b4080be065ddfba145afe4f586110}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Buddhist Meditation Music for Positive Energy: "Inner Self", Buddhist music, healing music 42501B}}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=U2lZIUZ{\_}ZwU{\&}t=1097s
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=U2lZIUZ%7B%5C_%7DZwU%7B%5C&%7Dt=1097s
       \endverb
     \endentry
     \entry{Shapiro1965}{article}{}
@@ -2534,11 +2695,14 @@
       \field{year}{1965}
       \field{pages}{591\bibrangedash 611}
       \range{pages}{21}
+      \verb{doi}
+      \verb 10.2307/2333709
+      \endverb
       \verb{urlraw}
-      \verb https://www.jstor.org/stable/2333709?origin=crossref{\&}seq=1{\#}page{\_}scan{\_}tab{\_}contents
+      \verb http://www.jstor.org/stable/2333709
       \endverb
       \verb{url}
-      \verb https://www.jstor.org/stable/2333709?origin=crossref%7B%5C&%7Dseq=1%7B%5C#%7Dpage%7B%5C_%7Dscan%7B%5C_%7Dtab%7B%5C_%7Dcontents
+      \verb http://www.jstor.org/stable/2333709
       \endverb
     \endentry
     \entry{Mooi2018}{incollection}{}
@@ -2584,12 +2748,6 @@
       \range{pages}{62}
       \verb{doi}
       \verb 10.1007/978-981-10-5218-7_6
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-981-10-5218-7{\_}6
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-981-10-5218-7%7B%5C_%7D6
       \endverb
     \endentry
     \entry{Bingel2007}{article}{}
@@ -2800,14 +2958,63 @@
       \verb http://link.springer.com/10.2165/00007256-200232080-00001
       \endverb
     \endentry
+    \entry{Serinken2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8e2a4943759dae300aa075ff5226b46f}{%
+           family={Serinken},
+           familyi={S\bibinitperiod},
+           given={Mehmet\bibnamedelima Akif},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2501a9515f1915d293b26e11e346808a}{%
+           family={Gen{ç}oǧlu},
+           familyi={G\bibinitperiod},
+           given={Celal},
+           giveni={C\bibinitperiod}}}%
+        {{hash=97ee0a0f937f69d7996bb2f971704651}{%
+           family={Kayatekin},
+           familyi={K\bibinitperiod},
+           given={Berkant\bibnamedelima Muammer},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{af1f234deccc316c2bf72453105ef85d}
+      \strng{fullhash}{af1f234deccc316c2bf72453105ef85d}
+      \strng{bibnamehash}{af1f234deccc316c2bf72453105ef85d}
+      \strng{authorbibnamehash}{af1f234deccc316c2bf72453105ef85d}
+      \strng{authornamehash}{af1f234deccc316c2bf72453105ef85d}
+      \strng{authorfullhash}{af1f234deccc316c2bf72453105ef85d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND: Eccentric exercise is defined as a type of exercise in which the muscle produces power by extending. In contrast to isometric and concentric exercises, eccentric muscle activity is much more effective mechanically; however, it may expose the muscle to soreness. Delayed-Onset Muscle Soreness (DOMS) emerges a couple of hours after an eccentric activity, especially in individuals who are not used to this kind of exercise, and causes a temporary decrease in muscle performance, joint movement angle and muscle power, and also a temporary increase in the blood creatine kinase (CK) activity.$\backslash$n$\backslash$nAIMS: This study investigates the effect of DOMS on the upper extremities motor performance by conducting an eccentric exercise load on the elbow flexor muscles.$\backslash$n$\backslash$nSTUDY DESIGN: Cross sectional study.$\backslash$n$\backslash$nMETHODS: The study included 10 wheelchair basketball players. First, the participants underwent blood CK activity, positioning sense, muscle pain, shooting performance measurements tests at the base, and after 30 minutes and 24 and 48 hours. Then, one week later, the one-repetition-maximums of biceps curls were determined in order to define the intensity of the eccentric exercise. An eccentric exercise protocol which would cause DOMS was applied to all players. All tests were replaced with acute exhaustive eccentric exercise; the same tests were repeated in the same order after the exercise. Blood CK activity was measured by taking an earlobe capillary blood sample. The muscle pain level was measured by using a Visual Analogue Scale (VAS). Positioning sense loss was assessed via goniometer at 30{º}, 60° and 90° degrees horizontally.$\backslash$n$\backslash$nRESULTS: The study found a statistically significant increase in blood CK activity and positioning sense loss, and a decrease in the pressure-pain threshold, as well as the shooting percentages in the exercise group when compared with the control.$\backslash$n$\backslash$nCONCLUSION: These findings suggest that DOMS negatively affects the upper extremities motor performance of wheelchair basketball players at least 48 hours after eccentric exercise.}
+      \field{isbn}{2146-3123}
+      \field{issn}{21463131}
+      \field{journaltitle}{Balkan Medical Journal}
+      \field{number}{4}
+      \field{title}{{The effect of eccentric exercise-induced delayed-onset muscle soreness on positioning sense and shooting percentage in wheelchair basketball players}}
+      \field{volume}{30}
+      \field{year}{2013}
+      \field{pages}{382\bibrangedash 386}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.5152/balkanmedj.2013.007
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tobbe/Downloads/bmj-30-4-382.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4115956/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4115956/
+      \endverb
+      \keyw{Delayed-onset muscle soreness,Positioning sense,Shooting percentage,Wheelchair basketball}
+    \endentry
   \enddatalist
-  \missing{Kjogx2016}
   \missing{Perlman2016}
-  \missing{Serinken2013}
   \missing{Sivert2007}
   \missing{Tang2014}
   \missing{Treutwein1995}
-  \missing{Vaughan2007}
   \missing{Ziedan2011}
   \missing{Ziedan2012}
   \missing{Ziedan2016}
