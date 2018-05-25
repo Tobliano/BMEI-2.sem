@@ -173,6 +173,68 @@
       \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Macfarlanea - 2016 - The epidemiology of chronic pain(3).pdf:pdf
       \endverb
     \endentry
+    \entry{Breivik2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b9aa21d114f449e08ee1b3fd19d5b59b}{%
+           family={Breivik},
+           familyi={B\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+        {{hash=196f35e6cc4a6eaf380207a40b54ae50}{%
+           family={Collett},
+           familyi={C\bibinitperiod},
+           given={Beverly},
+           giveni={B\bibinitperiod}}}%
+        {{hash=85a0c3c0e9a222b83cc9e93b45591c69}{%
+           family={Ventafridda},
+           familyi={V\bibinitperiod},
+           given={Vittorio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=93049f6d2ede417447d0e3e19b4ffde1}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a6fe9827ffde93feb396c2c8e8f8bc3a}{%
+           family={Gallacher},
+           familyi={G\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a146f1c9bcdc31d78e48a74d356fd168}
+      \strng{fullhash}{0a779283dc7215cb045c863054c3be34}
+      \strng{bibnamehash}{a146f1c9bcdc31d78e48a74d356fd168}
+      \strng{authorbibnamehash}{a146f1c9bcdc31d78e48a74d356fd168}
+      \strng{authornamehash}{a146f1c9bcdc31d78e48a74d356fd168}
+      \strng{authorfullhash}{0a779283dc7215cb045c863054c3be34}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This large scale computer-assisted telephone survey was undertaken to explore the prevalence, severity, treatment and impact of chronic pain in 15 European countries and Israel. Screening interviews identified respondents aged ≥18 years with chronic pain for in-depth interviews. 19{\%} of 46,394 respondents willing to participate (refusal rate 46{\%}) had suffered pain for ≥6 months, had experienced pain in the last month and several times during the last week. Their pain intensity was ≥5 on a 10-point Numeric Rating Scale (NRS) (1 = no pain, 10 = worst pain imaginable) during last episode of pain. In-depth interviews with 4839 respondents with chronic pain (about 300 per country) showed: 66{\%} had moderate pain (NRS = 5-7), 34{\%} had severe pain (NRS = 8-10), 46{\%} had constant pain, 54{\%} had intermittent pain. 59{\%} had suffered with pain for two to 15 years, 21{\%} had been diagnosed with depression because of their pain, 61{\%} were less able or unable to work outside the home, 19{\%} had lost their job and 13{\%} had changed jobs because of their pain. 60{\%} visited their doctor about their pain 2-9 times in the last six months. Only 2{\%} were currently treated by a pain management specialist. One-third of the chronic pain sufferers were currently not being treated. Two-thirds used non-medication treatments, e.g,. massage (30{\%}), physical therapy (21{\%}), acupuncture (13{\%}). Almost half were taking non-prescription analgesics; 'over the counter' (OTC) NSAIDs (55{\%}), paracetamol (43{\%}), weak opioids (13{\%}). Two-thirds were taking prescription medicines: NSAIDs (44{\%}), weak opioids (23{\%}), paracetamol (18{\%}), COX-2 inhibitors (1-36{\%}), and strong opioids (5{\%}). Forty percent had inadequate management of their pain. Interesting differences between countries were observed, possibly reflecting differences in cultural background and local traditions in managing chronic pain. Conclusions: Chronic pain of moderate to severe intensity occurs in 19{\%} of adult Europeans, seriously affecting the quality of their social and working lives. Very few were managed by pain specialists and nearly half received inadequate pain management. Although differences were observed between the 16 countries, we have documented that chronic pain is a major health care problem in Europe that needs to be taken more seriously. {©} 2005 European Federation of Chapters of the International Association for the Study of Pain. Published by Elsevier Ltd. All rights reserved.}
+      \field{issn}{10903801}
+      \field{journaltitle}{European Journal of Pain}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{{Survey of chronic pain in Europe: Prevalence, impact on daily life, and treatment}}
+      \field{volume}{10}
+      \field{year}{2006}
+      \field{pages}{287\bibrangedash 287}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ejpain.2005.06.009
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tobbe/Downloads/Breivik{\_}et{\_}al-2006-European{\_}Journal{\_}of{\_}Pain.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1016/j.ejpain.2005.06.009
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1016/j.ejpain.2005.06.009
+      \endverb
+      \keyw{Chronic pain,Europe,Impact of pain,Survey,Treatment of pain}
+    \endentry
     \entry{vanRanderaat2016}{article}{}
       \name{author}{7}{}{%
         {{hash=33ebce0c8952fa1d6e1a0a147001781e}{%
@@ -956,6 +1018,48 @@
       \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yarnitsky, Granot - 2006 - Neurophysiological examinations in neuropathic pain.pdf:pdf
       \endverb
     \endentry
+    \entry{Treutwein1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=31f64a0c3e50f5a696247308a10b5b6a}{%
+           family={Treutwein},
+           familyi={T\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{31f64a0c3e50f5a696247308a10b5b6a}
+      \strng{fullhash}{31f64a0c3e50f5a696247308a10b5b6a}
+      \strng{bibnamehash}{31f64a0c3e50f5a696247308a10b5b6a}
+      \strng{authorbibnamehash}{31f64a0c3e50f5a696247308a10b5b6a}
+      \strng{authornamehash}{31f64a0c3e50f5a696247308a10b5b6a}
+      \strng{authorfullhash}{31f64a0c3e50f5a696247308a10b5b6a}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Improvements in measuring thresholds, or points on a psychometric function, have advanced the field of psychophysics in the last 30 years. The arrival of laboratory computers allowed the introduction of adaptive procedures, where the presentation of the next stimulus depends on previous responses of the subject. Unfortunately, these procedures present themselves in a bewildering variety, though some of them differ only slightly. Even someone familiar with several methods cannot easily name the differences, or decide which method would be best suited for a particular application. This review tries to illuminate the historical background of adaptive procedures, explain their differences and similarities, and provide criteria for choosing among the various techniques. {©} 1995 Elsevier Science Ltd.}
+      \field{issn}{00426989}
+      \field{journaltitle}{Vision Research}
+      \field{month}{9}
+      \field{number}{17}
+      \field{title}{{Adaptive psychophysical procedures}}
+      \field{volume}{35}
+      \field{year}{1995}
+      \field{pages}{2503\bibrangedash 2522}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/0042-6989(95)00016-X
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/004269899500016X
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/004269899500016X
+      \endverb
+      \keyw{Binary responses,Efficiency,Forced-choice methods,Psychometric functions,Psychophysical threshold,Sequential estimate,Yes-no methods}
+    \endentry
     \entry{Kingdom2016}{incollection}{}
       \name{author}{2}{}{%
         {{hash=dd4fb7ee16854b016993e05176fe1144}{%
@@ -988,6 +1092,32 @@
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tobbe/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kingdom, Nicolaas - 2016 - Varieties of Psychophysical Procedures.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Sivert2007}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=95d4bf444112541eee10ec31e5c29f1e}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Christopher\bibnamedelima Sivert},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{95d4bf444112541eee10ec31e5c29f1e}
+      \strng{fullhash}{95d4bf444112541eee10ec31e5c29f1e}
+      \strng{bibnamehash}{95d4bf444112541eee10ec31e5c29f1e}
+      \strng{authorbibnamehash}{95d4bf444112541eee10ec31e5c29f1e}
+      \strng{authornamehash}{95d4bf444112541eee10ec31e5c29f1e}
+      \strng{authorfullhash}{95d4bf444112541eee10ec31e5c29f1e}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1504-3991}
+      \field{title}{{Individual differences in pain sensitivity: measurement and causation}}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+      \verb{file}
+      \verb ::
       \endverb
     \endentry
     \entry{Pelli2010}{incollection}{}
@@ -1786,55 +1916,6 @@
       \endverb
       \keyw{attention,emotion regulation,long-term meditators,meditation,mindfulness,pain regulation}
     \endentry
-    \entry{Brown2010}{article}{}
-      \name{author}{2}{}{%
-        {{hash=79f753fae9e31697b401ef03a117ce94}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Christopher\bibnamedelima A.},
-           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=12d8f2f6d6d8c37b0d0505144345b698}{%
-           family={Jones},
-           familyi={J\bibinitperiod},
-           given={Anthony\bibnamedelima K.P.},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {International Association for the Study of Pain}%
-      }
-      \strng{namehash}{fcd7ab432dea570124119066c2c80247}
-      \strng{fullhash}{fcd7ab432dea570124119066c2c80247}
-      \strng{bibnamehash}{fcd7ab432dea570124119066c2c80247}
-      \strng{authorbibnamehash}{fcd7ab432dea570124119066c2c80247}
-      \strng{authornamehash}{fcd7ab432dea570124119066c2c80247}
-      \strng{authorfullhash}{fcd7ab432dea570124119066c2c80247}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The aim of mindfulness meditation is to develop present-focused, non-judgmental, attention. Therefore, experience in meditation should be associated with less anticipation and negative appraisal of pain. In this study we compared a group of individuals with meditation experience to a control group to test whether any differences in the affective appraisal of pain could be explained by lower anticipatory neural processing. Anticipatory and pain-evoked ERPs and reported pain unpleasantness were recorded in response to laser stimuli of matched subjective intensity between the two groups. ERP data were analysed after source estimation with LORETA. No group effects were found on the laser energies used to induce pain. More experienced meditators perceived the pain as less unpleasant relative to controls, with meditation experience correlating inversely with unpleasantness ratings. ERP source data for anticipation showed that in meditators, lower activity in midcingulate cortex relative to controls was related to the lower unpleasantness ratings, and was predicted by lifetime meditation experience. Meditators also reversed the normal positive correlation between medial prefrontal cortical activity and pain unpleasantness during anticipation. Meditation was also associated with lower activity in S2 and insula during the pain-evoked response, although the experiment could not disambiguate this activity from the preceding anticipation response. Our data is consistent with the hypothesis that meditation reduces the anticipation and negative appraisal of pain, but effects on pain-evoked activity are less clear and may originate from preceding anticipatory activity. Further work is required to directly test the causal relationship between meditation, pain anticipation, and pain experience. {©} 2010 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.}
-      \field{isbn}{1872-6623 (Electronic)$\backslash$r0304-3959 (Linking)}
-      \field{journaltitle}{Pain}
-      \field{number}{3}
-      \field{title}{{Meditation experience predicts less negative appraisal of pain: Electrophysiological evidence for the involvement of anticipatory neural responses}}
-      \field{volume}{150}
-      \field{year}{2010}
-      \field{pages}{428\bibrangedash 438}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1016/j.pain.2010.04.017
-      \endverb
-      \verb{file}
-      \verb ::
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1016/j.pain.2010.04.017
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1016/j.pain.2010.04.017
-      \endverb
-      \keyw{Anticipation,Attention,EEG,LORETA,Meditation,Mindfulness,Nociception,Pain}
-    \endentry
     \entry{Zeidan2011}{article}{}
       \name{author}{6}{}{%
         {{hash=1f967ff0e0de97597ea6f029b8718d99}{%
@@ -1900,6 +1981,55 @@
       \verb{url}
       \verb http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.5791-10.2011
       \endverb
+    \endentry
+    \entry{Brown2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=79f753fae9e31697b401ef03a117ce94}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Christopher\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=12d8f2f6d6d8c37b0d0505144345b698}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Anthony\bibnamedelima K.P.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Association for the Study of Pain}%
+      }
+      \strng{namehash}{fcd7ab432dea570124119066c2c80247}
+      \strng{fullhash}{fcd7ab432dea570124119066c2c80247}
+      \strng{bibnamehash}{fcd7ab432dea570124119066c2c80247}
+      \strng{authorbibnamehash}{fcd7ab432dea570124119066c2c80247}
+      \strng{authornamehash}{fcd7ab432dea570124119066c2c80247}
+      \strng{authorfullhash}{fcd7ab432dea570124119066c2c80247}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of mindfulness meditation is to develop present-focused, non-judgmental, attention. Therefore, experience in meditation should be associated with less anticipation and negative appraisal of pain. In this study we compared a group of individuals with meditation experience to a control group to test whether any differences in the affective appraisal of pain could be explained by lower anticipatory neural processing. Anticipatory and pain-evoked ERPs and reported pain unpleasantness were recorded in response to laser stimuli of matched subjective intensity between the two groups. ERP data were analysed after source estimation with LORETA. No group effects were found on the laser energies used to induce pain. More experienced meditators perceived the pain as less unpleasant relative to controls, with meditation experience correlating inversely with unpleasantness ratings. ERP source data for anticipation showed that in meditators, lower activity in midcingulate cortex relative to controls was related to the lower unpleasantness ratings, and was predicted by lifetime meditation experience. Meditators also reversed the normal positive correlation between medial prefrontal cortical activity and pain unpleasantness during anticipation. Meditation was also associated with lower activity in S2 and insula during the pain-evoked response, although the experiment could not disambiguate this activity from the preceding anticipation response. Our data is consistent with the hypothesis that meditation reduces the anticipation and negative appraisal of pain, but effects on pain-evoked activity are less clear and may originate from preceding anticipatory activity. Further work is required to directly test the causal relationship between meditation, pain anticipation, and pain experience. {©} 2010 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.}
+      \field{isbn}{1872-6623 (Electronic)$\backslash$r0304-3959 (Linking)}
+      \field{journaltitle}{Pain}
+      \field{number}{3}
+      \field{title}{{Meditation experience predicts less negative appraisal of pain: Electrophysiological evidence for the involvement of anticipatory neural responses}}
+      \field{volume}{150}
+      \field{year}{2010}
+      \field{pages}{428\bibrangedash 438}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.pain.2010.04.017
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.pain.2010.04.017
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.pain.2010.04.017
+      \endverb
+      \keyw{Anticipation,Attention,EEG,LORETA,Meditation,Mindfulness,Nociception,Pain}
     \endentry
     \entry{Lutz2013}{article}{}
       \name{author}{5}{}{%
@@ -3011,13 +3141,6 @@
       \keyw{Delayed-onset muscle soreness,Positioning sense,Shooting percentage,Wheelchair basketball}
     \endentry
   \enddatalist
-  \missing{Perlman2016}
-  \missing{Sivert2007}
-  \missing{Tang2014}
-  \missing{Treutwein1995}
-  \missing{Ziedan2011}
-  \missing{Ziedan2012}
-  \missing{Ziedan2016}
 \endrefsection
 \endinput
 
